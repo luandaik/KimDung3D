@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/htp_login_bg_3" android:layout_width="350.0dip" android:layout_height="242.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="158.0dip">
+        <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="25.0dip">
+            <TextView android:textSize="19.0sp" android:textColor="#ff888888" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/htp_yours" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="19.0sp" android:textColor="#ff888888" android:gravity="left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_name" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="19.0sp" android:textColor="#ff888888" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/htp_yours_acpw" android:layout_centerHorizontal="true" />
+        </LinearLayout>
+        <TextView android:textSize="20.0sp" android:textColor="#ff6bb4ea" android:gravity="center" android:id="@id/htp_uname_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="85.0dip" android:layout_marginTop="10.0dip" android:text="@string/htp_account" />
+        <TextView android:textSize="20.0sp" android:textColor="#ff6bb4ea" android:gravity="center" android:id="@id/htp_upw_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="85.0dip" android:layout_marginTop="10.0dip" android:text="@string/htp_pwd" />
+        <TextView android:textSize="15.0sp" android:textColor="#ff888888" android:gravity="center" android:id="@id/ht_save_photo_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="15.0dip" android:text="@string/htp_save_photo" android:maxLines="2" android:layout_centerHorizontal="true" />
+    </LinearLayout>
+    <RelativeLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="47.0dip" android:layout_marginLeft="30.0dip" android:layout_marginTop="11.0dip" android:layout_marginRight="30.0dip">
+        <RelativeLayout android:layout_width="146.0dip" android:layout_height="47.0dip">
+            <Button android:textSize="16.0sp" android:textColor="@android:color/white" android:layout_gravity="center" android:id="@id/customer_bind_phone" android:background="@drawable/htp_blue_bt" android:layout_width="136.0dip" android:layout_height="40.0dip" android:text="@string/htp_bind_phone" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/htp_recommend_bt" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <Button android:textSize="16.0sp" android:textColor="@android:color/white" android:layout_gravity="center" android:id="@id/customer_login_enter" android:background="@drawable/htp_blue_bt" android:layout_width="136.0dip" android:layout_height="40.0dip" android:text="@string/htp_enter_game" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</LinearLayout>

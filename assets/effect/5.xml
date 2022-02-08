@@ -1,0 +1,155 @@
+<skeleton name="内伤" frameRate="24" version="2.2.3">
+  <armatures>
+    <armature name="anim">
+      <b name="图层 3" x="9.45" y="-74.4" kX="0" kY="0" cX="2.03" cY="2.03" pX="0" pY="0" z="0">
+        <d name="zzzzzz-5406354" />
+      </b>
+      <b name="图层 2" x="1.65" y="-79.65" kX="0" kY="0" cX="0.5" cY="0.5" pX="0" pY="0" z="1">
+        <d name="zzzzzz/54303544" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="zzzzzz/54303544" isLoop="loop" startFrame="1">
+      <b name="图层 3" x="0.8" y="-2.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="zzzzzz/54323054354" isArmature="1" />
+      </b>
+      <b name="vxvdgd" x="17.8" y="-27.6" kX="-21.69" kY="-21.69" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="zzzzzz/4205254" isArmature="1" />
+      </b>
+      <b name="vdxcvx b" x="24.4" y="-10" kX="40.02" kY="40.02" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="zzzzzz/4205254" isArmature="1" />
+      </b>
+      <b name="vdvvbn" x="7.2" y="-12.75" kX="73.25" kY="73.25" cX="1" cY="1" pX="-18.25" pY="10.65" z="3">
+        <d name="zzzzzz/4205254" isArmature="1" />
+      </b>
+      <b name="vdvxcvxnb" x="0.1" y="-13.45" kX="-40.69" kY="-40.69" cX="1" cY="1" pX="-17.65" pY="10.2" z="4">
+        <d name="zzzzzz/4205254" isArmature="1" />
+      </b>
+      <b name="vcxvxc" x="-1.55" y="-10.85" kX="-102.17" kY="-102.17" cX="1" cY="1" pX="-17.55" pY="10.25" z="5">
+        <d name="zzzzzz/4205254" isArmature="1" />
+      </b>
+      <b name="cxvxvx" x="-5.95" y="-6.45" kX="-179.56" kY="-179.56" cX="1" cY="1" pX="-17.55" pY="10.2" z="6">
+        <d name="zzzzzz/4205254" isArmature="1" />
+      </b>
+      <b name="gdrgdf" x="1.05" y="-1.25" kX="155.19" kY="155.19" cX="1" cY="1" pX="-17.5" pY="10.2" z="7">
+        <d name="zzzzzz/4205254" isArmature="1" />
+      </b>
+      <b name="vxcvfd" x="-9.15" y="-6.45" kX="-126.86" kY="-126.86" cX="1" cY="1" pX="-17.6" pY="10.2" z="8">
+        <d name="zzzzzz/4205254" isArmature="1" />
+      </b>
+      <b name="dwdasd" x="7.15" y="-10.4" kX="89.98" kY="89.98" cX="1" cY="1" pX="-18.25" pY="10.75" z="9">
+        <d name="zzzzzz/4205254" isArmature="1" />
+      </b>
+      <b name="图层 2" x="-0.3" y="2.55" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="10">
+        <d name="zzzzzz-543054" />
+      </b>
+    </armature>
+    <armature name="zzzzzz/54323054354" isLoop="loop" startFrame="11">
+      <b name="图层 1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="zzzzzz-4252304" />
+      </b>
+    </armature>
+    <armature name="zzzzzz/4205254" isLoop="loop" startFrame="6">
+      <b name="图层 1" x="-14.4" y="8" kX="0" kY="0" cX="0.5" cY="0.5" pX="0" pY="0" z="0">
+        <d name="zzzzzz-5430435" />
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="zzzzzz/54323054354">
+      <mov name="dadada" dr="20" to="0" drTW="20" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="10" />
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.13" cY="1.13" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="9" />
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="zzzzzz/4205254">
+      <mov name="dddwadadgg" dr="20" to="0" drTW="20" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-14.4" y="8" cocos2d_x="-14.4" cocos2d_y="8" kX="0" kY="0" cX="0.5" cY="0.5" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="9" />
+          <f x="14" y="-5.6" cocos2d_x="14" cocos2d_y="-5.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="10" />
+          <f x="20.8" y="-10" cocos2d_x="20.8" cocos2d_y="-10" kX="0" kY="0" cX="1.02" cY="1.02" fst="0" pX="0" pY="0" z="0" dI="0" dr="1" twE="NaN">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="zzzzzz/54303544">
+      <mov name="dwdad" dr="20" to="0" drTW="20" lp="1" twE="NaN">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0.8" y="-2.4" cocos2d_x="0.8" cocos2d_y="-2.4" kX="0" kY="0" cX="1" cY="1" fst="10" pX="0" pY="0" z="0" dI="0" dr="20" />
+        </b>
+        <b name="vxvdgd" sc="1" dl="0">
+          <f x="17.8" y="-27.6" cocos2d_x="17.8" cocos2d_y="-27.6" kX="-21.69" kY="-21.69" cX="1" cY="1" fst="5" pX="0" pY="0" z="1" dI="0" dr="20" />
+        </b>
+        <b name="vdxcvx b" sc="1" dl="0">
+          <f x="24.4" y="-10" cocos2d_x="24.4" cocos2d_y="-10" kX="40.02" kY="40.02" cX="1" cY="1" fst="0" pX="0" pY="0" z="2" dI="0" dr="20" />
+        </b>
+        <b name="vdvvbn" sc="1" dl="0">
+          <f x="7.2" y="-12.75" cocos2d_x="22.7" cocos2d_y="1.65" kX="73.25" kY="73.25" cX="1" cY="1" fst="10" pX="-18.25" pY="10.65" z="3" dI="0" dr="20" />
+        </b>
+        <b name="vdvxcvxnb" sc="1" dl="0">
+          <f x="0.1" y="-13.45" cocos2d_x="6.85" cocos2d_y="-32.7" kX="-40.69" kY="-40.69" cX="1" cY="1" fst="0" pX="-17.65" pY="10.2" z="4" dI="0" dr="20" />
+        </b>
+        <b name="vcxvxc" sc="1" dl="0">
+          <f x="-1.55" y="-10.85" cocos2d_x="-15.25" cocos2d_y="-25.9" kX="-102.17" kY="-102.17" cX="1" cY="1" fst="4" pX="-17.55" pY="10.25" z="5" dI="0" dr="20" />
+        </b>
+        <b name="cxvxvx" sc="1" dl="0">
+          <f x="-5.95" y="-6.45" cocos2d_x="-23.6" cocos2d_y="3.6" kX="-179.56" kY="-179.56" cX="1" cY="1" fst="2" pX="-17.55" pY="10.2" z="6" dI="0" dr="20" />
+        </b>
+        <b name="gdrgdf" sc="1" dl="0">
+          <f x="1.05" y="-1.25" cocos2d_x="-10.6" cocos2d_y="15.35" kX="155.19" kY="155.19" cX="1" cY="1" fst="0" pX="-17.5" pY="10.2" z="7" dI="0" dr="20" />
+        </b>
+        <b name="vxcvfd" sc="1" dl="0">
+          <f x="-9.15" y="-6.45" cocos2d_x="-27.85" cocos2d_y="-14.45" kX="-126.86" kY="-126.86" cX="1" cY="1" fst="0" pX="-17.6" pY="10.2" z="8" dI="0" dr="20" />
+        </b>
+        <b name="dwdasd" sc="1" dl="0">
+          <f x="7.15" y="-10.4" cocos2d_x="17.9" cocos2d_y="7.85" kX="89.98" kY="89.98" cX="1" cY="1" fst="1" pX="-18.25" pY="10.75" z="9" dI="0" dr="20" />
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-0.3" y="2.55" cocos2d_x="-0.25" cocos2d_y="2.55" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="10" dI="0" blend="normal" dr="20" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="anim">
+      <mov name="jiyun" dr="36" to="0" drTW="36" lp="0" twE="NaN">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="9.45" y="-74.4" cocos2d_x="9.45" cocos2d_y="-74.4" kX="0" kY="0" cX="2.03" cY="2.03" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="1" gM="1" bM="1" />
+          </f>
+          <f x="9.45" y="-74.4" cocos2d_x="9.45" cocos2d_y="-74.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="11.45" y="-76" cocos2d_x="11.45" cocos2d_y="-76" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="9.85" y="-73.6" cocos2d_x="9.85" cocos2d_y="-73.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="9.85" y="-75.6" cocos2d_x="9.85" cocos2d_y="-75.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="11.05" y="-74.4" cocos2d_x="11.05" cocos2d_y="-74.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="9.45" y="-75.6" cocos2d_x="9.45" cocos2d_y="-75.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="10.65" y="-76" cocos2d_x="10.65" cocos2d_y="-76" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="7" />
+          <f x="9.85" y="-75.2" cocos2d_x="9.85" cocos2d_y="-75.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="5" />
+          <f x="9.85" y="-107.2" cocos2d_x="9.85" cocos2d_y="-107.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="1" gM="1" bM="1" />
+          </f>
+          <f dr="14" dI="-1" />
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="16" dI="-1" />
+          <f x="1.65" y="-79.65" cocos2d_x="1.65" cocos2d_y="-79.65" kX="0" kY="0" cX="0.5" cY="0.5" fst="0" pX="0" pY="0" z="1" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="1" gM="1" bM="1" />
+          </f>
+          <f x="1.65" y="-79.65" cocos2d_x="1.65" cocos2d_y="-79.65" kX="0" kY="0" cX="1" cY="1" fst="6" pX="0" pY="0" z="1" dI="0" dr="14" />
+        </b>
+      </mov>
+      <mov name="xunhuan" dr="20" to="0" drTW="20" lp="1" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="1.65" y="-79.65" cocos2d_x="1.65" cocos2d_y="-79.65" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="1" dI="0" dr="20" />
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="内伤" width="256" height="128">
+    <SubTexture name="zzzzzz-5430435" width="9" height="9" x="233" y="0" cocos2d_pX="4.40" cocos2d_pY="4.40" />
+    <SubTexture name="zzzzzz-4252304" width="83" height="83" x="149" y="0" cocos2d_pX="41.00" cocos2d_pY="41.00" />
+    <SubTexture name="zzzzzz-543054" width="43" height="76" x="0" y="40" cocos2d_pX="21.25" cocos2d_pY="35.20" />
+    <SubTexture name="zzzzzz-5406354" width="148" height="39" x="0" y="0" cocos2d_pX="77.95" cocos2d_pY="20.10" />
+  </TextureAtlas>
+</skeleton>

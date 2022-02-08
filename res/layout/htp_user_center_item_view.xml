@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="35.0dip" android:layout_centerHorizontal="true">
+        <RelativeLayout android:id="@id/htp_switch_account" android:background="@drawable/htp_center_item_bg" android:layout_width="80.0dip" android:layout_height="95.0dip">
+            <RelativeLayout android:id="@id/relativeLayout" android:background="@drawable/htp_center_switch_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_centerHorizontal="true" />
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="14.0sp" android:textColor="#ff4a87b6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:text="@string/htp_user_center_switch_account" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/htp_change_pwd" android:background="@drawable/htp_center_item_bg" android:layout_width="80.0dip" android:layout_height="95.0dip" android:layout_marginLeft="30.0dip">
+            <RelativeLayout android:background="@drawable/htp_center_change_pw_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_centerHorizontal="true" />
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="14.0sp" android:textColor="#ff4a87b6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:text="@string/htp_user_center_change_pwd" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/htp_bind_phone" android:background="@drawable/htp_center_item_bg" android:visibility="visible" android:layout_width="80.0dip" android:layout_height="95.0dip" android:layout_marginLeft="30.0dip">
+            <RelativeLayout android:background="@drawable/htp_center_phone_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_centerHorizontal="true" />
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="14.0sp" android:textColor="#ff4a87b6" android:id="@id/htp_ucenter_bind_phone_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:text="@string/htp_bind_phone_title" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

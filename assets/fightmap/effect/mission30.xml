@@ -1,0 +1,594 @@
+<skeleton name="擂台场景动画" frameRate="24" version="2.2.3">
+  <armatures>
+    <armature name="anim">
+      <b name="htjtyk" x="189.3" y="-206.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dsf/htjtyk" isArmature="1" />
+      </b>
+      <b name="sdhtj" x="-16.45" y="-223.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="dsf/sdhtj" isArmature="1" />
+      </b>
+      <b name="htylul" x="-0.65" y="-196.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="dsf-htylul" />
+      </b>
+      <b name="dntgj" x="153.75" y="-190.6" kX="0" kY="0" cX="1" cY="1" pX="8.65" pY="11.1" z="3">
+        <d name="dsf/dntgj" isArmature="1" />
+      </b>
+      <b name="ftykyk" x="232.05" y="-231.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="dsf/ftykyk" isArmature="1" />
+      </b>
+      <b name="dfhrtjtyk" x="92" y="-317" kX="0" kY="0" cX="1" cY="1" pX="-148" pY="-126" z="5">
+        <d name="dsf/dfhrtjtyk" isArmature="1" />
+      </b>
+      <b name="fjtyk" x="-266.95" y="-185.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="dsf/fjtyk" isArmature="1" />
+      </b>
+      <b name="brfebhntnrt" x="-303.6" y="-180.95" kX="159.29" kY="141.84" cX="1.52" cY="2.33" pX="-90.4" pY="-0.05" z="7">
+        <d name="dsf/brfebhntnrt" isArmature="1" />
+      </b>
+      <b name="REHBSNTERNTRN" x="-581.6" y="-12.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8">
+        <d name="dsf/REHBSNTERNTRN" isArmature="1" />
+      </b>
+      <b name="brfebhntnrt0" x="-388.55" y="-212.6" kX="-179.28" kY="160.16" cX="0.83" cY="1.6" pX="-90.55" pY="0.1" z="9">
+        <d name="dsf/brfebhntnrt" isArmature="1" />
+      </b>
+      <b name="brfebhntnrt1" x="294" y="-188.95" kX="-159.29" kY="38.16" cX="1.52" cY="2.33" pX="-90.45" pY="-0.1" z="10">
+        <d name="dsf/brfebhntnrt" isArmature="1" />
+      </b>
+      <b name="REHBSNTERNTRN0" x="572" y="-20.4" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="11">
+        <d name="dsf/REHBSNTERNTRN" isArmature="1" />
+      </b>
+      <b name="brfebhntnrt2" x="311.75" y="-213.4" kX="179.28" kY="19.84" cX="0.83" cY="1.6" pX="-90.55" pY="0.1" z="12">
+        <d name="dsf/brfebhntnrt" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="dsf/htjtyk" isLoop="loop" startFrame="1">
+      <b name="tkyulksgre" x="379.5" y="-76.65" kX="-16.82" kY="-16.82" cX="0.85" cY="0.85" pX="0" pY="0" z="0">
+        <d name="dsf-dhrtfj" />
+      </b>
+      <b name="sdhrtjyu" x="34.15" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="dsf-dhrtfj" />
+      </b>
+      <b name="ghrtjty" x="-385.15" y="-40" kX="0" kY="0" cX="1" cY="1" pX="-105.6" pY="24" z="2">
+        <d name="dsf-hdrtjt" />
+      </b>
+    </armature>
+    <armature name="dsf/sdhtj" isLoop="loop" startFrame="1">
+      <b name="sahgrehrth" x="-105.2" y="-79.65" kX="9.23" kY="9.23" cX="1" cY="1" pX="93.2" pY="-48.9" z="0">
+        <d name="dsf/sahgrehrth" isArmature="1" />
+      </b>
+      <b name="berhtr" x="-102" y="-79.35" kX="10.72" kY="10.72" cX="1" cY="1" pX="92.45" pY="-79.3" z="1">
+        <d name="dsf/berhtr" isArmature="1" />
+      </b>
+      <b name="fhj" x="196.4" y="-28.6" kX="0" kY="0" cX="1" cY="1" pX="-44" pY="-51.5" z="2">
+        <d name="dsf/fhj" isArmature="1" />
+      </b>
+      <b name="gfjgkj" x="145.45" y="-27.55" kX="0" kY="0" cX="1" cY="1" pX="-47.45" pY="-54" z="3">
+        <d name="dsf/gfjgkj" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="dsf/sahgrehrth" isLoop="loop" startFrame="1">
+      <b name="fdjtk" x="16.1" y="26.2" kX="-4.85" kY="-9.24" cX="1.01" cY="0.99" pX="59.3" pY="-15.6" z="0">
+        <d name="dsf-fdjtk" />
+      </b>
+      <b name="sdhtrj" x="88.3" y="-50.4" kX="-4.85" kY="-9.24" cX="1.01" cY="0.99" pX="40.95" pY="-44.7" z="1">
+        <d name="dsf-sdhtrj" />
+      </b>
+    </armature>
+    <armature name="dsf/berhtr" isLoop="loop" startFrame="1">
+      <b name="fdhrtfj" x="35.6" y="9.35" kX="-9.05" kY="-2.63" cX="0.99" cY="1.01" pX="52" pY="-33.55" z="0">
+        <d name="dsf-fdhrtfj" />
+      </b>
+      <b name="gfjtyl" x="93.35" y="-81.55" kX="-9.05" kY="-2.63" cX="0.99" cY="1.01" pX="39.55" pY="-53.05" z="1">
+        <d name="dsf-gfjtyl" />
+      </b>
+    </armature>
+    <armature name="dsf/fhj" isLoop="loop" startFrame="1">
+      <b name="fgjtyk" x="-0.15" y="-9.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26" z="0">
+        <d name="dsf-fgjtyk" />
+      </b>
+      <b name="dfjyj" x="-47.1" y="-53.85" kX="0" kY="0" cX="1" cY="1" pX="-22.5" pY="-23.05" z="1">
+        <d name="dsf-dfjyj" />
+      </b>
+    </armature>
+    <armature name="dsf/gfjgkj" isLoop="loop" startFrame="1">
+      <b name="cjtyku" x="-17.8" y="-1" kX="0" kY="0" cX="1" cY="1" pX="-29.45" pY="-23.5" z="0">
+        <d name="dsf-cjtyku" />
+      </b>
+      <b name="sdghtj" x="-47.3" y="-53.95" kX="0" kY="0" cX="1" cY="1" pX="-14" pY="-26.5" z="1">
+        <d name="dsf-sdghtj" />
+      </b>
+    </armature>
+    <armature name="dsf/dntgj" isLoop="loop" startFrame="1">
+      <b name="dgdfh" x="-9.5" y="5.65" kX="0" kY="0" cX="1" cY="1" pX="-11.95" pY="-21.5" z="0">
+        <d name="dsf-dgdfh" />
+      </b>
+      <b name="xzsgdfj" x="-15.4" y="-60.75" kX="0" kY="0" cX="1" cY="1" pX="2" pY="-29" z="1">
+        <d name="dsf-xzsgdfj" />
+      </b>
+    </armature>
+    <armature name="dsf/ftykyk" isLoop="loop" startFrame="1">
+      <b name="dshtj" x="-56.6" y="-29.95" kX="12.56" kY="6.11" cX="1.01" cY="1" pX="-32.9" pY="-12.2" z="0">
+        <d name="dsf-dshtj" />
+      </b>
+      <b name="jtyk" x="-1.45" y="-3.25" kX="12.56" kY="6.11" cX="1.01" cY="1" pX="-15.05" pY="-11.55" z="1">
+        <d name="dsf-jtyk" />
+      </b>
+      <b name="gfkyu l" x="25.1" y="21.7" kX="12.56" kY="6.11" cX="1.01" cY="1" pX="-10.15" pY="-12.7" z="2">
+        <d name="dsf-gfkyu l" />
+      </b>
+    </armature>
+    <armature name="dsf/dfhrtjtyk" isLoop="loop" startFrame="1">
+      <b name="sdhrtjy" x="-157.75" y="-93.25" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="0">
+        <d name="dsf/sdhrtjy" isArmature="1" />
+      </b>
+      <b name="dsgrtjy" x="-37.15" y="-89.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1">
+        <d name="dsf/dsgrtjy" isArmature="1" />
+      </b>
+      <b name="dshrt jy" x="143.6" y="103.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="dsf-dshrt jy" />
+      </b>
+      <b name="sgaethjtysdge" x="-10.45" y="1.3" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="3">
+        <d name="dsf-sdbvgnh" />
+      </b>
+      <b name="fdhrtfgkjy" x="-141.75" y="-127.15" kX="-45" kY="-45" cX="1" cY="1.01" pX="-2.05" pY="-82.05" z="4">
+        <d name="dsf-fdhrtfgkjy" />
+      </b>
+      <b name="rtjtyku" x="112.3" y="98.45" kX="-45" kY="-45" cX="1" cY="1" pX="16.95" pY="74.55" z="5">
+        <d name="dsf-rtjtyku" />
+      </b>
+    </armature>
+    <armature name="dsf/sdhrtjy" isLoop="loop" startFrame="1">
+      <b name="gfjyghk" x="-17.7" y="-35.1" kX="0" kY="0" cX="1" cY="1" pX="-6.4" pY="-13.65" z="0">
+        <d name="dsf-gfjyghk" />
+      </b>
+      <b name="dfnjtmkyuh" x="-7.15" y="-9.7" kX="0" kY="0" cX="1" cY="1" pX="-10" pY="-20.8" z="1">
+        <d name="dsf-dfnjtmkyuh" />
+      </b>
+    </armature>
+    <armature name="dsf/dsgrtjy" isLoop="loop" startFrame="1">
+      <b name="sdghrtjy" x="-51.85" y="-40.15" kX="0" kY="0" cX="1" cY="1" pX="-12.8" pY="-20.4" z="0">
+        <d name="dsf-sdghrtjy" />
+      </b>
+      <b name="fjhtyku" x="-22.45" y="-6.2" kX="0" kY="0" cX="1" cY="1" pX="-30.4" pY="-13.2" z="1">
+        <d name="dsf-fjhtyku" />
+      </b>
+    </armature>
+    <armature name="dsf/fjtyk" isLoop="loop" startFrame="1">
+      <b name="sdhtjyk" x="-166.4" y="101.75" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="0">
+        <d name="dsf-sdhtjyk" />
+      </b>
+      <b name="shrtk" x="140.6" y="-134.25" kX="0" kY="0" cX="1" cY="1" pX="38" pY="-27" z="1">
+        <d name="dsf/shrtk" isArmature="1" />
+      </b>
+      <b name="asdgrehtyjy" x="35.05" y="6.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="dsf-dhrtj" />
+      </b>
+      <b name="weyrtku" x="173.55" y="-128.1" kX="59.94" kY="59.94" cX="1" cY="1" pX="-35.95" pY="-93" z="3">
+        <d name="dsf-weyrtku" />
+      </b>
+      <b name="dfjtykuyk" x="-138.4" y="107.65" kX="59.94" kY="59.94" cX="1" cY="1" pX="-7.4" pY="113.9" z="4">
+        <d name="dsf-dfjtykuyk" />
+      </b>
+      <b name="dfjtykul" x="193.6" y="-138.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-53" z="5">
+        <d name="dsf/dshtrjy" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="dsf/shrtk" isLoop="loop" startFrame="1">
+      <b name="dsghrtjy" x="18.85" y="-11.55" kX="0" kY="0" cX="1" cY="1" pX="33.35" pY="-13.95" z="0">
+        <d name="dsf-dsghrtjy" />
+      </b>
+      <b name="nghsdg" x="34.5" y="-26.8" kX="0" kY="0" cX="1" cY="1" pX="9" pY="-15.05" z="1">
+        <d name="dsf-nghsdg" />
+      </b>
+    </armature>
+    <armature name="dsf/dshtrjy" isLoop="loop" startFrame="1">
+      <b name="ulkuili" x="0" y="-21.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-28" z="0">
+        <d name="dsf-ulkuili" />
+      </b>
+      <b name="dsgerh" x="2.05" y="-49.6" kX="0" kY="0" cX="1" cY="1" pX="2" pY="-16.55" z="1">
+        <d name="dsf-dsgerh" />
+      </b>
+    </armature>
+    <armature name="dsf/brfebhntnrt" isLoop="loop" startFrame="125">
+      <b name="asdhrtjyu" x="-0.05" y="-0.05" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="-0.05" z="0">
+        <d name="dsf-BV FDREHNSRTNRTNR" />
+      </b>
+    </armature>
+    <armature name="dsf/REHBSNTERNTRN" isLoop="loop" startFrame="1">
+      <b name="BFDRTGBNRTNRT" x="66.4" y="5.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dsf/BFDRTGBNRTNRT" isArmature="1" />
+      </b>
+      <b name="BFDRTGBNRTNRT0" x="-5.6" y="-5.4" kX="180" kY="180" cX="2.54" cY="1" pX="0" pY="0" z="1">
+        <d name="dsf/BFDRTGBNRTNRT" isArmature="1" />
+      </b>
+      <b name="BFDRTGBNRTNRT1" x="57.9" y="-22.2" kX="-152.28" kY="0" cX="0.89" cY="0.44" pX="0" pY="0" z="2">
+        <d name="dsf/BFDRTGBNRTNRT" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="dsf/BFDRTGBNRTNRT" isLoop="loop" startFrame="1">
+      <b name="sdgbdfhngykyu" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dsf-BRFEFBHNRTNRTDBSRBR" />
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="dsf/htjtyk">
+      <mov name="gdjyli" dr="250" to="0" drTW="250" lp="1" twE="NaN">
+        <b name="tkyulksgre" sc="1" dl="0">
+          <f x="379.5" y="-76.65" cocos2d_x="379.5" cocos2d_y="-76.65" kX="-16.82" kY="-16.82" cX="0.85" cY="0.85" pX="0" pY="0" z="0" dI="0" dr="100" />
+          <f x="379.5" y="-76.65" cocos2d_x="379.5" cocos2d_y="-76.65" kX="-16.82" kY="-16.82" cX="0.85" cY="0.85" pX="0" pY="0" z="0" dI="0" twE="0" dr="149" />
+          <f x="263.4" y="-42.9" cocos2d_x="263.4" cocos2d_y="-42.9" kX="-16.82" kY="-16.82" cX="0.85" cY="0.85" pX="0" pY="0" z="0" dI="0" dr="1" twE="NaN" />
+        </b>
+        <b name="sdhrtjyu" sc="1" dl="0">
+          <f x="34.15" y="0" cocos2d_x="34.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="17" />
+          <f x="33.35" y="0" cocos2d_x="33.35" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="174" />
+          <f x="-110.6" y="0" cocos2d_x="-110.6" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="59" />
+        </b>
+        <b name="ghrtjty" sc="1" dl="0">
+          <f x="-385.15" y="-40" cocos2d_x="-279.55" cocos2d_y="-64" kX="0" kY="0" cX="1" cY="1" pX="-105.6" pY="24" z="2" dI="0" twE="0" dr="249" />
+          <f x="-206.4" y="-40" cocos2d_x="-100.8" cocos2d_y="-64" kX="0" kY="0" cX="1" cY="1" pX="-105.6" pY="24" z="2" dI="0" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/sahgrehrth">
+      <mov name="ykuli" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="fdjtk" sc="1" dl="0">
+          <f x="16.1" y="26.2" cocos2d_x="-41.65" cocos2d_y="51.3" kX="-4.85" kY="-9.24" cX="1.01" cY="0.99" fst="0" pX="59.3" pY="-15.6" z="0" dI="0" twE="0" dr="11" />
+          <f x="17.35" y="11.95" cocos2d_x="-46.5" cocos2d_y="25.3" kX="19.61" kY="0.08" cX="1" cY="0.94" fst="0" pX="58.85" pY="-15.15" z="0" dI="0" twE="0" dr="21" />
+          <f x="30.75" y="22.65" cocos2d_x="-38.9" cocos2d_y="38.05" kX="44.05" kY="-1.1" cX="0.94" cY="1.31" fst="0" pX="59.35" pY="-15.15" z="0" dI="0" twE="0" dr="17" />
+          <f x="16.1" y="26.2" cocos2d_x="-41.65" cocos2d_y="51.3" kX="-4.85" kY="-9.24" cX="1.01" cY="0.99" fst="0" pX="59.3" pY="-15.6" z="0" dI="0" twE="0" dr="1" />
+        </b>
+        <b name="sdhtrj" sc="1" dl="0">
+          <f x="88.3" y="-50.4" cocos2d_x="51.3" cocos2d_y="0.55" kX="-4.85" kY="-9.24" cX="1.01" cY="0.99" fst="0" pX="40.95" pY="-44.7" z="1" dI="0" twE="0" dr="11" />
+          <f x="88.3" y="-50.35" cocos2d_x="45.6" cocos2d_y="-6.2" kX="2.08" kY="-3.66" cX="1.01" cY="0.93" fst="0" pX="40.95" pY="-44.6" z="1" dI="0" twE="0" dr="21" />
+          <f x="90.1" y="-50.4" cocos2d_x="50.25" cocos2d_y="0.15" kX="-0.57" kY="-16.92" cX="1.02" cY="0.86" fst="0" pX="41.1" pY="-44.6" z="1" dI="0" twE="0" dr="17" />
+          <f x="88.3" y="-50.4" cocos2d_x="51.3" cocos2d_y="0.55" kX="-4.85" kY="-9.24" cX="1.01" cY="0.99" fst="0" pX="40.95" pY="-44.7" z="1" dI="0" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/berhtr">
+      <mov name="jtykyu" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="fdhrtfj" sc="1" dl="0">
+          <f x="35.6" y="9.35" cocos2d_x="-10.6" cocos2d_y="45.3" kX="-9.05" kY="-2.63" cX="0.99" cY="1.01" fst="0" pX="52" pY="-33.55" z="0" dI="0" twE="0" dr="25" />
+          <f x="25.15" y="-3" cocos2d_x="-28.35" cocos2d_y="17.7" kX="-9.45" kY="4.96" cX="1.12" cY="0.78" fst="0" pX="51.9" pY="-33.45" z="0" dI="0" twE="0" dr="24" />
+          <f x="37.4" y="9" cocos2d_x="-8.8" cocos2d_y="44.95" kX="-9.05" kY="-2.63" cX="0.99" cY="1.01" fst="0" pX="52" pY="-33.55" z="0" dI="0" twE="0" dr="1" />
+        </b>
+        <b name="gfjtyl" sc="1" dl="0">
+          <f x="93.35" y="-81.55" cocos2d_x="62.6" cocos2d_y="-26.6" kX="-9.05" kY="-2.63" cX="0.99" cY="1.01" fst="0" pX="39.55" pY="-53.05" z="1" dI="0" twE="0" dr="25" />
+          <f x="93.6" y="-82" cocos2d_x="57.4" cocos2d_y="-32.05" kX="-3.72" kY="4.41" cX="1.01" cY="1" fst="0" pX="39.45" pY="-53" z="1" dI="0" twE="0" dr="24" />
+          <f x="93.35" y="-81.55" cocos2d_x="62.6" cocos2d_y="-26.6" kX="-9.05" kY="-2.63" cX="0.99" cY="1.01" fst="0" pX="39.55" pY="-53.05" z="1" dI="0" twE="0" dr="1" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/fhj">
+      <mov name="hykuli" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="fgjtyk" sc="1" dl="0">
+          <f x="-0.15" y="-9.95" cocos2d_x="-0.15" cocos2d_y="16.05" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="-26" z="0" dI="0" twE="0" dr="11" />
+          <f x="3.95" y="-27.8" cocos2d_x="4.4" cocos2d_y="-1.15" kX="-1.07" kY="-8.21" cX="0.98" cY="1.03" fst="0" pX="0.1" pY="-26" z="0" dI="0" twE="0" dr="22" />
+          <f x="-6.65" y="-22.7" cocos2d_x="6.45" cocos2d_y="-0.15" kX="-30.34" kY="-33.08" cX="0.87" cY="1.01" fst="0" pX="0.05" pY="-25.9" z="0" dI="0" twE="0" dr="16" />
+          <f x="-0.15" y="-9.95" cocos2d_x="-0.15" cocos2d_y="16.05" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="-26" z="0" dI="0" dr="1" twE="NaN" />
+        </b>
+        <b name="dfjyj" sc="1" dl="0">
+          <f x="-47.1" y="-53.85" cocos2d_x="-24.6" cocos2d_y="-30.8" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-22.5" pY="-23.05" z="1" dI="0" twE="0" dr="11" />
+          <f x="-46.65" y="-55.7" cocos2d_x="-20.65" cocos2d_y="-39.1" kX="-11.12" kY="-15.89" cX="1" cY="1.01" fst="0" pX="-22.5" pY="-23" z="1" dI="0" twE="0" dr="22" />
+          <f x="-48.4" y="-56.3" cocos2d_x="-25.5" cocos2d_y="-37.95" kX="-0.85" kY="-11.2" cX="1.02" cY="0.99" fst="0" pX="-22.4" pY="-23" z="1" dI="0" twE="0" dr="16" />
+          <f x="-47.1" y="-53.85" cocos2d_x="-24.6" cocos2d_y="-30.8" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-22.5" pY="-23.05" z="1" dI="0" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/gfjgkj">
+      <mov name="sdhtyku" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="cjtyku" sc="1" dl="0">
+          <f x="-17.8" y="-1" cocos2d_x="11.65" cocos2d_y="22.5" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-29.45" pY="-23.5" z="0" dI="0" twE="0" dr="11" />
+          <f x="-0.05" y="-5.95" cocos2d_x="30.65" cocos2d_y="12.85" kX="-0.63" kY="-1.83" cX="1.04" cY="0.84" fst="0" pX="-29.45" pY="-23.65" z="0" dI="0" twE="0" dr="21" />
+          <f x="-9.5" y="6.4" cocos2d_x="19.1" cocos2d_y="15.2" kX="-14.81" kY="-24.45" cX="0.87" cY="0.85" fst="0" pX="-29.45" pY="-23.7" z="0" dI="0" twE="0" dr="17" />
+          <f x="-17.8" y="-1" cocos2d_x="11.65" cocos2d_y="22.5" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-29.45" pY="-23.5" z="0" dI="0" dr="1" twE="NaN" />
+        </b>
+        <b name="sdghtj" sc="1" dl="0">
+          <f x="-47.3" y="-53.95" cocos2d_x="-33.3" cocos2d_y="-27.45" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-14" pY="-26.5" z="1" dI="0" twE="0" dr="11" />
+          <f x="-45.95" y="-53.95" cocos2d_x="-23.85" cocos2d_y="-29.15" kX="-18.1" kY="-10.37" cX="0.96" cY="1.08" fst="0" pX="-14.05" pY="-26.6" z="1" dI="0" twE="0" dr="21" />
+          <f x="-46.45" y="-54.5" cocos2d_x="-28.4" cocos2d_y="-25.85" kX="-2.37" kY="9.24" cX="1.23" cY="0.97" fst="0" pX="-14" pY="-26.65" z="1" dI="0" twE="0" dr="17" />
+          <f x="-47.3" y="-53.95" cocos2d_x="-33.3" cocos2d_y="-27.45" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-14" pY="-26.5" z="1" dI="0" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/sdhtj">
+      <mov name="htyli" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="sahgrehrth" sc="1" dl="0">
+          <f x="-105.2" y="-79.65" cocos2d_x="-205.05" cocos2d_y="-46.3" kX="9.23" kY="9.23" cX="1" cY="1" fst="0" pX="93.2" pY="-48.9" z="0" dI="0" dr="50" />
+        </b>
+        <b name="berhtr" sc="1" dl="0">
+          <f x="-102" y="-79.35" cocos2d_x="-207.6" cocos2d_y="-18.6" kX="10.72" kY="10.72" cX="1" cY="1" fst="0" pX="92.45" pY="-79.3" z="1" dI="0" dr="50" />
+        </b>
+        <b name="fhj" sc="1" dl="0">
+          <f x="196.4" y="-28.6" cocos2d_x="240.4" cocos2d_y="22.9" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-44" pY="-51.5" z="2" dI="0" dr="50" />
+        </b>
+        <b name="gfjgkj" sc="1" dl="0">
+          <f x="145.45" y="-27.55" cocos2d_x="192.9" cocos2d_y="26.45" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-47.45" pY="-54" z="3" dI="0" dr="50" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/dntgj">
+      <mov name="dshyy" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="dgdfh" sc="1" dl="0">
+          <f x="-9.5" y="5.65" cocos2d_x="2.45" cocos2d_y="27.15" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-11.95" pY="-21.5" z="0" dI="0" twE="0" dr="11" />
+          <f x="7.75" y="3.25" cocos2d_x="25.15" cocos2d_y="22.45" kX="-14.82" kY="-7.99" cX="1" cY="1" fst="0" pX="-12" pY="-21.45" z="0" dI="0" twE="0" dr="21" />
+          <f x="7.2" y="-0.8" cocos2d_x="25.95" cocos2d_y="11.7" kX="-30.86" kY="-32.17" cX="0.8" cY="0.96" fst="0" pX="-12.05" pY="-21.45" z="0" dI="0" twE="0" dr="17" />
+          <f x="-9.5" y="5.65" cocos2d_x="2.45" cocos2d_y="27.15" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-11.95" pY="-21.5" z="0" dI="0" dr="1" twE="NaN" />
+        </b>
+        <b name="xzsgdfj" sc="1" dl="0">
+          <f x="-15.4" y="-60.75" cocos2d_x="-17.4" cocos2d_y="-31.75" kX="0" kY="0" cX="1" cY="1" fst="0" pX="2" pY="-29" z="1" dI="0" twE="0" dr="11" />
+          <f x="-15" y="-60.45" cocos2d_x="-9.55" cocos2d_y="-32" kX="-14.82" kY="-7.99" cX="1" cY="1" fst="0" pX="2.05" pY="-29" z="1" dI="0" twE="0" dr="21" />
+          <f x="-16.65" y="-60.3" cocos2d_x="-9.6" cocos2d_y="-31.2" kX="-17.44" kY="-8.24" cX="0.99" cY="1.04" fst="0" pX="2.1" pY="-28.95" z="1" dI="0" twE="0" dr="17" />
+          <f x="-15.4" y="-60.75" cocos2d_x="-17.4" cocos2d_y="-31.75" kX="0" kY="0" cX="1" cY="1" fst="0" pX="2" pY="-29" z="1" dI="0" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/ftykyk">
+      <mov name="dhytlk" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="dshtj" sc="1" dl="0">
+          <f x="-56.6" y="-29.95" cocos2d_x="-26.35" cocos2d_y="-14.5" kX="12.56" kY="6.11" cX="1.01" cY="1" fst="0" pX="-32.9" pY="-12.2" z="0" dI="0" twE="0" dr="12" />
+          <f x="-55.65" y="-29.25" cocos2d_x="-22.7" cocos2d_y="-17.85" kX="0" kY="2.02" cX="1" cY="0.84" fst="0" pX="-32.95" pY="-12.25" z="0" dI="0" twE="0" dr="20" />
+          <f x="-56.95" y="-28.85" cocos2d_x="-25.4" cocos2d_y="-17.55" kX="7.21" kY="0.33" cX="1" cY="0.93" fst="0" pX="-32.95" pY="-12.1" z="0" dI="0" twE="0" dr="17" />
+          <f x="-56.6" y="-29.95" cocos2d_x="-26.35" cocos2d_y="-14.5" kX="12.56" kY="6.11" cX="1.01" cY="1" fst="0" pX="-32.9" pY="-12.2" z="0" dI="0" twE="0" dr="1" />
+        </b>
+        <b name="jtyk" sc="1" dl="0">
+          <f x="-1.45" y="-3.25" cocos2d_x="11.1" cocos2d_y="9.65" kX="12.56" kY="6.11" cX="1.01" cY="1" fst="0" pX="-15.05" pY="-11.55" z="1" dI="0" twE="0" dr="12" />
+          <f x="2.85" y="-10.6" cocos2d_x="18.2" cocos2d_y="-2.3" kX="0" kY="-5.25" cX="1.03" cY="0.84" fst="0" pX="-14.95" pY="-11.6" z="1" dI="0" twE="0" dr="20" />
+          <f x="-0.75" y="-11.2" cocos2d_x="13.55" cocos2d_y="-6.55" kX="-0.45" kY="-22.68" cX="1.04" cY="0.92" fst="0" pX="-14.8" pY="-11.45" z="1" dI="0" twE="0" dr="17" />
+          <f x="-1.45" y="-3.25" cocos2d_x="11.1" cocos2d_y="9.65" kX="12.56" kY="6.11" cX="1.01" cY="1" fst="0" pX="-15.05" pY="-11.55" z="1" dI="0" twE="0" dr="1" />
+        </b>
+        <b name="gfkyu l" sc="1" dl="0">
+          <f x="25.1" y="21.7" cocos2d_x="32.55" cocos2d_y="35.2" kX="12.56" kY="6.11" cX="1.01" cY="1" fst="0" pX="-10.15" pY="-12.7" z="2" dI="0" twE="0" dr="12" />
+          <f x="34.85" y="4.95" cocos2d_x="45.35" cocos2d_y="14.6" kX="0" kY="-5.25" cX="1.03" cY="0.84" fst="0" pX="-10.25" pY="-12.75" z="2" dI="0" twE="0" dr="20" />
+          <f x="26.35" y="-3.7" cocos2d_x="38.65" cocos2d_y="2.75" kX="-13.48" kY="-32.4" cX="1.05" cY="1.01" fst="0" pX="-10.5" pY="-12.6" z="2" dI="0" twE="0" dr="17" />
+          <f x="25.1" y="21.7" cocos2d_x="32.55" cocos2d_y="35.2" kX="12.56" kY="6.11" cX="1.01" cY="1" fst="0" pX="-10.15" pY="-12.7" z="2" dI="0" twE="0" dr="1" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/sdhrtjy">
+      <mov name="htykuyli" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="gfjyghk" sc="1" dl="0">
+          <f x="-17.7" y="-35.1" cocos2d_x="-11.3" cocos2d_y="-21.45" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-6.4" pY="-13.65" z="0" dI="0" twE="0" dr="11" />
+          <f x="-17.85" y="-36.6" cocos2d_x="-11.05" cocos2d_y="-24.1" kX="-2.41" kY="-12.96" cX="1" cY="1.02" fst="0" pX="-6.45" pY="-13.7" z="0" dI="0" twE="0" dr="21" />
+          <f x="-18" y="-36.4" cocos2d_x="-11.65" cocos2d_y="-23.45" kX="-0.27" kY="-13.33" cX="1.01" cY="1.06" fst="0" pX="-6.4" pY="-13.65" z="0" dI="0" twE="0" dr="17" />
+          <f x="-17.7" y="-35.1" cocos2d_x="-11.3" cocos2d_y="-21.45" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-6.4" pY="-13.65" z="0" dI="0" dr="1" twE="NaN" />
+        </b>
+        <b name="dfnjtmkyuh" sc="1" dl="0">
+          <f x="-7.15" y="-9.7" cocos2d_x="2.85" cocos2d_y="11.1" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-10" pY="-20.8" z="1" dI="0" twE="0" dr="11" />
+          <f x="-6.5" y="-13.05" cocos2d_x="4.95" cocos2d_y="5.6" kX="-4.67" kY="-12.96" cX="1" cY="1.01" fst="0" pX="-10" pY="-20.7" z="1" dI="0" twE="0" dr="21" />
+          <f x="-8.45" y="-13.25" cocos2d_x="5" cocos2d_y="1.8" kX="-12.94" kY="-28.14" cX="1.01" cY="0.98" fst="0" pX="-10" pY="-20.75" z="1" dI="0" twE="0" dr="17" />
+          <f x="-7.15" y="-9.7" cocos2d_x="2.85" cocos2d_y="11.1" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-10" pY="-20.8" z="1" dI="0" twE="0" dr="1" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/dsgrtjy">
+      <mov name="jgdsr" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="sdghrtjy" sc="1" dl="0">
+          <f x="-51.85" y="-40.15" cocos2d_x="-39.05" cocos2d_y="-19.75" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-12.8" pY="-20.4" z="0" dI="0" twE="0" dr="11" />
+          <f x="-52.1" y="-41.5" cocos2d_x="-37.1" cocos2d_y="-21.95" kX="-6.38" kY="-3.84" cX="0.99" cY="1.01" fst="0" pX="-12.8" pY="-20.4" z="0" dI="0" twE="0" dr="21" />
+          <f x="-52.6" y="-40.85" cocos2d_x="-41.15" cocos2d_y="-20.3" kX="4.05" kY="-2.18" cX="1.01" cY="1.03" fst="0" pX="-12.9" pY="-20.5" z="0" dI="0" twE="0" dr="17" />
+          <f x="-51.85" y="-40.15" cocos2d_x="-39.05" cocos2d_y="-19.75" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-12.8" pY="-20.4" z="0" dI="0" dr="1" twE="NaN" />
+        </b>
+        <b name="fjhtyku" sc="1" dl="0">
+          <f x="-22.45" y="-6.2" cocos2d_x="7.95" cocos2d_y="7" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-30.4" pY="-13.2" z="1" dI="0" twE="0" dr="11" />
+          <f x="-19.2" y="-9.65" cocos2d_x="12.4" cocos2d_y="1.5" kX="-6.38" kY="-3.84" cX="0.99" cY="1.01" fst="0" pX="-30.35" pY="-13.25" z="1" dI="0" twE="0" dr="21" />
+          <f x="-26.25" y="-8.05" cocos2d_x="5.2" cocos2d_y="-1.95" kX="-3.08" kY="-12.85" cX="1.04" cY="1" fst="0" pX="-30.3" pY="-13.1" z="1" dI="0" twE="0" dr="17" />
+          <f x="-22.45" y="-6.2" cocos2d_x="7.95" cocos2d_y="7" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-30.4" pY="-13.2" z="1" dI="0" twE="0" dr="1" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/dfhrtjtyk">
+      <mov name="hyinhfgk" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="sdhrtjy" sc="1" dl="0">
+          <f x="-157.75" y="-93.25" cocos2d_x="-157.7" cocos2d_y="-93.25" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-0.05" pY="0" z="0" dI="0" dr="50" />
+        </b>
+        <b name="dsgrtjy" sc="1" dl="0">
+          <f x="-37.15" y="-89.7" cocos2d_x="-37.15" cocos2d_y="-89.65" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="-0.05" z="1" dI="0" dr="50" />
+        </b>
+        <b name="dshrt jy" sc="1" dl="0">
+          <f x="143.6" y="103.15" cocos2d_x="143.6" cocos2d_y="103.15" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="2" dI="0" dr="50" />
+        </b>
+        <b name="sgaethjtysdge" sc="1" dl="0">
+          <f x="-10.45" y="1.3" cocos2d_x="-10.4" cocos2d_y="1.3" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-0.05" pY="0" z="3" dI="0" twE="0" dr="24" />
+          <f x="-4.45" y="-13.1" cocos2d_x="-4.4" cocos2d_y="-13.1" kX="-12.23" kY="-10.67" cX="1.02" cY="0.98" fst="0" pX="-0.05" pY="0" z="3" dI="0" twE="0" dr="25" />
+          <f x="-10.45" y="1.3" cocos2d_x="-10.4" cocos2d_y="1.3" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-0.05" pY="0" z="3" dI="0" dr="1" twE="NaN" />
+        </b>
+        <b name="fdhrtfgkjy" sc="1" dl="0">
+          <f x="-141.75" y="-127.15" cocos2d_x="-81.7" cocos2d_y="-69.9" kX="-45" kY="-45" cX="1" cY="1.01" fst="0" pX="-2.05" pY="-82.05" z="4" dI="0" twE="0" dr="24" />
+          <f x="-140.75" y="-130.4" cocos2d_x="-78.75" cocos2d_y="-78" kX="-48.39" kY="-53.96" cX="1.03" cY="0.99" fst="0" pX="-1.95" pY="-82" z="4" dI="0" twE="0" dr="25" />
+          <f x="-141.75" y="-127.15" cocos2d_x="-81.7" cocos2d_y="-69.9" kX="-45" kY="-45" cX="1" cY="1.01" fst="0" pX="-2.05" pY="-82.05" z="4" dI="0" twE="0" dr="1" />
+        </b>
+        <b name="rtjtyku" sc="1" dl="0">
+          <f x="112.3" y="98.45" cocos2d_x="47.6" cocos2d_y="57.7" kX="-45" kY="-45" cX="1" cY="1" fst="0" pX="16.95" pY="74.55" z="5" dI="0" twE="0" dr="24" />
+          <f x="113.8" y="99.65" cocos2d_x="51.35" cocos2d_y="51.7" kX="-40.48" kY="-51.72" cX="0.98" cY="1.08" fst="0" pX="16.95" pY="74.45" z="5" dI="0" twE="0" dr="25" />
+          <f x="112.3" y="98.45" cocos2d_x="47.6" cocos2d_y="57.7" kX="-45" kY="-45" cX="1" cY="1" fst="0" pX="16.95" pY="74.55" z="5" dI="0" twE="0" dr="1" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/shrtk">
+      <mov name="sdhtgkyuk" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="dsghrtjy" sc="1" dl="0">
+          <f x="18.85" y="-11.55" cocos2d_x="-14.5" cocos2d_y="2.4" kX="0" kY="0" cX="1" cY="1" fst="0" pX="33.35" pY="-13.95" z="0" dI="0" twE="0" dr="16" />
+          <f x="13.95" y="-13.5" cocos2d_x="-23.45" cocos2d_y="-1.8" kX="18.36" kY="3.83" cX="0.99" cY="1.05" fst="0" pX="33.4" pY="-13.95" z="0" dI="0" twE="0" dr="16" />
+          <f x="17.65" y="-12.55" cocos2d_x="-21" cocos2d_y="-4.65" kX="25.73" kY="9.8" cX="0.97" cY="1.07" fst="0" pX="33.5" pY="-14.05" z="0" dI="0" twE="0" dr="17" />
+          <f x="18.85" y="-11.55" cocos2d_x="-14.5" cocos2d_y="2.4" kX="0" kY="0" cX="1" cY="1" fst="0" pX="33.35" pY="-13.95" z="0" dI="0" dr="1" twE="NaN" />
+        </b>
+        <b name="nghsdg" sc="1" dl="0">
+          <f x="34.5" y="-26.8" cocos2d_x="25.5" cocos2d_y="-11.75" kX="0" kY="0" cX="1" cY="1" fst="0" pX="9" pY="-15.05" z="1" dI="0" twE="0" dr="16" />
+          <f x="34.4" y="-27.65" cocos2d_x="20.55" cocos2d_y="-13.25" kX="18.36" kY="3.83" cX="0.99" cY="1.05" fst="0" pX="9.05" pY="-15.05" z="1" dI="0" twE="0" dr="16" />
+          <f x="34.8" y="-27.5" cocos2d_x="22.05" cocos2d_y="-12.85" kX="13.51" kY="3.03" cX="0.99" cY="1.03" fst="0" pX="9.25" pY="-15.1" z="1" dI="0" twE="0" dr="17" />
+          <f x="34.5" y="-26.8" cocos2d_x="25.5" cocos2d_y="-11.75" kX="0" kY="0" cX="1" cY="1" fst="0" pX="9" pY="-15.05" z="1" dI="0" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/dshtrjy">
+      <mov name="hytkuykul" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="ulkuili" sc="1" dl="0">
+          <f x="0" y="-21.5" cocos2d_x="0" cocos2d_y="6.5" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="-28" z="0" dI="0" twE="0" dr="11" />
+          <f x="-6.7" y="-21" cocos2d_x="-13.75" cocos2d_y="7" kX="14.26" kY="0" cX="1" cY="1.03" fst="0" pX="-0.1" pY="-28" z="0" dI="0" twE="0" dr="21" />
+          <f x="-3.55" y="-24.45" cocos2d_x="-14.4" cocos2d_y="2.25" kX="22.45" kY="19.32" cX="0.97" cY="1.03" fst="0" pX="-0.2" pY="-27.9" z="0" dI="0" twE="0" dr="17" />
+          <f x="0" y="-21.5" cocos2d_x="0" cocos2d_y="6.5" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="-28" z="0" dI="0" twE="0" dr="1" />
+        </b>
+        <b name="dsgerh" sc="1" dl="0">
+          <f x="2.05" y="-49.6" cocos2d_x="0.05" cocos2d_y="-33.05" kX="0" kY="0" cX="1" cY="1" fst="0" pX="2" pY="-16.55" z="1" dI="0" twE="0" dr="11" />
+          <f x="2.15" y="-49.6" cocos2d_x="-3.75" cocos2d_y="-33.05" kX="13.2" kY="0" cX="1" cY="1.03" fst="0" pX="2" pY="-16.55" z="1" dI="0" twE="0" dr="21" />
+          <f x="2.15" y="-49.6" cocos2d_x="-2.4" cocos2d_y="-33.05" kX="8.61" kY="0" cX="1" cY="1.01" fst="0" pX="2.05" pY="-16.55" z="1" dI="0" twE="0" dr="17" />
+          <f x="2.05" y="-49.6" cocos2d_x="0.05" cocos2d_y="-33.05" kX="0" kY="0" cX="1" cY="1" fst="0" pX="2" pY="-16.55" z="1" dI="0" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/fjtyk">
+      <mov name="hrykul" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="sdhtjyk" sc="1" dl="0">
+          <f x="-166.4" y="101.75" cocos2d_x="-166.35" cocos2d_y="101.75" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-0.05" pY="0" z="0" dI="0" dr="50" />
+        </b>
+        <b name="shrtk" sc="1" dl="0">
+          <f x="140.6" y="-134.25" cocos2d_x="102.6" cocos2d_y="-107.25" kX="0" kY="0" cX="1" cY="1" fst="0" pX="38" pY="-27" z="1" dI="0" dr="50" />
+        </b>
+        <b name="asdgrehtyjy" sc="1" dl="0">
+          <f x="35.05" y="6.25" cocos2d_x="35.05" cocos2d_y="6.25" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="2" dI="0" twE="0" dr="24" />
+          <f x="28.8" y="1" cocos2d_x="28.8" cocos2d_y="1" kX="4" kY="1.6" cX="1.05" cY="1" fst="0" pX="0" pY="0" z="2" dI="0" twE="0" dr="25" />
+          <f x="35.05" y="6.25" cocos2d_x="35.05" cocos2d_y="6.25" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="2" dI="0" dr="1" twE="NaN" />
+        </b>
+        <b name="weyrtku" sc="1" dl="0">
+          <f x="173.55" y="-128.1" cocos2d_x="110.75" cocos2d_y="-50.15" kX="59.94" kY="59.94" cX="1" cY="1" fst="0" pX="-35.95" pY="-93" z="3" dI="0" twE="0" dr="24" />
+          <f x="173.6" y="-128.8" cocos2d_x="104.55" cocos2d_y="-51.05" kX="62.34" kY="70.36" cX="1.03" cY="0.99" fst="0" pX="-36.15" pY="-93" z="3" dI="0" twE="0" dr="25" />
+          <f x="173.55" y="-128.1" cocos2d_x="110.75" cocos2d_y="-50.15" kX="59.94" kY="59.94" cX="1" cY="1" fst="0" pX="-35.95" pY="-93" z="3" dI="0" twE="0" dr="1" />
+        </b>
+        <b name="dfjtykuyk" sc="1" dl="0">
+          <f x="-138.4" y="107.65" cocos2d_x="-36" cocos2d_y="56.95" kX="59.94" kY="59.94" cX="1" cY="1" fst="0" pX="-7.4" pY="113.9" z="4" dI="0" twE="0" dr="24" />
+          <f x="-138.85" y="107.1" cocos2d_x="-38.5" cocos2d_y="52.4" kX="57.58" kY="60.04" cX="1.01" cY="1" fst="0" pX="-7.55" pY="113.8" z="4" dI="0" twE="0" dr="25" />
+          <f x="-138.4" y="107.65" cocos2d_x="-36" cocos2d_y="56.95" kX="59.94" kY="59.94" cX="1" cY="1" fst="0" pX="-7.4" pY="113.9" z="4" dI="0" twE="0" dr="1" />
+        </b>
+        <b name="dfjtykul" sc="1" dl="0">
+          <f x="193.6" y="-138.3" cocos2d_x="193.6" cocos2d_y="-85.3" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="-53" z="5" dI="0" dr="50" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/brfebhntnrt">
+      <mov name="dhtkty" dr="250" to="0" drTW="250" lp="1" twE="NaN">
+        <b name="asdhrtjyu" sc="1" dl="0">
+          <f x="-0.05" y="-0.05" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="-0.05" z="0" dI="0" twE="0" dr="124">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.32" rM="1" gM="1" bM="1" />
+          </f>
+          <f x="-4.25" y="0.55" cocos2d_x="-4.25" cocos2d_y="0.55" kX="0" kY="0" cX="0.95" cY="0.92" pX="0" pY="0" z="0" dI="0" twE="0" dr="125">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.08" rM="1" gM="1" bM="1" />
+          </f>
+          <f x="-0.05" y="-0.05" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="-0.05" z="0" dI="0" dr="1" twE="NaN">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.32" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/BFDRTGBNRTNRT">
+      <mov name="gtkjtklu" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="sdgbdfhngykyu" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="0" dI="0" twE="0" dr="49">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.43" rM="1" gM="1" bM="1" />
+          </f>
+          <f x="4.6" y="0" cocos2d_x="4.6" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="0" dI="0" twE="0" dr="50">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.16" rM="1" gM="1" bM="1" />
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="0" dI="0" dr="1" twE="NaN">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.43" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dsf/REHBSNTERNTRN">
+      <mov name="jyyuw" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="BFDRTGBNRTNRT" sc="1" dl="0">
+          <f x="66.4" y="5.4" cocos2d_x="66.4" cocos2d_y="5.4" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="0" dI="0" dr="100" />
+        </b>
+        <b name="BFDRTGBNRTNRT0" sc="1" dl="0">
+          <f x="-5.6" y="-5.4" cocos2d_x="-5.6" cocos2d_y="-5.4" kX="180" kY="180" cX="2.54" cY="1" pX="0" pY="0" z="1" dI="0" dr="100">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.22" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+        <b name="BFDRTGBNRTNRT1" sc="1" dl="0">
+          <f x="57.9" y="-22.2" cocos2d_x="57.9" cocos2d_y="-22.2" kX="-152.28" kY="0" cX="0.89" cY="0.44" fst="0" pX="0" pY="0" z="2" dI="0" dr="100" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="anim">
+      <mov name="donghua" dr="500" to="0" drTW="500" lp="1" twE="NaN">
+        <b name="htjtyk" sc="1" dl="0">
+          <f x="189.3" y="-206.4" cocos2d_x="189.3" cocos2d_y="-206.4" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="0" dI="0" dr="500" />
+        </b>
+        <b name="sdhtj" sc="1" dl="0">
+          <f x="-16.45" y="-223.05" cocos2d_x="-16.45" cocos2d_y="-223.05" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="1" dI="0" dr="500" />
+        </b>
+        <b name="htylul" sc="1" dl="0">
+          <f x="-0.65" y="-196.05" cocos2d_x="-0.65" cocos2d_y="-196.05" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="2" dI="0" dr="500" />
+        </b>
+        <b name="dntgj" sc="1" dl="0">
+          <f x="153.75" y="-190.6" cocos2d_x="145.1" cocos2d_y="-201.7" kX="0" kY="0" cX="1" cY="1" fst="0" pX="8.65" pY="11.1" z="3" dI="0" dr="500" />
+        </b>
+        <b name="ftykyk" sc="1" dl="0">
+          <f x="232.05" y="-231.55" cocos2d_x="232.05" cocos2d_y="-231.55" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="4" dI="0" dr="500" />
+        </b>
+        <b name="dfhrtjtyk" sc="1" dl="0">
+          <f x="92" y="-317" cocos2d_x="240" cocos2d_y="-191" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-148" pY="-126" z="5" dI="0" dr="500" />
+        </b>
+        <b name="fjtyk" sc="1" dl="0">
+          <f x="-266.95" y="-185.95" cocos2d_x="-266.95" cocos2d_y="-185.95" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="6" dI="0" dr="500" />
+        </b>
+        <b name="brfebhntnrt" sc="1" dl="0">
+          <f x="-303.6" y="-180.95" cocos2d_x="-411.45" cocos2d_y="-96.45" kX="159.29" kY="141.84" cX="1.52" cY="2.33" fst="124" pX="-90.4" pY="-0.05" z="7" dI="0" dr="500" />
+        </b>
+        <b name="REHBSNTERNTRN" sc="1" dl="0">
+          <f x="-581.6" y="-12.4" cocos2d_x="-581.6" cocos2d_y="-12.4" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="8" dI="0" dr="500" />
+        </b>
+        <b name="brfebhntnrt0" sc="1" dl="0">
+          <f x="-388.55" y="-212.6" cocos2d_x="-459.2" cocos2d_y="-186.95" kX="-179.28" kY="160.16" cX="0.83" cY="1.6" fst="124" pX="-90.55" pY="0.1" z="9" dI="0" dr="500" />
+        </b>
+        <b name="brfebhntnrt1" sc="1" dl="0">
+          <f x="294" y="-188.95" cocos2d_x="401.85" cocos2d_y="-104.45" kX="-159.29" kY="38.16" cX="1.52" cY="2.33" fst="124" pX="-90.45" pY="-0.1" z="10" dI="0" dr="500" />
+        </b>
+        <b name="REHBSNTERNTRN0" sc="1" dl="0">
+          <f x="572" y="-20.4" cocos2d_x="572" cocos2d_y="-20.4" kX="0" kY="180" cX="1" cY="1" fst="0" pX="0" pY="0" z="11" dI="0" dr="500" />
+        </b>
+        <b name="brfebhntnrt2" sc="1" dl="0">
+          <f x="311.75" y="-213.4" cocos2d_x="382.4" cocos2d_y="-187.75" kX="179.28" kY="19.84" cX="0.83" cY="1.6" fst="124" pX="-90.55" pY="0.1" z="12" dI="0" dr="500" />
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="擂台场景动画" width="2048" height="512">
+    <SubTexture name="dsf-BRFEFBHNRTNRTDBSRBR" width="88" height="66" x="1703" y="216" cocos2d_pX="43.40" cocos2d_pY="32.40" />
+    <SubTexture name="dsf-BV FDREHNSRTNRTNR" width="259" height="53" x="1137" y="129" cocos2d_pX="138.00" cocos2d_pY="26.85" />
+    <SubTexture name="dsf-dsgerh" width="19" height="30" x="1865" y="228" cocos2d_pX="8.00" cocos2d_pY="16.15" />
+    <SubTexture name="dsf-ulkuili" width="19" height="53" x="1618" y="216" cocos2d_pX="8.25" cocos2d_pY="28.00" />
+    <SubTexture name="dsf-nghsdg" width="35" height="27" x="229" y="249" cocos2d_pX="17.90" cocos2d_pY="15.50" />
+    <SubTexture name="dsf-dsghrtjy" width="55" height="23" x="141" y="249" cocos2d_pX="23.35" cocos2d_pY="12.10" />
+    <SubTexture name="dsf-dfjtykuyk" width="83" height="227" x="1804" y="0" cocos2d_pX="42.30" cocos2d_pY="113.15" />
+    <SubTexture name="dsf-weyrtku" width="100" height="215" x="1703" y="0" cocos2d_pX="48.95" cocos2d_pY="107.35" />
+    <SubTexture name="dsf-dhrtj" width="72" height="50" x="1792" y="228" cocos2d_pX="35.80" cocos2d_pY="25.00" />
+    <SubTexture name="dsf-sdhtjyk" width="77" height="47" x="1888" y="201" cocos2d_pX="38.15" cocos2d_pY="14.75" />
+    <SubTexture name="dsf-fjhtyku" width="68" height="34" x="72" y="249" cocos2d_pX="37.00" cocos2d_pY="18.00" />
+    <SubTexture name="dsf-sdghrtjy" width="54" height="39" x="1278" y="231" cocos2d_pX="27.70" cocos2d_pY="19.60" />
+    <SubTexture name="dsf-dfnjtmkyuh" width="31" height="36" x="197" y="249" cocos2d_pX="16.70" cocos2d_pY="21.95" />
+    <SubTexture name="dsf-gfjyghk" width="23" height="29" x="294" y="249" cocos2d_pX="11.55" cocos2d_pY="14.30" />
+    <SubTexture name="dsf-rtjtyku" width="90" height="168" x="1397" y="129" cocos2d_pX="44.60" cocos2d_pY="85.90" />
+    <SubTexture name="dsf-fdhrtfgkjy" width="82" height="200" x="1888" y="0" cocos2d_pX="41.70" cocos2d_pY="98.15" />
+    <SubTexture name="dsf-sdbvgnh" width="59" height="65" x="1638" y="129" cocos2d_pX="29.20" cocos2d_pY="32.35" />
+    <SubTexture name="dsf-dshrt jy" width="75" height="47" x="1966" y="212" cocos2d_pX="38.40" cocos2d_pY="20.85" />
+    <SubTexture name="dsf-gfkyu l" width="28" height="32" x="265" y="249" cocos2d_pX="13.90" cocos2d_pY="14.95" />
+    <SubTexture name="dsf-jtyk" width="44" height="36" x="1638" y="247" cocos2d_pX="21.30" cocos2d_pY="19.20" />
+    <SubTexture name="dsf-dshtj" width="71" height="39" x="0" y="249" cocos2d_pX="36.95" cocos2d_pY="19.90" />
+    <SubTexture name="dsf-xzsgdfj" width="18" height="55" x="1599" y="216" cocos2d_pX="12.05" cocos2d_pY="27.10" />
+    <SubTexture name="dsf-dgdfh" width="57" height="56" x="1220" y="231" cocos2d_pX="26.10" cocos2d_pY="33.75" />
+    <SubTexture name="dsf-sdghtj" width="48" height="69" x="1340" y="183" cocos2d_pX="17.40" cocos2d_pY="28.50" />
+    <SubTexture name="dsf-cjtyku" width="67" height="59" x="1971" y="152" cocos2d_pX="27.40" cocos2d_pY="15.05" />
+    <SubTexture name="dsf-dfjyj" width="64" height="51" x="1638" y="195" cocos2d_pX="25.30" cocos2d_pY="21.25" />
+    <SubTexture name="dsf-fgjtyk" width="71" height="62" x="1971" y="89" cocos2d_pX="6.60" cocos2d_pY="27.55" />
+    <SubTexture name="dsf-gfjtyl" width="67" height="88" x="1971" y="0" cocos2d_pX="22.25" cocos2d_pY="57.30" />
+    <SubTexture name="dsf-fdhrtfj" width="149" height="86" x="1488" y="129" cocos2d_pX="68.30" cocos2d_pY="50.70" />
+    <SubTexture name="dsf-sdhtrj" width="82" height="92" x="1137" y="183" cocos2d_pX="36.55" cocos2d_pY="55.40" />
+    <SubTexture name="dsf-fdjtk" width="110" height="47" x="1488" y="216" cocos2d_pX="38.05" cocos2d_pY="21.15" />
+    <SubTexture name="dsf-hdrtjt" width="119" height="47" x="1220" y="183" cocos2d_pX="161.10" cocos2d_pY="4.55" />
+    <SubTexture name="dsf-dhrtfj" width="565" height="128" x="1137" y="0" cocos2d_pX="185.00" cocos2d_pY="38.55" />
+    <SubTexture name="dsf-htylul" width="1136" height="248" x="0" y="0" cocos2d_pX="568.00" cocos2d_pY="123.95" />
+  </TextureAtlas>
+</skeleton>

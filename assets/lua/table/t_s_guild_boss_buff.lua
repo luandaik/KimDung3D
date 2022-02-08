@@ -1,0 +1,11 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 1, type = 0, direct_type = 0, attribute = "19_6000", effect_active = "", effect_passive = "", desc = "Chưa thắng thủ lĩnh võ lực tăng thêm 500%", desc2 = "Võ lực tăng thêm 500%"})
+mapArray:push({ id = 2, type = 0, direct_type = 0, attribute = "21_6000", effect_active = "", effect_passive = "", desc = "Chưa thắng thủ lĩnh nội lực tăng thêm 500%", desc2 = "Nội lực tăng thêm 500%"})
+mapArray:push({ id = 3, type = 0, direct_type = 0, attribute = "", effect_active = "", effect_passive = "100_200", desc = "Chưa thắng thủ lĩnh giảm miễn 80% Tổn thương", desc2 = "Giảm miễn Tổn thương 80%"})
+mapArray:push({ id = 4, type = 1, direct_type = 1, attribute = "18_1500", effect_active = "", effect_passive = "", desc = "Đánh thắng bên ta khí huyết tăng 50%", desc2 = "Khí huyết tăng 50%"})
+mapArray:push({ id = 5, type = 1, direct_type = 1, attribute = "19_1500", effect_active = "", effect_passive = "", desc = "Đánh thắng bên ta võ lực tăng 50%", desc2 = "võ lực tăng 50%"})
+mapArray:push({ id = 6, type = 1, direct_type = 1, attribute = "20_1500", effect_active = "", effect_passive = "", desc = "Đánh thắng bên ta phòng ngự tăng 50%", desc2 = "phòng ngự tăng 50%"})
+mapArray:push({ id = 7, type = 1, direct_type = 1, attribute = "21_1500", effect_active = "", effect_passive = "", desc = "Đánh thắng bên ta nội lực tăng 50%", desc2 = "nội lực tăng 50%"})
+mapArray:push({ id = 8, type = 1, direct_type = 1, attribute = "22_1500", effect_active = "", effect_passive = "", desc = "Đánh thắng bên ta thân pháp tăng 50%", desc2 = "thân pháp tăng 50%"})
+mapArray:push({ id = 9, type = 2, direct_type = 1, attribute = "18_1010|19_1010|20_1010|21_1010|22_1010", effect_active = "", effect_passive = "", desc = "Mỗi lần đánh thắng bên ta Toàn Thuộc Tính lên cao1%", desc2 = ""})
+return mapArray

@@ -1,0 +1,318 @@
+<skeleton name="雁门关 - 输出1" frameRate="24" version="2.2.3">
+  <armatures>
+    <armature name="anim">
+      <b name="图层 3" x="-448.4" y="-102.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="cascwcda/54604354" isArmature="1" />
+      </b>
+      <b name="45205def434" x="-277.25" y="-268.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="cascwcda/45205434" isArmature="1" />
+      </b>
+      <b name="452054vdsvds40" x="-172.25" y="-268.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="cascwcda/45205434" isArmature="1" />
+      </b>
+      <b name="dwd" x="-438.05" y="-270.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="cascwcda/45205434" isArmature="1" />
+      </b>
+      <b name="4520543dwdsavw" x="-379.75" y="-267.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="cascwcda/4520543dwdw" isArmature="1" />
+      </b>
+      <b name="fvdv" x="12.65" y="-226.45" kX="8.7" kY="8.7" cX="1" cY="1" pX="0" pY="0" z="5">
+        <d name="cascwcda/45205434" isArmature="1" />
+      </b>
+      <b name="ff" x="-234.8" y="-226.45" kX="8.7" kY="8.7" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="cascwcda/45205434" isArmature="1" />
+      </b>
+      <b name="cswdw" x="245.9" y="-268.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7">
+        <d name="cascwcda/45205434" isArmature="1" />
+      </b>
+      <b name="casc" x="367.85" y="-228.2" kX="9.44" kY="9.44" cX="1" cY="1" pX="0" pY="0" z="8">
+        <d name="cascwcda/45205434" isArmature="1" />
+      </b>
+      <b name="casascasw" x="332.5" y="-161.05" kX="9.44" kY="9.44" cX="1" cY="1" pX="0" pY="0" z="9">
+        <d name="cascwcda/45205434" isArmature="1" />
+      </b>
+      <b name="cascas" x="542.85" y="-230" kX="8.7" kY="8.7" cX="1" cY="1" pX="0" pY="0" z="10">
+        <d name="cascwcda/45205434" isArmature="1" />
+      </b>
+      <b name="45205434cascas8" x="-510.55" y="-225.45" kX="29.71" kY="29.71" cX="1" cY="1" pX="0" pY="0" z="11">
+        <d name="cascwcda/45205434" isArmature="1" />
+      </b>
+      <b name="图层 1" x="-35.5" y="-7" kX="0" kY="0" cX="1.02" cY="1.03" pX="0" pY="0" z="12">
+        <d name="cascwcda/546405354" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="cascwcda/54604354" isLoop="loop" startFrame="5">
+      <b name="图层 2" x="-491.85" y="-308.2" kX="-43.89" kY="-55.88" cX="4.98" cY="4.8" pX="0" pY="0" z="0">
+        <d name="cascwcda-b tfe nswrtnb rtnb tr" />
+      </b>
+      <b name="图层 3" x="-491.9" y="-308.15" kX="-43.89" kY="-55.88" cX="3.84" cY="3.7" pX="0" pY="0" z="1">
+        <d name="cascwcda-b tfe nswrtnb rtnb tr" />
+      </b>
+      <b name="图层 1" x="-491.9" y="-308.15" kX="-43.89" kY="-55.88" cX="3.84" cY="3.7" pX="0" pY="0" z="2">
+        <d name="cascwcda-b tfe nswrtnb rtnb tr" />
+      </b>
+    </armature>
+    <armature name="cascwcda/45205434" isLoop="loop" startFrame="1">
+      <b name="图层 1" x="-34.4" y="-70.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="cascwcda-142054" />
+      </b>
+    </armature>
+    <armature name="cascwcda/4520543dwdw" isLoop="loop" startFrame="28">
+      <b name="图层 1" x="-34.4" y="-70.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="cascwcda-1420542222222222" />
+      </b>
+    </armature>
+    <armature name="cascwcda/546405354" isLoop="loop" startFrame="1">
+      <b name="452045" x="-452.2" y="-279.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="cascwcda-452045" />
+        <d name="cascwcda-25430435" />
+      </b>
+      <b name="32" x="26.6" y="175.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="cascwcda-32" />
+        <d name="cascwcda-4205354" />
+        <d name="cascwcda-2304354" />
+        <d name="cascwcda-12030." />
+        <d name="cascwcda-420425" />
+      </b>
+      <b name="543043544" x="-453.4" y="284" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="cascwcda-543043544" />
+        <d name="cascwcda-4205454" />
+        <d name="cascwcda-142054254" />
+        <d name="cascwcda-14502044" />
+        <d name="cascwcda-4204" />
+      </b>
+      <b name="5430435" x="-512.3" y="-253.05" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="3">
+        <d name="cascwcda-5430435" />
+        <d name="cascwcda-142" />
+        <d name="cascwcda-1205435" />
+        <d name="cascwcda-54325430" />
+        <d name="cascwcda-420542" />
+      </b>
+      <b name="7457085" x="-425.25" y="-9.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="cascwcda-7457085" />
+        <d name="cascwcda-1205445" />
+        <d name="cascwcda-4205445" />
+        <d name="cascwcda-12045" />
+        <d name="cascwcda-542045" />
+      </b>
+      <b name="2543054" x="327.55" y="-173.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="5">
+        <d name="cascwcda-2543054" />
+        <d name="cascwcda-412045254" />
+        <d name="cascwcda-4105254" />
+        <d name="cascwcda-120254" />
+        <d name="cascwcda-42054" />
+      </b>
+      <b name="4255004" x="502.4" y="-24.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="cascwcda-4255004" />
+        <d name="cascwcda-142044" />
+        <d name="cascwcda-12.312." />
+        <d name="cascwcda-5432054" />
+        <d name="cascwcda-1402054" />
+      </b>
+      <b name="543204354" x="516.95" y="-274.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7">
+        <d name="cascwcda-543204354" />
+        <d name="cascwcda-142403" />
+        <d name="cascwcda-102044" />
+        <d name="cascwcda-54320543" />
+        <d name="cascwcda-1420425" />
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="cascwcda/54604354">
+      <mov name="dwdasdacavvvv" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="24" dI="-1" />
+          <f x="-491.85" y="-308.2" cocos2d_x="-491.85" cocos2d_y="-308.2" kX="-43.89" kY="-55.88" cX="4.98" cY="4.8" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="6" />
+          <f x="1849.8" y="494.05" cocos2d_x="1849.8" cocos2d_y="494.05" kX="-104.38" kY="-80.59" cX="5.69" cY="6.11" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f dr="69" dI="-1" />
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="29" dI="-1" />
+          <f x="-491.9" y="-308.15" cocos2d_x="-491.9" cocos2d_y="-308.15" kX="-43.89" kY="-55.88" cX="3.84" cY="3.7" pX="0" pY="0" z="1" dI="0" blend="normal" twE="0" dr="6" />
+          <f x="1468.15" y="490.7" cocos2d_x="1468.15" cocos2d_y="490.7" kX="-81.93" kY="-58.14" cX="5.23" cY="5.62" pX="0" pY="0" z="1" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f dr="64" dI="-1" />
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-491.9" y="-308.15" cocos2d_x="-491.9" cocos2d_y="-308.15" kX="-43.89" kY="-55.88" cX="3.84" cY="3.7" pX="0" pY="0" z="2" dI="0" blend="normal" twE="0" dr="6" />
+          <f x="1542.3" y="490.7" cocos2d_x="1542.3" cocos2d_y="490.7" kX="-81.93" kY="-58.14" cX="4.2" cY="4.51" pX="0" pY="0" z="2" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f dr="93" dI="-1" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="cascwcda/45205434">
+      <mov name="dasdasdasd" dr="65" to="0" drTW="65" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-34.4" y="-70.7" cocos2d_x="-34.4" cocos2d_y="-70.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="16" />
+          <f x="1.8" y="1.8" cocos2d_x="1.8" cocos2d_y="1.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="17" />
+          <f x="43.3" y="51.7" cocos2d_x="43.3" cocos2d_y="51.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="17" />
+          <f x="150.35" y="70.4" cocos2d_x="150.35" cocos2d_y="70.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="1" gM="1" bM="1" />
+          </f>
+          <f dr="14" dI="-1" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="cascwcda/4520543dwdw">
+      <mov name="dwdasdasda" dr="65" to="0" drTW="65" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-34.4" y="-70.7" cocos2d_x="-34.4" cocos2d_y="-70.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="16" />
+          <f x="1.8" y="1.8" cocos2d_x="1.8" cocos2d_y="1.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="17" />
+          <f x="43.3" y="51.7" cocos2d_x="43.3" cocos2d_y="51.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="17" />
+          <f x="150.35" y="70.4" cocos2d_x="150.35" cocos2d_y="70.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="1" gM="1" bM="1" />
+          </f>
+          <f dr="14" dI="-1" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="cascwcda/546405354">
+      <mov name="dwdasdsa" dr="5" to="0" drTW="5" lp="1" twE="NaN">
+        <b name="452045" sc="1" dl="0">
+          <f dr="2" dI="-1" />
+          <f x="-452.2" y="-279.5" cocos2d_x="-452.2" cocos2d_y="-279.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="-374.95" y="-96.85" cocos2d_x="-374.9" cocos2d_y="-96.85" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="0" dI="1" blend="normal" dr="1" twE="NaN" />
+          <f dr="1" dI="-1" />
+        </b>
+        <b name="32" sc="1" dl="0">
+          <f x="26.6" y="175.45" cocos2d_x="26.6" cocos2d_y="175.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="-503.3" y="-197.15" cocos2d_x="-503.3" cocos2d_y="-197.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="1" blend="normal" dr="1" twE="NaN" />
+          <f x="-418.1" y="-66.35" cocos2d_x="-418.1" cocos2d_y="-66.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" blend="normal" dr="1" twE="NaN" />
+          <f x="-150.4" y="-268.1" cocos2d_x="-150.35" cocos2d_y="-268.1" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="3" blend="normal" dr="1" twE="NaN" />
+          <f x="-156.45" y="-263.5" cocos2d_x="-156.45" cocos2d_y="-263.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="543043544" sc="1" dl="0">
+          <f x="-453.4" y="284" cocos2d_x="-453.4" cocos2d_y="284" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="-246.1" y="-280.8" cocos2d_x="-246.1" cocos2d_y="-280.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" blend="normal" dr="1" twE="NaN" />
+          <f x="104.95" y="-84.7" cocos2d_x="104.95" cocos2d_y="-84.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="2" blend="normal" dr="1" twE="NaN" />
+          <f x="193.75" y="-166.25" cocos2d_x="193.75" cocos2d_y="-166.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="2" dI="3" blend="normal" dr="1" twE="NaN" />
+          <f x="298.15" y="-282.35" cocos2d_x="298.15" cocos2d_y="-282.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="2" dI="4" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="5430435" sc="1" dl="0">
+          <f x="-512.3" y="-253.05" cocos2d_x="-512.25" cocos2d_y="-253.05" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="3" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="-76.45" y="-1.05" cocos2d_x="-76.4" cocos2d_y="-1.05" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="3" dI="1" blend="normal" dr="1" twE="NaN" />
+          <f x="345.35" y="-178.75" cocos2d_x="345.35" cocos2d_y="-178.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="2" blend="normal" dr="1" twE="NaN" />
+          <f x="551.15" y="-139.8" cocos2d_x="551.15" cocos2d_y="-139.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="3" blend="normal" dr="1" twE="NaN" />
+          <f x="555.05" y="-115.8" cocos2d_x="555.05" cocos2d_y="-115.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="3" dI="4" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="7457085" sc="1" dl="0">
+          <f x="-425.25" y="-9.2" cocos2d_x="-425.25" cocos2d_y="-9.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="-391.6" y="158.5" cocos2d_x="-391.6" cocos2d_y="158.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="1" blend="normal" dr="1" twE="NaN" />
+          <f x="518.65" y="-186.2" cocos2d_x="518.65" cocos2d_y="-186.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="4" dI="2" blend="normal" dr="1" twE="NaN" />
+          <f x="383.6" y="277.45" cocos2d_x="383.6" cocos2d_y="277.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="3" blend="normal" dr="1" twE="NaN" />
+          <f x="86.55" y="55.4" cocos2d_x="86.55" cocos2d_y="55.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="4" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="2543054" sc="1" dl="0">
+          <f x="327.55" y="-173.7" cocos2d_x="327.55" cocos2d_y="-173.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="5" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="432.05" y="78.7" cocos2d_x="432.05" cocos2d_y="78.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="1" blend="normal" dr="1" twE="NaN" />
+          <f x="472.4" y="171.45" cocos2d_x="472.4" cocos2d_y="171.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="2" blend="normal" dr="1" twE="NaN" />
+          <f x="63.95" y="52.15" cocos2d_x="63.95" cocos2d_y="52.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="3" blend="normal" dr="1" twE="NaN" />
+          <f x="-365.1" y="-77.65" cocos2d_x="-365.05" cocos2d_y="-77.6" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="-0.05" z="5" dI="4" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="4255004" sc="1" dl="0">
+          <f x="502.4" y="-24.4" cocos2d_x="502.4" cocos2d_y="-24.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="517.65" y="-172.15" cocos2d_x="517.65" cocos2d_y="-172.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="6" dI="1" blend="normal" dr="1" twE="NaN" />
+          <f x="237.7" y="256.35" cocos2d_x="237.7" cocos2d_y="256.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="2" blend="normal" dr="1" twE="NaN" />
+          <f x="-326.55" y="180.05" cocos2d_x="-326.55" cocos2d_y="180.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="3" blend="normal" dr="1" twE="NaN" />
+          <f x="-303.1" y="189.2" cocos2d_x="-303.05" cocos2d_y="189.2" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="6" dI="4" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="543204354" sc="1" dl="0">
+          <f x="516.95" y="-274.75" cocos2d_x="516.95" cocos2d_y="-274.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="460.6" y="245.15" cocos2d_x="460.6" cocos2d_y="245.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="1" blend="normal" dr="1" twE="NaN" />
+          <f x="-58.1" y="273.8" cocos2d_x="-58.1" cocos2d_y="273.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="2" blend="normal" dr="1" twE="NaN" />
+          <f x="-481.25" y="273.55" cocos2d_x="-481.25" cocos2d_y="273.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="3" blend="normal" dr="1" twE="NaN" />
+          <f x="-487.6" y="276.95" cocos2d_x="-487.6" cocos2d_y="276.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="4" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="anim">
+      <mov name="anim" dr="1300" to="0" drTW="1300" lp="1" twE="NaN">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="-448.4" y="-102.35" cocos2d_x="-448.4" cocos2d_y="-102.35" kX="0" kY="0" cX="1" cY="1" fst="4" pX="0" pY="0" z="0" dI="0" dr="1300">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.6" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+        <b name="45205def434" sc="1" dl="0">
+          <f x="-277.25" y="-268.8" cocos2d_x="-277.25" cocos2d_y="-268.8" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="1" dI="0" dr="1300" />
+        </b>
+        <b name="452054vdsvds40" sc="1" dl="0">
+          <f x="-172.25" y="-268.8" cocos2d_x="-172.25" cocos2d_y="-268.8" kX="0" kY="0" cX="1" cY="1" fst="4" pX="0" pY="0" z="2" dI="0" dr="1300" />
+        </b>
+        <b name="dwd" sc="1" dl="0">
+          <f x="-438.05" y="-270.55" cocos2d_x="-438.05" cocos2d_y="-270.55" kX="0" kY="0" cX="1" cY="1" fst="17" pX="0" pY="0" z="3" dI="0" dr="1300" />
+        </b>
+        <b name="4520543dwdsavw" sc="1" dl="0">
+          <f x="-379.75" y="-267.05" cocos2d_x="-379.75" cocos2d_y="-267.05" kX="0" kY="0" cX="1" cY="1" fst="27" pX="0" pY="0" z="4" dI="0" dr="1300" />
+        </b>
+        <b name="fvdv" sc="1" dl="0">
+          <f x="12.65" y="-226.45" cocos2d_x="12.65" cocos2d_y="-226.45" kX="8.7" kY="8.7" cX="1" cY="1" fst="34" pX="0" pY="0" z="5" dI="0" dr="1300" />
+        </b>
+        <b name="ff" sc="1" dl="0">
+          <f x="-234.8" y="-226.45" cocos2d_x="-234.8" cocos2d_y="-226.45" kX="8.7" kY="8.7" cX="1" cY="1" fst="49" pX="0" pY="0" z="6" dI="0" dr="1300" />
+        </b>
+        <b name="cswdw" sc="1" dl="0">
+          <f x="245.9" y="-268.9" cocos2d_x="245.9" cocos2d_y="-268.9" kX="0" kY="0" cX="1" cY="1" fst="9" pX="0" pY="0" z="7" dI="0" dr="1300" />
+        </b>
+        <b name="casc" sc="1" dl="0">
+          <f x="367.85" y="-228.2" cocos2d_x="367.85" cocos2d_y="-228.2" kX="9.44" kY="9.44" cX="1" cY="1" fst="18" pX="0" pY="0" z="8" dI="0" dr="1300" />
+        </b>
+        <b name="casascasw" sc="1" dl="0">
+          <f x="332.5" y="-161.05" cocos2d_x="332.5" cocos2d_y="-161.05" kX="9.44" kY="9.44" cX="1" cY="1" fst="23" pX="0" pY="0" z="9" dI="0" dr="1300" />
+        </b>
+        <b name="cascas" sc="1" dl="0">
+          <f x="542.85" y="-230" cocos2d_x="542.85" cocos2d_y="-230" kX="8.7" kY="8.7" cX="1" cY="1" fst="64" pX="0" pY="0" z="10" dI="0" dr="1300" />
+        </b>
+        <b name="45205434cascas8" sc="1" dl="0">
+          <f x="-510.55" y="-225.45" cocos2d_x="-510.55" cocos2d_y="-225.45" kX="29.71" kY="29.71" cX="1" cY="1" fst="16" pX="0" pY="0" z="11" dI="0" dr="1300" />
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-35.5" y="-7" cocos2d_x="-35.5" cocos2d_y="-7" kX="0" kY="0" cX="1.02" cY="1.03" fst="0" pX="0" pY="0" z="12" dI="0" dr="1300">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.35" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="雁门关 - 输出1" width="1024" height="512">
+    <SubTexture name="cascwcda-1420425" width="175" height="54" x="817" y="359" cocos2d_pX="112.45" cocos2d_pY="13.80" />
+    <SubTexture name="cascwcda-54320543" width="180" height="55" x="636" y="358" cocos2d_pX="136.75" cocos2d_pY="9.95" />
+    <SubTexture name="cascwcda-102044" width="273" height="50" x="663" y="181" cocos2d_pX="126.50" cocos2d_pY="6.95" />
+    <SubTexture name="cascwcda-142403" width="268" height="85" x="677" y="95" cocos2d_pX="104.45" cocos2d_pY="39.20" />
+    <SubTexture name="cascwcda-543204354" width="137" height="31" x="498" y="358" cocos2d_pX="68.65" cocos2d_pY="25.80" />
+    <SubTexture name="cascwcda-1402054" width="121" height="26" x="553" y="119" cocos2d_pX="73.20" cocos2d_pY="18.10" />
+    <SubTexture name="cascwcda-5432054" width="123" height="26" x="553" y="92" cocos2d_pX="61.60" cocos2d_pY="10.40" />
+    <SubTexture name="cascwcda-12.312." width="178" height="47" x="180" y="362" cocos2d_pX="97.35" cocos2d_pY="41.40" />
+    <SubTexture name="cascwcda-142044" width="117" height="33" x="553" y="58" cocos2d_pX="10.35" cocos2d_pY="15.45" />
+    <SubTexture name="cascwcda-4255004" width="151" height="54" x="306" y="410" cocos2d_pX="69.10" cocos2d_pY="26.15" />
+    <SubTexture name="cascwcda-42054" width="152" height="50" x="621" y="414" cocos2d_pX="82.05" cocos2d_pY="33.70" />
+    <SubTexture name="cascwcda-120254" width="145" height="39" x="0" y="460" cocos2d_pX="66.10" cocos2d_pY="29.30" />
+    <SubTexture name="cascwcda-4105254" width="254" height="64" x="297" y="168" cocos2d_pX="102.60" cocos2d_pY="33.20" />
+    <SubTexture name="cascwcda-412045254" width="255" height="109" x="297" y="58" cocos2d_pX="133.95" cocos2d_pY="57.90" />
+    <SubTexture name="cascwcda-2543054" width="144" height="54" x="774" y="414" cocos2d_pX="70.80" cocos2d_pY="28.80" />
+    <SubTexture name="cascwcda-542045" width="141" height="37" x="502" y="248" cocos2d_pX="86.30" cocos2d_pY="26.60" />
+    <SubTexture name="cascwcda-12045" width="380" height="57" x="297" y="0" cocos2d_pX="131.75" cocos2d_pY="16.05" />
+    <SubTexture name="cascwcda-4205445" width="167" height="51" x="849" y="307" cocos2d_pX="83.35" cocos2d_pY="20.95" />
+    <SubTexture name="cascwcda-1205445" width="210" height="50" x="638" y="307" cocos2d_pX="109.35" cocos2d_pY="26.05" />
+    <SubTexture name="cascwcda-7457085" width="137" height="32" x="498" y="325" cocos2d_pX="75.40" cocos2d_pY="14.70" />
+    <SubTexture name="cascwcda-420542" width="93" height="25" x="552" y="222" cocos2d_pX="23.95" cocos2d_pY="21.30" />
+    <SubTexture name="cascwcda-54325430" width="96" height="25" x="552" y="196" cocos2d_pX="8.70" cocos2d_pY="7.15" />
+    <SubTexture name="cascwcda-1205435" width="151" height="39" x="458" y="421" cocos2d_pX="64.30" cocos2d_pY="12.25" />
+    <SubTexture name="cascwcda-142" width="146" height="30" x="458" y="461" cocos2d_pX="94.35" cocos2d_pY="-14.60" />
+    <SubTexture name="cascwcda-5430435" width="148" height="59" x="157" y="410" cocos2d_pX="80.80" cocos2d_pY="30.30" />
+    <SubTexture name="cascwcda-4204" width="135" height="38" x="502" y="286" cocos2d_pX="63.40" cocos2d_pY="26.65" />
+    <SubTexture name="cascwcda-14502044" width="119" height="27" x="553" y="146" cocos2d_pX="47.25" cocos2d_pY="8.20" />
+    <SubTexture name="cascwcda-142054254" width="134" height="34" x="359" y="362" cocos2d_pX="90.70" cocos2d_pY="19.30" />
+    <SubTexture name="cascwcda-4205454" width="110" height="21" x="552" y="174" cocos2d_pX="62.30" cocos2d_pY="7.15" />
+    <SubTexture name="cascwcda-543043544" width="126" height="30" x="494" y="390" cocos2d_pX="59.80" cocos2d_pY="9.00" />
+    <SubTexture name="cascwcda-420425" width="204" height="71" x="297" y="233" cocos2d_pX="115.80" cocos2d_pY="29.45" />
+    <SubTexture name="cascwcda-12030." width="204" height="74" x="646" y="232" cocos2d_pX="124.10" cocos2d_pY="36.45" />
+    <SubTexture name="cascwcda-2304354" width="330" height="94" x="678" y="0" cocos2d_pX="181.95" cocos2d_pY="46.25" />
+    <SubTexture name="cascwcda-4205354" width="149" height="74" x="851" y="232" cocos2d_pX="96.75" cocos2d_pY="30.25" />
+    <SubTexture name="cascwcda-32" width="179" height="46" x="0" y="360" cocos2d_pX="97.30" cocos2d_pY="21.75" />
+    <SubTexture name="cascwcda-25430435" width="156" height="52" x="0" y="407" cocos2d_pX="85.90" cocos2d_pY="25.45" />
+    <SubTexture name="cascwcda-452045" width="200" height="56" x="297" y="305" cocos2d_pX="147.85" cocos2d_pY="29.45" />
+    <SubTexture name="cascwcda-1420542222222222" width="21" height="21" x="946" y="95" cocos2d_pX="12.00" cocos2d_pY="12.00" />
+    <SubTexture name="cascwcda-142054" width="21" height="21" x="968" y="95" cocos2d_pX="12.00" cocos2d_pY="12.00" />
+    <SubTexture name="cascwcda-b tfe nswrtnb rtnb tr" width="296" height="359" x="0" y="0" cocos2d_pX="163.85" cocos2d_pY="169.65" />
+  </TextureAtlas>
+</skeleton>

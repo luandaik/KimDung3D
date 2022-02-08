@@ -1,0 +1,12 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 1, name = "Giúp tiền", desc = "Lì xì đến 1888 có thể thu được", integral = 1888, power = 0, attribute = "1_5000", effect_active = "", effect_passive = "", effect_desc = "Khí huyết+5000"})
+mapArray:push({ id = 2, name = "Làm việc thiện", desc = "Lì xì đến 3888 có thể thu được", integral = 3888, power = 0, attribute = "3_2000", effect_active = "", effect_passive = "", effect_desc = "Phòng ngự+2000"})
+mapArray:push({ id = 3, name = "Trọng nghĩa khinh tài", desc = "Lì xì đến 8888 có thể thu được", integral = 8888, power = 0, attribute = "19_300", effect_active = "", effect_passive = "", effect_desc = "Võ lực+3%"})
+mapArray:push({ id = 4, name = "Cam lâm huệ chúng", desc = "Lì xì đến 12888 có thể thu được", integral = 12888, power = 10000, attribute = "", effect_active = "", effect_passive = "44_-500", effect_desc = "Bị thương tổn-5%"})
+mapArray:push({ id = 5, name = "Tiêu tiền như nước", desc = "Lì xì đến 28888 có thể thu được", integral = 28888, power = 0, attribute = "2_5000|4_5000", effect_active = "", effect_passive = "", effect_desc = "Võ lực+5000，Nội lực+5000"})
+mapArray:push({ id = 6, name = "Vung tiền như rác", desc = "Lì xì đến 58888 có thể thu được", integral = 58888, power = 0, attribute = "18_500", effect_active = "", effect_passive = "", effect_desc = "Khí huyết+5%"})
+mapArray:push({ id = 7, name = "Từ Tâm Tế Thế", desc = "Lì xì đến 128888 có thể thu được", integral = 128888, power = 20000, attribute = "", effect_active = "", effect_passive = "45_500", effect_desc = "trị liệu lượng+5%"})
+mapArray:push({ id = 8, name = "Ân Nghĩa lan xa", desc = "Lì xì đến 288888 có thể thu được", integral = 288888, power = 0, attribute = "19_300|21_300", effect_active = "", effect_passive = "", effect_desc = "Võ lực+3%，Nội lực+3%"})
+mapArray:push({ id = 9, name = "Phúc tài trải rộng", desc = "Lì xì đến 588888 có thể thu được", integral = 588888, power = 0, attribute = "16_1000", effect_active = "", effect_passive = "", effect_desc = "Tấn công+10%"})
+mapArray:push({ id = 10, name = "Thánh thủ nhân tâm", desc = "Lì xì đến 888888 có thể thu được", integral = 888888, power = 30000, attribute = "", effect_active = "44_500", effect_passive = "", effect_desc = "Thương tổn+5%"})
+return mapArray

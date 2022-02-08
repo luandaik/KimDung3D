@@ -1,0 +1,15 @@
+local mapArray = MEMapArray:new()
+--layer_type 1:酒馆 2：角色 3：布阵 4：装备
+mapArray:push({ id = 1, title = "Hiệp khách thu hoạch", layer_type = 1, minLevel = 1, maxLevel = 150,desc = "Tửu quán chiêu mộ càng nhiều đồng bạn, có thể tăng mạnh thực lực của mình" , img = "ui_new/fightresult/bg_tishi1.png"})
+mapArray:push({ id = 2, title = "Truyền công", layer_type = 2, minLevel = 1, maxLevel = 150,desc = "Truyền công nhưng nhanh chóng đề cao hiệp khách đẳng cấp" , img = "ui_new/fightresult/bg_tishi2.png"})
+mapArray:push({ id = 3, title = "Bày trận", layer_type = 3, minLevel = 1, maxLevel = 150,desc = "Trước khi chiến đấu bày trận, căn cứ đối thủ thay thế trận hình sẽ có hiệu quả" , img = "ui_new/fightresult/bg_tishi3.png"})
+mapArray:push({ id = 4, title = "Võ học", layer_type = 2, minLevel = 5, maxLevel = 150,desc = "Hiệp khách học tập võ học, tiến giai sau có thể tăng lên hiệp khách thuộc tính cùng sức chiến đấu" , img = "ui_new/fightresult/bg_tishi4.png"})
+mapArray:push({ id = 5, title = "Trang bị cường hóa", layer_type = 4, minLevel = 15, maxLevel = 150,desc = "Cường hóa trang bị có thể tăng lên trang bị sức chiến đấu" , img = "ui_new/fightresult/bg_tishi5.png"})
+mapArray:push({ id = 6, title = "Thăng cấp kỹ năng", layer_type = 2, minLevel = 15, maxLevel = 150,desc = "Thăng cấp hiệp khách kỹ năng, có thể gia tăng hiệp khách kỹ năng phóng ra hiệu quả và lợi ích" , img = "ui_new/fightresult/bg_tishi6.png"})
+mapArray:push({ id = 7, title = "Kinh mạch", layer_type = 2, minLevel = 25, maxLevel = 150,desc = "Tăng lên hiệp khách kinh mạch đẳng cấp, có thể đề cao hiệp khách sức chiến đấu" , img = "ui_new/fightresult/bg_tishi7.png"})
+mapArray:push({ id = 8, title = "Trang bị tinh luyện", layer_type = 4, minLevel = 30, maxLevel = 150,desc = "Tinh luyện trang bị, có thể đề cao trang bị kèm theo thuộc tính" , img = "ui_new/fightresult/bg_tishi8.png"})
+mapArray:push({ id = 9, title = "Trang bị thăng tinh", layer_type = 4, minLevel = 30, maxLevel = 150,desc = "Tăng lên trang bị Tinh Cấp, có thể đề cao trang bị sức chiến đấu" , img = "ui_new/fightresult/bg_tishi9.png"})
+mapArray:push({ id = 10, title = "Bảo thạch khảm nạm", layer_type = 4, minLevel = 35, maxLevel = 150,desc = "Hợp thành cấp bậc cao bảo thạch cũng vì trang bị khảm nạm bảo thạch, có thể tăng lên trang bị sức chiến đấu" , img = "ui_new/fightresult/bg_tishi10.png"})
+mapArray:push({ id = 11, title = "Hiệp khách tu luyện", layer_type = 2, minLevel = 25, maxLevel = 150,desc = "Sử dụng hiệp hồn để hiệp khách tu luyện, có thể tăng lên hiệp khách thuộc tính cùng sức chiến đấu" , img = "ui_new/fightresult/bg_tishi11.png"})
+mapArray:push({ id = 12, title = "Chiến lực khảo giáo", layer_type = 5, minLevel = 23, maxLevel = 150,desc = "Tiếp tục tu luyện cũng tăng lên thực lực của mình lấy thu hoạch được lần sau thắng lợi" , img = "ui_new/fightresult/bg_tishi12.png"})
+return mapArray

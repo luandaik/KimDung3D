@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <WebView android:id="@id/webView" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="460.0dip" android:layout_weight="0.4" />
+    <LinearLayout android:gravity="center_horizontal" android:id="@id/barLayout" android:layout_width="fill_parent" android:layout_height="30.0dip">
+        <ImageButton android:id="@id/btn_webview_back" android:background="#00000000" android:layout_width="80.0dip" android:layout_height="33.0dip" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/btn_webview_forward" android:background="#00000000" android:layout_width="80.0dip" android:layout_height="33.0dip" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/btn_webview_refresh" android:background="#00000000" android:layout_width="80.0dip" android:layout_height="33.0dip" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/btn_webview_close" android:background="#00000000" android:layout_width="80.0dip" android:layout_height="33.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

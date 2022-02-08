@@ -1,0 +1,13 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 1, count = 0, rate_next = 0, drop_list = "6,11,81,278,280", message = "xác suất thấp"})
+mapArray:push({ id = 2, count = 1, rate_next = 0, drop_list = "6,11,81,278,280", message = "xác suất thấp"})
+mapArray:push({ id = 3, count = 2, rate_next = 0, drop_list = "6,11,81,278,280", message = "xác suất thấp"})
+mapArray:push({ id = 4, count = 3, rate_next = 0, drop_list = "6,11,81,278,280", message = "xác suất thấp"})
+mapArray:push({ id = 5, count = 4, rate_next = 1, drop_list = "6,11,81,278,280", message = "xác suất khá thấp"})
+mapArray:push({ id = 6, count = 5, rate_next = 3, drop_list = "6,11,81,278,280", message = "xác suất khá thấp"})
+mapArray:push({ id = 7, count = 6, rate_next = 5, drop_list = "6,11,81,278,280", message = "xác suất khá thấp"})
+mapArray:push({ id = 8, count = 7, rate_next = 7, drop_list = "6,11,81,278,280", message = "xác suất khá"})
+mapArray:push({ id = 9, count = 8, rate_next = 10, drop_list = "6,11,81,278,280", message = "xác suất khá"})
+mapArray:push({ id = 10, count = 9, rate_next = 15, drop_list = "6,11,81,278,280", message = "xác suất khá"})
+mapArray:push({ id = 11, count = 10, rate_next = 100, drop_list = "6,11,81,278,280", message = "Lần này tất ra!"})
+return mapArray

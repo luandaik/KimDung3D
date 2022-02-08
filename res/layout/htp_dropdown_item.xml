@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:background="@android:color/transparent" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/htp_pop_selected" android:background="@drawable/htp_pop_selected" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+    <ImageButton android:id="@id/htp_pop_delete" android:background="@drawable/htp_del_acount" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+    <TextView android:textAppearance="?android:textAppearanceSmallInverse" android:textColor="@color/TextColorBlack" android:id="@id/htp_pop_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_toLeftOf="@id/htp_pop_delete" android:layout_toRightOf="@id/htp_pop_selected" style="?android:attr/dropDownItemStyle" />
+</RelativeLayout>

@@ -1,0 +1,10 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 1, goods = "1_35116_1", probability = 5, price1 = 50, price2 = 20})
+mapArray:push({ id = 2, goods = "1_35117_1", probability = 5, price1 = 150, price2 = 80})
+mapArray:push({ id = 3, goods = "1_30116_1", probability = 20, price1 = 150, price2 = 70})
+mapArray:push({ id = 4, goods = "1_30117_1", probability = 20, price1 = 500, price2 = 200})
+mapArray:push({ id = 5, goods = "1_35076_1", probability = 5, price1 = 50, price2 = 20})
+mapArray:push({ id = 6, goods = "1_35077_1", probability = 5, price1 = 150, price2 = 80})
+mapArray:push({ id = 7, goods = "1_30076_1", probability = 20, price1 = 150, price2 = 70})
+mapArray:push({ id = 8, goods = "1_30077_1", probability = 20, price1 = 500, price2 = 300})
+return mapArray

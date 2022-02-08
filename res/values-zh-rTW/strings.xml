@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="if_confirm_pay">確定要放棄支付嗎？</string>
+    <string name="please_login">請先登錄</string>
+    <string name="product_name">產品名稱：%1$s</string>
+    <string name="product_description">描述：%1$s</string>
+    <string name="pay_amount">充值金額：%1$s元</string>
+    <string name="alipay">支付寶</string>
+    <string name="unipay">銀聯支付</string>
+    <string name="pay_after_playing">先玩後付</string>
+    <string name="yeepay">易寶支付</string>
+    <string name="wxpay">微信支付</string>
+    <string name="htpay">黑桃支付</string>
+    <string name="next_step">下壹步</string>
+    <string name="choose_pay_way">請選擇支付方式</string>
+    <string name="union">銀聯</string>
+    <string name="yee">易寶</string>
+    <string name="wechat">微信</string>
+    <string name="heitaoB">黑桃幣</string>
+    <string name="pay_failed">支付失敗，msg=%1$s</string>
+    <string name="pay_success">支付成功</string>
+    <string name="yeepay_submiteed">易寶信息已提交--</string>
+    <string name="yeepay_pay_success">易寶支付成功----信息提交成功</string>
+    <string name="waiting_for_goods">信息已提交，請等待確認後發貨</string>
+    <string name="choose_card_amount">請選擇充值卡面值金額</string>
+    <string name="card_num_cannot_null">充值卡號不能為空</string>
+    <string name="card_pwd_cannot_null">充值卡密碼不能為空</string>
+    <string name="url_cannot_null">url為空或者無效</string>
+    <string name="cannot_pay_before_login">未登錄狀態不能進行支付</string>
+    <string name="pay_info_null">支付信息為空</string>
+    <string name="pay_initing">初始化支付中···</string>
+    <string name="init_pay_failed">初始化支付失敗</string>
+    <string name="network_error">網絡異常，請檢查網絡後重試</string>
+    <string name="init_fail">初始化失敗</string>
+    <string name="parsStringToMap_error">parsStringToMap異常，error=%1$s</string>
+    <string name="init_context_null">初始化Context為空</string>
+    <string name="ccmc">中國移動</string>
+    <string name="unicom">中國聯通</string>
+    <string name="egame">中國電信</string>
+    <string name="unknown_carrier">未知運營商</string>
+    <string name="device_id_context_null">獲取設備ID Context為空</string>
+    <string name="game_register_photo">遊戲註冊快照</string>
+    <string name="not_login">未登錄</string>
+    <string name="login_cancel">登錄取消</string>
+    <string name="pay_cancel">支付取消</string>
+    <string name="pay_fail">支付失敗</string>
+    <string name="pay_info_error">支付信息錯誤</string>
+    <string name="pay_info_identifying">支付結果確認中</string>
+    <string name="analysis_error">解析錯誤</string>
+    <string name="request_fail">請求失敗</string>
+    <string name="alipay_callback">支付寶回調，resultStatus=%1$s</string>
+    <string name="inspection_result">檢查結果為：%1$s</string>
+    <string name="pay_channel_null">支付中心-支付渠道為空</string>
+    <string name="order_is_requesting">訂單請求中···</string>
+    <string name="get_url_null">get請求URL為空</string>
+    <string name="post_url_null">post請求URL為空</string>
+    <string name="get_request_listener_null">get請求監聽為空</string>
+    <string name="post_request_listener_null">post請求監聽為空</string>
+    <string name="subclass_must_overwrite_parent">子類必須重寫該方法</string>
+    <string name="submit_data_fail">提交統計數據失敗，error=%1$s</string>
+    <string name="submit_data_success">提交統計數據成功</string>
+    <string name="htpay_center">黑桃支付中心</string>
+    <string name="pro_name">產品名稱：</string>
+    <string name="pro_des">產品描述</string>
+    <string name="pay_money">充值金額：</string>
+    <string name="please_choose_pay_way">請選擇適合您的充值方式</string>
+    <string name="service_hotline">(7x24小時客服熱線)</string>
+    <string name="cardID">卡號：</string>
+    <string name="pwd2">密碼：</string>
+    <string name="please_input_cardID">請輸入卡號</string>
+    <string name="amount">面值：</string>
+    <string name="please_input_card_amount">請選擇卡面金額</string>
+    <string name="please_input_old_pwd">請輸入舊密碼</string>
+    <string name="please_input_new_pwd">請輸入新密碼</string>
+    <string name="account_shouldbe_filledin">賬號必須填寫</string>
+    <string name="pwd_shouldbe_filledin">密碼必須填寫</string>
+    <string name="pwd_length_limit">密碼長度必須在6~16位之間</string>
+    <string name="pwd_modifying">密碼修改中···</string>
+    <string name="pwd_modified">修改密碼成功</string>
+    <string name="database_error">數據庫查詢失敗，userId=%1$s</string>
+    <string name="account_cannot_null">用戶名不能為空</string>
+    <string name="pwd_cannot_null">密碼不能為空</string>
+    <string name="is_logining">登錄中···</string>
+    <string name="logining_after_registering">壹鍵註冊登錄中···</string>
+    <string name="tip">提示</string>
+    <string name="save_as_photo">您剛註冊的賬號信息快照已經保存在相冊</string>
+    <string name="remember_info">"請牢記您的賬號和密碼
+賬號：%1$s
+密碼：%2$s
+"</string>
+    <string name="security_warning">為了您的賬號安全，建議在下次登錄時修改密碼。</string>
+    <string name="OK">確定</string>
+    <string name="Cancel">取消</string>
+    <string name="del_account_failed">賬號刪除失敗</string>
+    <string name="del_account_success">賬號刪除成功</string>
+    <string name="acc_cannot_null">賬號不能為空</string>
+    <string name="acc_head_character">賬號必須以字母開頭</string>
+    <string name="acc_character_num">賬號須由字母和數字組成</string>
+    <string name="acc_length_limit">賬號長度必須在4~16位</string>
+    <string name="registering">註冊中···</string>
+    <string name="login">登 錄</string>
+    <string name="please_input_accout">請輸入賬號</string>
+    <string name="please_input_pwd">請輸入密碼</string>
+    <string name="pwd_modify">修改密碼</string>
+    <string name="register_account">註冊賬號</string>
+    <string name="login_game">登錄遊戲</string>
+    <string name="account_register">賬號註冊</string>
+    <string name="oneclick_register_login">壹鍵註冊登錄</string>
+    <string name="account">賬 號：</string>
+    <string name="old_pwd">舊密碼：</string>
+    <string name="new_pwd">新密碼：</string>
+    <string name="ensure">確 認</string>
+    <string name="back">返 回</string>
+    <string name="register">註 冊</string>
+    <string name="pwd">密 碼：</string>
+</resources>

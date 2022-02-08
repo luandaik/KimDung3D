@@ -1,0 +1,12 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 1, coin_num = "1_30445_5", chance = 100, goods = "1_30432_2"})
+mapArray:push({ id = 2, coin_num = "1_30445_20", chance = 50, goods = "1_30433_2"})
+mapArray:push({ id = 3, coin_num = "1_30445_30", chance = 50, goods = "1_40575_1"})
+mapArray:push({ id = 4, coin_num = "1_30445_50", chance = 20, goods = "1_45442_5"})
+mapArray:push({ id = 5, coin_num = "1_30445_50", chance = 50, goods = "1_45424_5"})
+mapArray:push({ id = 6, coin_num = "1_30445_60", chance = 5, goods = "1_40344_1"})
+mapArray:push({ id = 7, coin_num = "1_30445_120", chance = 2, goods = "1_45479_1"})
+mapArray:push({ id = 8, coin_num = "1_30445_120", chance = 2, goods = "1_40601_1"})
+mapArray:push({ id = 9, coin_num = "1_30445_120", chance = 5, goods = "1_30038_1"})
+mapArray:push({ id = 10, coin_num = "1_30445_300", chance = 2, goods = "1_40624_1"})
+return mapArray

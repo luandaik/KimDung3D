@@ -1,0 +1,12 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 1, item = "1_30152_2", ratio = 10})
+mapArray:push({ id = 2, item = "1_30150_1", ratio = 100})
+mapArray:push({ id = 3, item = "1_30149_3", ratio = 150})
+mapArray:push({ id = 4, item = "1_30151_1", ratio = 150})
+mapArray:push({ id = 5, item = "1_30150_2", ratio = 120})
+mapArray:push({ id = 6, item = "1_30149_5", ratio = 150})
+mapArray:push({ id = 7, item = "1_30152_1", ratio = 50})
+mapArray:push({ id = 8, item = "1_30149_3", ratio = 100})
+mapArray:push({ id = 9, item = "1_30151_2", ratio = 50})
+mapArray:push({ id = 10, item = "1_30150_3", ratio = 120})
+return mapArray

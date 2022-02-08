@@ -1,0 +1,10 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 1, title = "Tiểu Huyền Tử Giang Nam ba nhật du", title_img = "ui_new/icon/escorting/1.png", total_day = 3, max_times = 10, finish_reward = 32000, min_times = 1, weights = 100, min_level = 1})
+mapArray:push({ id = 2, title = "Tiểu Huyền Tử Giang Nam ngũ nhật du", title_img = "ui_new/icon/escorting/1.png", total_day = 5, max_times = 10, finish_reward = 32001, min_times = 1, weights = 100, min_level = 15})
+mapArray:push({ id = 3, title = "Tiểu Huyền Tử Giang Nam ba nhật du", title_img = "ui_new/icon/escorting/1.png", total_day = 3, max_times = 10, finish_reward = 32002, min_times = 1, weights = 100, min_level = 15})
+mapArray:push({ id = 4, title = "Tiểu Huyền Tử Giang Nam ngũ nhật du", title_img = "ui_new/icon/escorting/1.png", total_day = 5, max_times = 10, finish_reward = 32003, min_times = 1, weights = 100, min_level = 15})
+mapArray:push({ id = 5, title = "Tiểu Huyền Tử Giang Nam ba nhật du", title_img = "ui_new/icon/escorting/1.png", total_day = 3, max_times = 10, finish_reward = 32004, min_times = 1, weights = 100, min_level = 15})
+mapArray:push({ id = 6, title = "Tiểu Huyền Tử Giang Nam ngũ nhật du", title_img = "ui_new/icon/escorting/1.png", total_day = 5, max_times = 10, finish_reward = 32005, min_times = 1, weights = 100, min_level = 15})
+mapArray:push({ id = 7, title = "Tiểu Huyền Tử Giang Nam ba nhật du", title_img = "ui_new/icon/escorting/1.png", total_day = 3, max_times = 10, finish_reward = 32006, min_times = 1, weights = 100, min_level = 15})
+mapArray:push({ id = 8, title = "Tiểu Huyền Tử Giang Nam ngũ nhật du", title_img = "ui_new/icon/escorting/1.png", total_day = 5, max_times = 10, finish_reward = 32007, min_times = 1, weights = 100, min_level = 15})
+return mapArray

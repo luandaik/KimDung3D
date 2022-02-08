@@ -1,0 +1,12 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 1, type = 1, max_value = 48, name = "Thể lực mua lại", desc1 = "Hôm qua thể lực vượt qua hạn mức tối đa, có thể mua lại", desc2 = "Điểm thể lực", price = 1, icon = "16", is_show = 1, open_level = 1})
+mapArray:push({ id = 2, type = 104, max_value = 40, name = "Ngự thiện mua lại", desc1 = "Hôm qua ngự thiện thưởng chưa lĩnh, có thể mua lại", desc2 = "Điểm thể lực", price = 1, icon = "15", is_show = 1, open_level = 1})
+mapArray:push({ id = 3, type = 3, max_value = 5, name = "Vô Lượng sơn số lần mua lại", desc1 = "Hôm qua khiêu chiến số lần chưa sử dụng, có thể mua lại", desc2 = "Lần khiêu chiến số lần", price = 5, icon = "10", is_show = 1, open_level = 20})
+mapArray:push({ id = 4, type = 100, max_value = 1, name = "Bắc quật bố trí lại số lần mua lại", desc1 = "Hôm qua bố trí lại số lần chưa sử dụng, có thể mua lại", desc2 = "Lần bố trí lại số lần", price = 100, icon = "11", is_show = 1, open_level = 20})
+mapArray:push({ id = 5, type = 14, max_value = 6, name = "Vô lượng ác mộng số lần mua lại", desc1 = "Hôm qua khiêu chiến số lần chưa sử dụng, có thể mua lại", desc2 = "Lần khiêu chiến số lần", price = 8, icon = "34", is_show = 1, open_level = 47})
+mapArray:push({ id = 6, type = 21, max_value = 2, name = "Xông trận số lần mua lại", desc1 = "Hôm qua khiêu chiến số lần chưa sử dụng, có thể mua lại", desc2 = "Lần khiêu chiến số lần", price = 50, icon = "35", is_show = 1, open_level = 70})
+mapArray:push({ id = 7, type = 10, max_value = 30, name = "Du lịch số lần mua lại", desc1 = "Hôm qua có bánh bao chưa sử dụng, có thể mua lại", desc2 = "Bánh bao", price = 1, icon = "28", is_show = 1, open_level = 65})
+mapArray:push({ id = 8, type = 101, max_value = 20, name = "Ngự thiện mua lại", desc1 = "Hôm qua bỏ lỡ ngự thiện thưởng, có thể mua lại", desc2 = "Điểm thể lực", price = 1, icon = "15", is_show = 0, open_level = 1})
+mapArray:push({ id = 9, type = 102, max_value = 10, name = "Ngự thiện mua lại", desc1 = "Hôm qua bỏ lỡ ngự thiện thưởng, có thể mua lại", desc2 = "Điểm thể lực", price = 1, icon = "15", is_show = 0, open_level = 1})
+mapArray:push({ id = 10, type = 103, max_value = 10, name = "Ngự thiện mua lại", desc1 = "Hôm qua bỏ lỡ ngự thiện thưởng, có thể mua lại", desc2 = "Điểm thể lực", price = 1, icon = "15", is_show = 0, open_level = 1})
+return mapArray

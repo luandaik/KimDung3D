@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <WebView android:id="@id/mainwebview" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/splash_layout" android:background="@drawable/bg" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/linearLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+            <TextView android:textColor="#ff535353" android:layout_gravity="center_horizontal" android:id="@id/msg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/loading" />
+            <ProgressBar android:layout_gravity="center_horizontal" android:id="@id/progressBar" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginTop="10.0dip" android:max="10000" android:indeterminateDrawable="@anim/smc_progress" />
+        </LinearLayout>
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/smc_splash" android:layout_above="@id/linearLayout" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</RelativeLayout>

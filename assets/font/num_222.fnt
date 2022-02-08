@@ -1,0 +1,19 @@
+info face="num_222" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 
+common lineHeight=27 base=26 scaleW=128 scaleH=128 pages=1 packed=0 
+page id=0 file="num_222.png"
+chars count=14
+char id=32   x=0     y=0	 width=0     height=0     xoffset=0     yoffset=0    xadvance=16     page=0  chnl=0
+char id=43			x=0	y=0	width=87	height=130	xoffset=0	yoffset=0	xadvance=84	page=0  chnl=0
+char id=46			x=89	y=0	width=29	height=130	xoffset=0	yoffset=0	xadvance=26	page=0  chnl=0
+char id=58			x=120	y=0	width=33	height=130	xoffset=0	yoffset=0	xadvance=30	page=0  chnl=0
+char id=92			x=155	y=0	width=73	height=130	xoffset=0	yoffset=0	xadvance=70	page=0  chnl=0
+char id=48			x=0	y=132	width=67	height=130	xoffset=0	yoffset=0	xadvance=64	page=0  chnl=0
+char id=49			x=69	y=132	width=65	height=130	xoffset=0	yoffset=0	xadvance=62	page=0  chnl=0
+char id=50			x=136	y=132	width=86	height=130	xoffset=0	yoffset=0	xadvance=83	page=0  chnl=0
+char id=51			x=224	y=132	width=69	height=130	xoffset=0	yoffset=0	xadvance=66	page=0  chnl=0
+char id=52			x=0	y=264	width=82	height=130	xoffset=0	yoffset=0	xadvance=79	page=0  chnl=0
+char id=53			x=84	y=264	width=105	height=130	xoffset=0	yoffset=0	xadvance=102	page=0  chnl=0
+char id=54			x=191	y=264	width=82	height=130	xoffset=0	yoffset=0	xadvance=79	page=0  chnl=0
+char id=55			x=275	y=264	width=73	height=130	xoffset=0	yoffset=0	xadvance=70	page=0  chnl=0
+char id=56			x=0	y=396	width=98	height=130	xoffset=0	yoffset=0	xadvance=95	page=0  chnl=0
+char id=57			x=100	y=396	width=87	height=130	xoffset=0	yoffset=0	xadvance=84	page=0  chnl=0

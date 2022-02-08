@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:background="@layout/htp_pay_linearlayout" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_width="wrap_content" android:layout_height="70.0dip">
+        <Button android:id="@id/btn_yeepay_CHL" android:background="@drawable/htp_pay_yeepay_chl" android:layout_width="105.0dip" android:layout_height="36.0dip" android:layout_marginLeft="5.0dip" />
+        <Button android:id="@id/btn_yeepay_CHU" android:background="@drawable/htp_pay_yeepay_chu" android:layout_width="105.0dip" android:layout_height="36.0dip" />
+        <Button android:id="@id/btn_yeepay_CHA" android:background="@drawable/htp_pay_yeepay_cha" android:layout_width="105.0dip" android:layout_height="36.0dip" android:layout_marginRight="5.0dip" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="40.0dip">
+        <TextView android:textColor="@android:color/black" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/cardID" />
+        <EditText android:textSize="15.0dip" android:id="@id/txt_card_no" android:background="@drawable/htp_public_text_bg" android:layout_width="wrap_content" android:layout_height="30.0dip" android:layout_marginRight="10.0dip" android:hint="@string/please_input_cardID" android:ems="10" android:singleLine="true" android:layout_weight="0.33" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="40.0dip">
+        <TextView android:textColor="@android:color/black" android:id="@id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/pwd2" />
+        <EditText android:textSize="15.0dip" android:id="@id/txt_card_pwd" android:background="@drawable/htp_public_text_bg" android:layout_width="wrap_content" android:layout_height="30.0dip" android:layout_marginRight="10.0dip" android:hint="@string/please_input_pwd" android:ems="10" android:singleLine="true" android:layout_weight="0.32" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="40.0dip">
+        <TextView android:textColor="@android:color/black" android:id="@id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/amount" />
+        <Button android:textSize="15.0dip" android:gravity="left" android:id="@id/btn_card_money" android:background="@drawable/htp_public_text_bg" android:layout_width="wrap_content" android:layout_height="30.0dip" android:layout_marginRight="10.0dip" android:text="@string/please_input_card_amount" android:ems="10" android:layout_weight="0.32" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="70.0dip">
+        <Button android:textColor="@android:color/white" android:id="@id/btn_yeepay_ok" android:background="@color/htp_green_btn_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/OK" />
+        <Button android:textColor="@android:color/white" android:id="@id/btn_yeepay_cancel" android:background="@color/htp_blue_btn_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:text="@string/Cancel" />
+    </LinearLayout>
+</LinearLayout>

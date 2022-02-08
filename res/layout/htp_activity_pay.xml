@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="top" android:orientation="vertical" android:background="#ffececec" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="top" android:orientation="horizontal" android:background="#ff60c2e7" android:layout_width="fill_parent" android:layout_height="44.0dip">
+        <Button android:textColor="@android:color/white" android:id="@id/btn_pay_left" android:background="@drawable/htp_pay_btn_back" android:layout_width="35.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" />
+        <TextView android:textSize="20.0dip" android:textColor="@color/TextColorBlack" android:gravity="center" android:id="@id/txt_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/htpay_center" android:singleLine="true" android:layout_weight="1.0" />
+        <Button android:id="@id/btn_pay_right" android:background="#00000000" android:layout_width="35.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="15.0dip" android:textColor="@color/TextColorBlack" android:id="@id/txt_product_name" android:layout_width="505.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:text="@string/pro_name" />
+        <TextView android:textSize="12.0dip" android:textColor="#ff404040" android:id="@id/txt_product_description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:text="@string/pro_des" />
+        <TextView android:textSize="15.0dip" android:textColor="@color/TextColorBlack" android:id="@id/txt_product_amount" android:layout_width="505.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:text="@string/pay_money" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="#ff404040" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/please_choose_pay_way" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="97.0dip">
+        <com.heitao.platform.activity.HTPPayButton android:id="@id/htppbtn_alipay" android:layout_width="70.0dip" android:layout_height="85.0dip" android:layout_marginLeft="0.0dip" android:layout_marginTop="10.0dip" />
+        <com.heitao.platform.activity.HTPPayButton android:id="@id/htppbtn_unionpay" android:layout_width="70.0dip" android:layout_height="85.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" />
+        <com.heitao.platform.activity.HTPPayButton android:id="@id/htppbtn_mo9" android:layout_width="70.0dip" android:layout_height="85.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" />
+        <com.heitao.platform.activity.HTPPayButton android:id="@id/htppbtn_yeepay" android:layout_width="70.0dip" android:layout_height="85.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" />
+        <com.heitao.platform.activity.HTPPayButton android:id="@id/htppbtn_weixinpay" android:layout_width="70.0dip" android:layout_height="85.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" />
+        <com.heitao.platform.activity.HTPPayButton android:id="@id/htppbtn_heitao" android:layout_width="70.0dip" android:layout_height="85.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" />
+        <com.heitao.platform.activity.HTPPayButton android:id="@id/htppbtn_smc" android:layout_width="70.0dip" android:layout_height="85.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" />
+        <com.heitao.platform.activity.HTPPayButton android:id="@id/htppbtn_wft" android:layout_width="70.0dip" android:layout_height="85.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" />
+        <com.heitao.platform.activity.HTPPayButton android:id="@id/htppbtn_wapsft" android:layout_width="70.0dip" android:layout_height="85.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textColor="@color/TextColorWhite" android:id="@id/btn_pay_next" android:background="@color/htp_blue_btn_selector" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/next_step" />
+    </LinearLayout>
+    <LinearLayout android:gravity="bottom|center|left" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textColor="#ffff8c1b" android:id="@id/txt_pay_tel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:layout_marginTop="0.0dip" android:text="400-058-5151" />
+        <TextView android:textColor="@color/TextColorBlack" android:id="@id/txt_pay_note" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:layout_marginTop="0.0dip" android:text="@string/service_hotline" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,87 @@
+<skeleton name="燕子坞 - 输出（前景）" frameRate="24" version="2.2.3">
+  <armatures>
+    <armature name="anim">
+      <b name="图层 3" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="wddasdas-14234504" />
+      </b>
+      <b name="图层 2" x="140.4" y="186.8" kX="17.33" kY="16.71" cX="2.08" cY="2.38" pX="0" pY="0" z="1">
+        <d name="wddasdas/42054" isArmature="1" />
+      </b>
+      <b name="e2eqweq" x="-104.6" y="400.6" kX="0" kY="0" cX="2.14" cY="2.14" pX="0" pY="0" z="2">
+        <d name="wddasdas/41054254345" isArmature="1" />
+      </b>
+      <b name="41054dwd254345" x="555.65" y="211.1" kX="0" kY="0" cX="2.14" cY="2.14" pX="0" pY="0" z="3">
+        <d name="wddasdas/41054254345" isArmature="1" />
+      </b>
+      <b name="cascwdas" x="-478.75" y="190.3" kX="0" kY="0" cX="1.77" cY="1.77" pX="0" pY="0" z="4">
+        <d name="wddasdas/41054254345" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="wddasdas/42054" isLoop="loop" startFrame="1">
+      <b name="图层 2" x="-97.5" y="-63.15" kX="0" kY="0" cX="2" cY="2" pX="-0.05" pY="0" z="0">
+        <d name="wddasdas-204524" />
+        <d name="wddasdas-110254054" />
+        <d name="wddasdas-542054" />
+        <d name="wddasdas-1420454" />
+      </b>
+    </armature>
+    <armature name="wddasdas/41054254345" isLoop="loop" startFrame="2">
+      <b name="图层 1" x="-15.75" y="-47.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="wddasdas-2054204" />
+        <d name="wddasdas-45205254" />
+        <d name="wddasdas-124504" />
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="wddasdas/42054">
+      <mov name="dwdasdas" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-97.5" y="-63.15" cocos2d_x="-97.4" cocos2d_y="-63.15" kX="0" kY="0" cX="2" cY="2" pX="-0.05" pY="0" z="0" dI="0" blend="normal" dr="2" />
+          <f x="-72.4" y="-43.75" cocos2d_x="-72.3" cocos2d_y="-43.75" kX="0" kY="0" cX="2" cY="2" pX="-0.05" pY="0" z="0" dI="1" blend="normal" dr="2" />
+          <f x="-79.5" y="-63.15" cocos2d_x="-79.4" cocos2d_y="-63.15" kX="0" kY="0" cX="2" cY="2" pX="-0.05" pY="0" z="0" dI="2" blend="normal" dr="2" />
+          <f x="-97.5" y="-61.3" cocos2d_x="-97.4" cocos2d_y="-61.2" kX="0" kY="0" cX="2" cY="2" pX="-0.05" pY="-0.05" z="0" dI="3" blend="normal" dr="2" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="wddasdas/41054254345">
+      <mov name="dwdada" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-15.75" y="-47.25" cocos2d_x="-15.75" cocos2d_y="-47.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="2" />
+          <f x="-19.6" y="-53.1" cocos2d_x="-19.6" cocos2d_y="-53.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" blend="normal" dr="2" />
+          <f x="-12.9" y="-31.25" cocos2d_x="-12.9" cocos2d_y="-31.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" blend="normal" dr="2" />
+          <f x="-19.6" y="-53.1" cocos2d_x="-19.6" cocos2d_y="-53.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" blend="normal" dr="2" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="anim">
+      <mov name="anim" dr="80" to="0" drTW="80" lp="1" twE="NaN">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="80" />
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="140.4" y="186.8" cocos2d_x="140.4" cocos2d_y="186.8" kX="17.33" kY="16.71" cX="2.08" cY="2.38" fst="0" pX="0" pY="0" z="1" dI="0" dr="80" />
+        </b>
+        <b name="e2eqweq" sc="1" dl="0">
+          <f x="-104.6" y="400.6" cocos2d_x="-104.6" cocos2d_y="400.6" kX="0" kY="0" cX="2.14" cY="2.14" fst="1" pX="0" pY="0" z="2" dI="0" dr="80" />
+        </b>
+        <b name="41054dwd254345" sc="1" dl="0">
+          <f x="555.65" y="211.1" cocos2d_x="555.65" cocos2d_y="211.1" kX="0" kY="0" cX="2.14" cY="2.14" fst="2" pX="0" pY="0" z="3" dI="0" dr="80" />
+        </b>
+        <b name="cascwdas" sc="1" dl="0">
+          <f x="-478.75" y="190.3" cocos2d_x="-478.75" cocos2d_y="190.3" kX="0" kY="0" cX="1.77" cY="1.77" fst="0" pX="0" pY="0" z="4" dI="0" dr="80" />
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="燕子坞 - 输出（前景）" width="2048" height="512">
+    <SubTexture name="wddasdas-124504" width="104" height="114" x="1899" y="0" cocos2d_pX="53.00" cocos2d_pY="58.50" />
+    <SubTexture name="wddasdas-45205254" width="131" height="91" x="1767" y="0" cocos2d_pX="67.00" cocos2d_pY="47.50" />
+    <SubTexture name="wddasdas-2054204" width="106" height="52" x="1767" y="92" cocos2d_pX="54.50" cocos2d_pY="28.00" />
+    <SubTexture name="wddasdas-1420454" width="317" height="199" x="1137" y="0" cocos2d_pX="156.65" cocos2d_pY="94.15" />
+    <SubTexture name="wddasdas-542054" width="308" height="202" x="1137" y="200" cocos2d_pX="154.15" cocos2d_pY="104.55" />
+    <SubTexture name="wddasdas-110254054" width="298" height="199" x="1446" y="204" cocos2d_pX="145.35" cocos2d_pY="98.70" />
+    <SubTexture name="wddasdas-204524" width="311" height="203" x="1455" y="0" cocos2d_pX="151.65" cocos2d_pY="103.55" />
+    <SubTexture name="wddasdas-14234504" width="1136" height="216" x="0" y="0" cocos2d_pX="568.00" cocos2d_pY="-103.95" />
+  </TextureAtlas>
+</skeleton>

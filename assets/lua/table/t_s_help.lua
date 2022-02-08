@@ -1,0 +1,10 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 1, name = "Hiệp khách", content = "Hiệp khách: chia làm 4 phẩm giai: Đinh, Bính, Ất, giáp.\n在阵容界面中，点击Hiệp khách头像就可以对该Hiệp khách进行各种培养操作。\n1.传功：消耗垃圾Hiệp khách魂或Hiệp khách，让Hiệp khách的等级快速提升。\n2.修炼：利用Hiệp khách相同的Hiệp khách魂，使Hiệp khách的修炼等级得到提升，成长能力会得到质的飞越。\n3.经脉：有真气就可以每天点一点经脉，战力轻松拿。\n4.突破：经脉点全满时，Hiệp khách就可以突破了。\n5.技能：点击技能升级，让技能更暴力些。", comment = "人物"})
+mapArray:push({ id = 2, name = "Trang bị", content = "Trang bị：chia làm 4 phẩm giai: Đinh, Bính, Ất, giáp.\n在铁匠铺中可对Trang bị进行各种操作。\n1.强化：Trang bị提升战力最暴力的方法。\n2.升星：让Trang bị的成长值飞起来的途径。\n3.精练：哪里不爽洗哪里，让精练把Trang bị洗成理想状态。\n4.镶嵌：给Trang bị镶嵌一颗宝石，战力直接提高。\n5.合成：低级石头也有春天，快来合成吧。", comment = "Vật phẩm"})
+mapArray:push({ id = 3, name = "Ba lô", content = "Ba lô：tiến hành mở rộng Hiệp khách cùng Trang bị hợp thành.\n1.侠魂：收集对应数量的侠魂后，可以合成一个Hiệp khách。\n2.碎片：收集对应数量的Trang bị碎片后，可合成一个Trang bị。\n3.道具：存放道具的地方。\n4.礼包：存放礼包的地方。\n", comment = "葵花宝典"})
+mapArray:push({ id = 4, name = "Thành tựu", content = "Thành tựu：Trong trò chơi 完成Thành tựu即可领取奖励的好去处。", comment = "Vật phẩm"})
+mapArray:push({ id = 5, name = "Bày trận", content = "Bày trận：让战斗更有策略性，快来欢快的Bày trận吧。", comment = "人物"})
+mapArray:push({ id = 6, name = "Vượt Ải", content = "Vượt Ải：跟着关卡走，体验剧情的地方。\n1.普通：普通副本是纯体验剧情的地方。\n2.宗师：宗师副本是获取游戏资源比较快的捷径。", comment = "葵花宝典"})
+mapArray:push({ id = 7, name = "Thương thành", content = "Thương thành：在Thương thành中可招募到好的Hiệp khách，可购买好的道具。", comment = "人物"})
+mapArray:push({ id = 8, name = "Kỳ ngộ", content = "Kỳ ngộ：Kỳ ngộ中有很多特色玩法。每天都可以在Kỳ ngộ中获得大量游戏资源。", comment = "Vật phẩm"})
+return mapArray

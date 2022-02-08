@@ -1,0 +1,112 @@
+<skeleton name="药王庄 - 输出 1" frameRate="24" version="2.2.3">
+  <armatures>
+    <armature name="anim">
+      <b name="5432035" x="-377.75" y="210.3" kX="0" kY="0" cX="1" cY="1" pX="-20" pY="31.55" z="0">
+        <d name="dadadw/112054254" isArmature="1" />
+      </b>
+      <b name="4250254" x="32.05" y="258.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="dadadw/4250254" isArmature="1" />
+      </b>
+      <b name="4250354" x="245.1" y="241.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="dadadw/4250354" isArmature="1" />
+      </b>
+      <b name="图层 3" x="-3.9" y="0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="dadadw-14230435" />
+      </b>
+      <b name="图层 4" x="-3.9" y="0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="dadadw-142304222" />
+      </b>
+      <b name="图层 2" x="482.5" y="259" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5">
+        <d name="dadadw/1420454" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="dadadw/112054254" isLoop="loop" startFrame="10">
+      <b name="图层 1" x="-13" y="41.05" kX="0" kY="0" cX="1" cY="1" pX="-13" pY="41.05" z="0">
+        <d name="dadadw-5432035" />
+      </b>
+    </armature>
+    <armature name="dadadw/4250254" isLoop="loop" startFrame="10">
+      <b name="图层 1" x="17" y="72.05" kX="0" kY="0" cX="1" cY="1" pX="17" pY="72.05" z="0">
+        <d name="dadadw-124454" />
+      </b>
+    </armature>
+    <armature name="dadadw/4250354" isLoop="loop" startFrame="10">
+      <b name="图层 1" x="9" y="84.05" kX="0" kY="0" cX="1" cY="1" pX="9" pY="78.55" z="0">
+        <d name="dadadw-2543054" />
+      </b>
+    </armature>
+    <armature name="dadadw/1420454" isLoop="loop" startFrame="10">
+      <b name="图层 1" x="3.75" y="66.3" kX="0" kY="0" cX="1" cY="1" pX="3.75" pY="66.3" z="0">
+        <d name="dadadw-1253205454" />
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="dadadw/112054254">
+      <mov name="cascaac" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-13" y="41.05" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-13" pY="41.05" z="0" dI="0" blend="normal" twE="0" dr="29" />
+          <f x="-13" y="41.05" cocos2d_x="-7" cocos2d_y="-1.15" kX="-9.62" kY="-7.19" cX="1" cY="1" pX="-13" pY="41.15" z="0" dI="0" blend="normal" twE="0" dr="30" />
+          <f x="-13" y="41.05" cocos2d_x="0.15" cocos2d_y="0" kX="0.22" kY="0.22" cX="1" cY="1" pX="-13" pY="41.1" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dadadw/4250254">
+      <mov name="casassdd" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="17" y="72.05" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="17" pY="72.05" z="0" dI="0" blend="normal" twE="0" dr="29" />
+          <f x="17" y="72.05" cocos2d_x="15.3" cocos2d_y="-2" kX="11.97" kY="11.97" cX="1" cY="1" pX="17.05" pY="72.05" z="0" dI="0" blend="normal" twE="0" dr="30" />
+          <f x="17" y="72.05" cocos2d_x="-0.85" cocos2d_y="0.15" kX="-0.7" kY="-0.7" cX="1" cY="1" pX="17" pY="72.1" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dadadw/4250354">
+      <mov name="wdasas" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="9" y="84.05" cocos2d_x="0" cocos2d_y="5.5" kX="0" kY="0" cX="1" cY="1" pX="9" pY="78.55" z="0" dI="0" blend="normal" twE="0" dr="29" />
+          <f x="9" y="84.05" cocos2d_x="7.55" cocos2d_y="5.05" kX="5.45" kY="5.45" cX="1" cY="1" pX="8.95" pY="78.45" z="0" dI="0" blend="normal" twE="0" dr="30" />
+          <f x="9" y="84.05" cocos2d_x="0.05" cocos2d_y="5.5" kX="0.05" kY="0.05" cX="1" cY="1" pX="9" pY="78.55" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dadadw/1420454">
+      <mov name="dwdwdw" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="3.75" y="66.3" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="3.75" pY="66.3" z="0" dI="0" blend="normal" twE="0" dr="29" />
+          <f x="3.75" y="66.3" cocos2d_x="15.2" cocos2d_y="0.9" kX="13.2" kY="13.2" cX="1" cY="1" pX="3.8" pY="66.25" z="0" dI="0" blend="normal" twE="0" dr="30" />
+          <f x="3.75" y="66.3" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="3.75" pY="66.3" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="anim">
+      <mov name="anim" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="5432035" sc="1" dl="0">
+          <f x="-377.75" y="210.3" cocos2d_x="-357.75" cocos2d_y="178.75" kX="0" kY="0" cX="1" cY="1" fst="9" pX="-20" pY="31.55" z="0" dI="0" dr="60" />
+        </b>
+        <b name="4250254" sc="1" dl="0">
+          <f x="32.05" y="258.35" cocos2d_x="32.05" cocos2d_y="258.35" kX="0" kY="0" cX="1" cY="1" fst="9" pX="0" pY="0" z="1" dI="0" dr="60" />
+        </b>
+        <b name="4250354" sc="1" dl="0">
+          <f x="245.1" y="241.65" cocos2d_x="245.1" cocos2d_y="241.65" kX="0" kY="0" cX="1" cY="1" fst="9" pX="0" pY="0" z="2" dI="0" dr="60" />
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="-3.9" y="0.65" cocos2d_x="-3.9" cocos2d_y="0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" blend="normal" dr="60" />
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="-3.9" y="0.65" cocos2d_x="-3.9" cocos2d_y="0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" blend="normal" dr="60" />
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="482.5" y="259" cocos2d_x="482.5" cocos2d_y="259" kX="0" kY="0" cX="1" cY="1" fst="9" pX="0" pY="0" z="5" dI="0" dr="60" />
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="药王庄 - 输出 1" width="1024" height="512">
+    <SubTexture name="dadadw-1253205454" width="86" height="91" x="767" y="86" cocos2d_pX="49.65" cocos2d_pY="20.50" />
+    <SubTexture name="dadadw-2543054" width="125" height="147" x="641" y="0" cocos2d_pX="90.70" cocos2d_pY="66.70" />
+    <SubTexture name="dadadw-124454" width="100" height="93" x="898" y="0" cocos2d_pX="63.40" cocos2d_pY="20.10" />
+    <SubTexture name="dadadw-5432035" width="130" height="85" x="767" y="0" cocos2d_pX="79.95" cocos2d_pY="44.95" />
+    <SubTexture name="dadadw-142304222" width="460" height="198" x="0" y="199" cocos2d_pX="575.70" cocos2d_pY="-125.50" />
+    <SubTexture name="dadadw-14230435" width="640" height="198" x="0" y="0" cocos2d_pX="64.15" cocos2d_pY="-125.50" />
+  </TextureAtlas>
+</skeleton>

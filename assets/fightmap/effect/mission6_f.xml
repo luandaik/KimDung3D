@@ -1,0 +1,28 @@
+<skeleton name="杏子林 - 输出(前景)" frameRate="24" version="2.2.3">
+  <armatures>
+    <armature name="anim">
+      <b name="图层 2" x="-390.5" y="248.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dasdwdw-12.45" />
+      </b>
+      <b name="图层 1" x="366.8" y="238.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="dasdwdw-1420454" />
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="anim">
+      <mov name="anim" dr="1" to="0">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-390.5" y="248.25" cocos2d_x="-390.5" cocos2d_y="248.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="366.8" y="238.45" cocos2d_x="366.8" cocos2d_y="238.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="杏子林 - 输出(前景)" width="512" height="512">
+    <SubTexture name="dasdwdw-1420454" width="387" height="167" x="0" y="0" cocos2d_pX="179.85" cocos2d_pY="81.75" />
+    <SubTexture name="dasdwdw-12.45" width="345" height="147" x="0" y="168" cocos2d_pX="183.20" cocos2d_pY="71.95" />
+  </TextureAtlas>
+</skeleton>

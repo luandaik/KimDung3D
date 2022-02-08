@@ -1,0 +1,1 @@
+MainPlayer   = require("lua.gamedata.MainPlayer")

@@ -1,0 +1,190 @@
+<skeleton name="华山论剑 前层云 输出 1213" frameRate="24" version="2.2.3">
+  <armatures>
+    <armature name="anim">
+      <b name="bgtrgnswtymytmty" x="-670.3" y="105.85" kX="0" kY="0" cX="1" cY="1" pX="-439.9" pY="0" z="0">
+        <d name="xxx/huangrong04" isArmature="1" />
+      </b>
+      <b name="vreaebrebntr" x="109.75" y="380.55" kX="0" kY="0" cX="1" cY="1" pX="2.35" pY="0" z="1">
+        <d name="xxx/huangrong05" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="xxx/huangrong04" isLoop="loop" startFrame="1">
+      <b name="nftgsymytmyt" x="-616.8" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="xxx/huangrong40" isArmature="1" />
+      </b>
+      <b name="nftgstrymyt" x="1382" y="-112.2" kX="0" kY="180" cX="1.27" cY="2.2" pX="0" pY="0" z="1">
+        <d name="xxx/huangrong39" isArmature="1" />
+      </b>
+      <b name="btrsmymyt" x="-552.4" y="27.4" kX="0" kY="0" cX="0.93" cY="1.52" pX="0" pY="0" z="2">
+        <d name="xxx/huangrong40" isArmature="1" />
+      </b>
+      <b name="ntrdsfxnmgnmy" x="1382" y="-112.2" kX="0" kY="180" cX="1.27" cY="2.2" pX="0" pY="0" z="3">
+        <d name="xxx/huangrong39" isArmature="1" />
+      </b>
+      <b name="btrnswtrn" x="-552.4" y="27.4" kX="0" kY="0" cX="0.93" cY="1.52" pX="0" pY="0" z="4">
+        <d name="xxx/huangrong40" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="xxx/huangrong40" isLoop="loop" startFrame="1">
+      <b name="图层 1" x="-1.8" y="13.8" kX="0" kY="0" cX="0.96" cY="0.25" pX="-1.9" pY="54.5" z="0">
+        <d name="xxx-huangrong43" />
+      </b>
+    </armature>
+    <armature name="xxx/huangrong39" isLoop="loop" startFrame="1">
+      <b name="图层 1" x="-1.8" y="13.8" kX="0" kY="0" cX="0.96" cY="0.25" pX="-1.9" pY="54.5" z="0">
+        <d name="xxx-huangrong42" />
+      </b>
+    </armature>
+    <armature name="xxx/huangrong05" isLoop="loop" startFrame="1">
+      <b name="vbfretnstrnvreshwntrntgdf" x="1022.35" y="-63.55" kX="0" kY="180" cX="3.09" cY="4.12" pX="0" pY="0" z="0">
+        <d name="xxx/huangrong39" isArmature="1" />
+      </b>
+      <b name="vbfretnstrnntrsntr" x="669.3" y="-54.25" kX="0" kY="180" cX="1.62" cY="3.83" pX="0" pY="0" z="1">
+        <d name="xxx/huangrong39" isArmature="1" />
+      </b>
+      <b name="vbfretnstrnbtrsntr" x="-1126.85" y="-21.6" kX="0" kY="0" cX="2.53" cY="4.95" pX="0" pY="0" z="2">
+        <d name="xxx/huangrong39" isArmature="1" />
+      </b>
+      <b name="vbfretnstrnvfrtebwnbtr" x="-874.35" y="-7.2" kX="0" kY="0" cX="2.81" cY="4.47" pX="0" pY="0" z="3">
+        <d name="xxx/huangrong39" isArmature="1" />
+      </b>
+      <b name="vbfretnstrnvbreanbtre" x="-1119.45" y="-83.6" kX="0" kY="0" cX="2.25" cY="3.67" pX="0" pY="0" z="4">
+        <d name="xxx/huangrong39" isArmature="1" />
+      </b>
+      <b name="vbfretnstrntrsanrt" x="600.7" y="-45.85" kX="0" kY="180" cX="1.86" cY="4" pX="0" pY="0" z="5">
+        <d name="xxx/huangrong39" isArmature="1" />
+      </b>
+      <b name="vbfretnstrnbrtenstre" x="1026.3" y="-18.25" kX="0" kY="180" cX="3.09" cY="4.12" pX="0" pY="0" z="6">
+        <d name="xxx/huangrong39" isArmature="1" />
+      </b>
+      <b name="vbfretnstrnbftgrsnrt" x="669.3" y="-73.75" kX="0" kY="180" cX="1.62" cY="3.3" pX="0" pY="0" z="7">
+        <d name="xxx/huangrong39" isArmature="1" />
+      </b>
+      <b name="vbfretnstrnbfrtewsnret" x="759.3" y="-77.05" kX="0" kY="180" cX="1.62" cY="3.98" pX="0" pY="0" z="8">
+        <d name="xxx/huangrong39" isArmature="1" />
+      </b>
+      <b name="vbfretnstrnvreanbt" x="-874.35" y="-7.2" kX="0" kY="0" cX="2.81" cY="4.47" pX="0" pY="0" z="9">
+        <d name="xxx/huangrong39" isArmature="1" />
+      </b>
+      <b name="vbfretnstrnfcreb" x="-1119.45" y="-79.7" kX="0" kY="0" cX="2.25" cY="3.54" pX="0" pY="0" z="10">
+        <d name="xxx/huangrong39" isArmature="1" />
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="xxx/huangrong40">
+      <mov name="btrsnztrn" dr="300" to="0" drTW="300" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-1.8" y="13.8" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.96" cY="0.25" fst="0" pX="-1.9" pY="54.5" z="0" dI="0" twE="0" dr="299" />
+          <f x="1690.2" y="13.8" cocos2d_x="1692" cocos2d_y="0" kX="0" kY="0" cX="0.96" cY="0.25" fst="0" pX="-1.85" pY="54.5" z="0" dI="0" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="xxx/huangrong39">
+      <mov name="fvbdsanbtntr" dr="300" to="0" drTW="300" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-1.8" y="13.8" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.96" cY="0.25" fst="0" pX="-1.9" pY="54.5" z="0" dI="0" twE="0" dr="113" />
+          <f x="637.65" y="13.8" cocos2d_x="639.45" cocos2d_y="0" kX="0" kY="0" cX="0.96" cY="0.25" fst="0" pX="-1.85" pY="54.5" z="0" dI="0" twE="0" dr="186" />
+          <f x="1690.2" y="13.8" cocos2d_x="1692" cocos2d_y="0" kX="0" kY="0" cX="0.96" cY="0.25" fst="0" pX="-1.85" pY="54.5" z="0" dI="0" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="xxx/huangrong04">
+      <mov name="vrewnsbatren" dr="300" to="0" drTW="300" lp="1" twE="NaN">
+        <b name="nftgsymytmyt" sc="1" dl="0">
+          <f x="-616.8" y="0" cocos2d_x="-616.8" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="0" dI="0" dr="300" />
+        </b>
+        <b name="nftgstrymyt" sc="1" dl="0">
+          <f dr="54" dI="-1" />
+          <f x="1382" y="-112.2" cocos2d_x="1382" cocos2d_y="-112.2" kX="0" kY="180" cX="1.27" cY="2.2" fst="0" pX="0" pY="0" z="1" dI="0" dr="246" />
+        </b>
+        <b name="btrsmymyt" sc="1" dl="0">
+          <f dr="107" dI="-1" />
+          <f x="-552.4" y="27.4" cocos2d_x="-552.4" cocos2d_y="27.4" kX="0" kY="0" cX="0.93" cY="1.52" fst="0" pX="0" pY="0" z="2" dI="0" dr="193" />
+        </b>
+        <b name="ntrdsfxnmgnmy" sc="1" dl="0">
+          <f x="1382" y="-112.2" cocos2d_x="1382" cocos2d_y="-112.2" kX="0" kY="180" cX="1.27" cY="2.2" fst="246" pX="0" pY="0" z="3" dI="0" dr="54" />
+          <f dr="246" dI="-1" />
+        </b>
+        <b name="btrnswtrn" sc="1" dl="0">
+          <f x="-552.4" y="27.4" cocos2d_x="-552.4" cocos2d_y="27.4" kX="0" kY="0" cX="0.93" cY="1.52" fst="193" pX="0" pY="0" z="4" dI="0" dr="107" />
+          <f dr="193" dI="-1" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="xxx/huangrong05">
+      <mov name="tgrwnsrtntr" dr="900" to="0" drTW="900" lp="1" twE="NaN">
+        <b name="vbfretnstrnvreshwntrntgdf" sc="1" dl="0">
+          <f x="1022.35" y="-63.55" cocos2d_x="1022.35" cocos2d_y="-63.55" kX="0" kY="180" cX="3.09" cY="4.12" fst="0" pX="0" pY="0" z="0" dI="0" dr="300" />
+          <f dr="600" dI="-1" />
+        </b>
+        <b name="vbfretnstrnntrsntr" sc="1" dl="0">
+          <f dr="10" dI="-1" />
+          <f x="669.3" y="-54.25" cocos2d_x="669.3" cocos2d_y="-54.25" kX="0" kY="180" cX="1.62" cY="3.83" fst="0" pX="0" pY="0" z="1" dI="0" dr="300" />
+          <f dr="590" dI="-1" />
+        </b>
+        <b name="vbfretnstrnbtrsntr" sc="1" dl="0">
+          <f dr="142" dI="-1" />
+          <f x="-1126.85" y="-21.6" cocos2d_x="-1126.85" cocos2d_y="-21.6" kX="0" kY="0" cX="2.53" cY="4.95" fst="0" pX="0" pY="0" z="2" dI="0" dr="300" />
+          <f dr="458" dI="-1" />
+        </b>
+        <b name="vbfretnstrnvfrtebwnbtr" sc="1" dl="0">
+          <f dr="282" dI="-1" />
+          <f x="-874.35" y="-7.2" cocos2d_x="-874.35" cocos2d_y="-7.2" kX="0" kY="0" cX="2.81" cY="4.47" fst="0" pX="0" pY="0" z="3" dI="0" dr="300" />
+          <f dr="318" dI="-1" />
+        </b>
+        <b name="vbfretnstrnvbreanbtre" sc="1" dl="0">
+          <f dr="315" dI="-1" />
+          <f x="-1119.45" y="-83.6" cocos2d_x="-1119.45" cocos2d_y="-83.6" kX="0" kY="0" cX="2.25" cY="3.67" fst="0" pX="0" pY="0" z="4" dI="0" dr="300" />
+          <f dr="285" dI="-1" />
+        </b>
+        <b name="vbfretnstrntrsanrt" sc="1" dl="0">
+          <f dr="114" dI="-1" />
+          <f x="600.7" y="-45.85" cocos2d_x="600.7" cocos2d_y="-45.85" kX="0" kY="180" cX="1.86" cY="4" fst="0" pX="0" pY="0" z="5" dI="0" dr="300" />
+          <f dr="486" dI="-1" />
+        </b>
+        <b name="vbfretnstrnbrtenstre" sc="1" dl="0">
+          <f dr="356" dI="-1" />
+          <f x="1026.3" y="-18.25" cocos2d_x="1026.3" cocos2d_y="-18.25" kX="0" kY="180" cX="3.09" cY="4.12" fst="0" pX="0" pY="0" z="6" dI="0" dr="300" />
+          <f dr="105" dI="-1" />
+          <f x="759.3" y="-77.05" cocos2d_x="759.3" cocos2d_y="-77.05" kX="0" kY="180" cX="1.62" cY="3.98" fst="0" pX="0" pY="0" z="6" dI="0" dr="139" />
+        </b>
+        <b name="vbfretnstrnbftgrsnrt" sc="1" dl="0">
+          <f dr="366" dI="-1" />
+          <f x="669.3" y="-73.75" cocos2d_x="669.3" cocos2d_y="-73.75" kX="0" kY="180" cX="1.62" cY="3.3" fst="0" pX="0" pY="0" z="7" dI="0" dr="300" />
+          <f dr="234" dI="-1" />
+        </b>
+        <b name="vbfretnstrnbfrtewsnret" sc="1" dl="0">
+          <f x="759.3" y="-77.05" cocos2d_x="759.3" cocos2d_y="-77.05" kX="0" kY="180" cX="1.62" cY="3.98" fst="139" pX="0" pY="0" z="8" dI="0" dr="161" />
+          <f dr="351" dI="-1" />
+          <f x="798.7" y="-75.25" cocos2d_x="798.7" cocos2d_y="-75.25" kX="0" kY="180" cX="1.86" cY="4" fst="0" pX="0" pY="0" z="8" dI="0" dr="300" />
+          <f dr="88" dI="-1" />
+        </b>
+        <b name="vbfretnstrnvreanbt" sc="1" dl="0">
+          <f x="-874.35" y="-7.2" cocos2d_x="-874.35" cocos2d_y="-7.2" kX="0" kY="0" cX="2.81" cY="4.47" fst="283" pX="0" pY="0" z="9" dI="0" dr="17" />
+          <f dr="600" dI="-1" />
+          <f x="-874.35" y="-7.2" cocos2d_x="-874.35" cocos2d_y="-7.2" kX="0" kY="0" cX="2.81" cY="4.47" fst="0" pX="0" pY="0" z="9" dI="0" dr="283" />
+        </b>
+        <b name="vbfretnstrnfcreb" sc="1" dl="0">
+          <f x="-1119.45" y="-79.7" cocos2d_x="-1119.45" cocos2d_y="-79.7" kX="0" kY="0" cX="2.25" cY="3.54" fst="250" pX="0" pY="0" z="10" dI="0" dr="50" />
+          <f dr="600" dI="-1" />
+          <f x="-1119.45" y="-79.7" cocos2d_x="-1119.45" cocos2d_y="-79.7" kX="0" kY="0" cX="2.25" cY="3.54" fst="0" pX="0" pY="0" z="10" dI="0" dr="250" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="anim">
+      <mov name="donghua" dr="900" to="0" drTW="900" lp="1" twE="NaN">
+        <b name="bgtrgnswtymytmty" sc="1" dl="0">
+          <f x="-670.3" y="105.85" cocos2d_x="-230.4" cocos2d_y="105.85" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-439.9" pY="0" z="0" dI="0" dr="900" />
+        </b>
+        <b name="vreaebrebntr" sc="1" dl="0">
+          <f x="109.75" y="380.55" cocos2d_x="107.4" cocos2d_y="380.55" kX="0" kY="0" cX="1" cY="1" fst="0" pX="2.35" pY="0" z="1" dI="0" dr="900" />
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="华山论剑 前层云 输出 1213" width="1024" height="512">
+    <SubTexture name="xxx-huangrong42" width="650" height="231" x="0" y="0" cocos2d_pX="329.00" cocos2d_pY="114.00" />
+    <SubTexture name="xxx-huangrong43" width="620" height="192" x="0" y="232" cocos2d_pX="314.00" cocos2d_pY="95.00" />
+  </TextureAtlas>
+</skeleton>

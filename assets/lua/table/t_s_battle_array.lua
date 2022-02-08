@@ -1,0 +1,12 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 50026, quality = 4, base_attribute = "1_3000|2_600|4_800|3_600|5_1000", grow = "1_300|2_60|4_80|3_60|5_100", compose = "1_52046_150", effect_id = 0, describ = "Thuộc Tính：Thân pháp", fragment_id = 52046, on_show = 1})
+mapArray:push({ id = 50027, quality = 5, base_attribute = "1_7500|2_1500|4_2000|3_1500|5_2500", grow = "1_525|2_105|4_140|3_105|5_175", compose = "1_52047_200", effect_id = 0, describ = "Thuộc Tính：Thân pháp", fragment_id = 52047, on_show = 1})
+mapArray:push({ id = 50028, quality = 4, base_attribute = "1_4000|2_600|4_600|3_1000|5_600", grow = "1_400|2_60|4_60|3_100|5_60", compose = "1_52048_150", effect_id = 2, describ = "Thuộc Tính：Phòng ngự", fragment_id = 52048, on_show = 1})
+mapArray:push({ id = 50029, quality = 5, base_attribute = "1_10000|2_1500|4_1500|3_2500|5_1500", grow = "1_700|2_105|4_105|3_175|5_105", compose = "1_52049_200", effect_id = 2, describ = "Thuộc Tính：Phòng ngự", fragment_id = 52049, on_show = 1})
+mapArray:push({ id = 50030, quality = 4, base_attribute = "1_3000|2_1000|4_600|3_600|5_800", grow = "1_300|2_100|4_60|3_60|5_80", compose = "1_52050_150", effect_id = 1, describ = "Thuộc Tính：Võ lực", fragment_id = 52050, on_show = 1})
+mapArray:push({ id = 50031, quality = 5, base_attribute = "1_7500|2_2500|4_1500|3_1500|5_2000", grow = "1_525|2_175|4_105|3_105|5_140", compose = "1_52051_200", effect_id = 1, describ = "Thuộc Tính：Võ lực", fragment_id = 52051, on_show = 1})
+mapArray:push({ id = 50035, quality = 5, base_attribute = "1_50000|2_10000|4_10000|3_10000|5_10000", grow = "1_4000|2_1020|4_1020|3_1060|5_1020", compose = "1_52052_200", effect_id = 3, describ = "Thuộc Tính：Khí huyết", fragment_id = 52052, on_show = 1})
+mapArray:push({ id = 50036, quality = 5, base_attribute = "1_9000|2_2400|4_3000|3_1800|5_1800", grow = "1_600|2_160|4_200|3_120|5_120", compose = "1_52053_200", effect_id = 3, describ = "Thuộc Tính：Nội lực", fragment_id = 52053, on_show = 1})
+mapArray:push({ id = 50037, quality = 5, base_attribute = "1_10500|2_2800|4_3500|3_2100|5_2100", grow = "1_675|2_180|4_225|3_135|5_135", compose = "1_52054_200", effect_id = 5, describ = "Thuộc Tính: Nội lực、Trúng đích", fragment_id = 52054, on_show = 1})
+mapArray:push({ id = 50038, quality = 5, base_attribute = "1_20500|2_5500|4_4100|3_4100|5_5800", grow = "1_975|2_325|4_235|3_235|5_220", compose = "1_52066_200", effect_id = 4, describ = "Thuộc Tính：Võ lực、Trúng đích", fragment_id = 52066, on_show = 1})
+return mapArray

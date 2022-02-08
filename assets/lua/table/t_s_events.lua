@@ -1,0 +1,11 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 1, name = "12 Điểm Ngự Thiện Phòng mở yến thông tri", date = "0-0-0 12:00:00", desc = "Ngự Thiện Phòng cung đình heo sữa quay đã xào nấu được rồi, mau tới nhấm nháp đi." , key = "eatPig1"})
+mapArray:push({ id = 2, name = "18 Điểm Ngự Thiện Phòng mở yến thông tri", date = "0-0-0 18:00:00", desc = "Ngự Thiện Phòng cung đình heo sữa quay đã xào nấu được rồi, mau tới nhấm nháp đi." , key = "eatPig2"})
+mapArray:push({ id = 3, name = "21 Điểm Ngự Thiện Phòng mở yến thông tri", date = "0-0-0 21:00:00", desc = "Ngự Thiện Phòng cung đình heo sữa quay đã xào nấu được rồi, mau tới nhấm nháp đi." , key = "eatPig3"})
+mapArray:push({ id = 4, name = "Tửu quán cửa hàng đổi mới", date = "0-0-0 8:00:00", desc = "Khách quan, tiểu điếm lại lên phê hàng mới, ngài có cần phải tới nhìn xem?" , key = "mall_refresh"})
+mapArray:push({ id = 5, name = "Quần hào phổ cửa hàng đổi mới", date = "0-0-0 8:00:00", desc = "Quần hào phổ điểm tích lũy thương thành lại có đồ tốt!" , key = "qunhao_mall_refresh"})
+mapArray:push({ id = 6, name = "Ẩn tàng VIP tiêu chí", date = "0-0-0 8:00:00", desc = "" , key = "open_vip"})
+-- mapArray:push({ id = 6, name = "Thể lực", date = "0-0-0 8:00:00", desc = "Thể lực giá trị đều đầy, lại không sử dụng liền đều lãng phí!"})
+-- mapArray:push({ id = 7, name = "Điểm kỹ năng", date = "0-0-0 8:00:00", desc = "Đại hiệp, điểm kỹ năng đều về đầy, nhanh đi thăng cấp kỹ năng đi!"})
+-- mapArray:push({ id = 8, name = "Quần hào phổ", date = "0-0-0 8:00:00", desc = "Việc lớn không tốt, có người hướng ngươi phát khởi khiêu chiến!"})
+return mapArray

@@ -1,0 +1,201 @@
+<skeleton name="凌霄城 - 输出10922_2" frameRate="24" version="2.2.3">
+  <armatures>
+    <armature name="anim">
+      <b name="图层 4" x="0" y="0" kX="-1.04" kY="-1.04" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="sadww/fvsdfvvsvsd" isArmature="1" />
+      </b>
+      <b name="4520543dcsacqq" x="-213.7" y="-50.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="sadww/4520543dwdw" isArmature="1" />
+      </b>
+      <b name="452054csw3dwdw" x="-362.25" y="-37.85" kX="40.69" kY="40.69" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="sadww/4520543dwdw" isArmature="1" />
+      </b>
+      <b name="4520543fefs3ww" x="-162.45" y="-349.95" kX="0.71" kY="0.71" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="sadww/4520543dwdw" isArmature="1" />
+      </b>
+      <b name="452054w22aa" x="406.35" y="-298.1" kX="-77.65" kY="102.35" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="sadww/4520543dwdw" isArmature="1" />
+      </b>
+      <b name="4520543dwswww" x="-302.55" y="-7.55" kX="22.97" kY="22.97" cX="1" cY="1" pX="0" pY="0" z="5">
+        <d name="sadww/4520543dwdw" isArmature="1" />
+      </b>
+      <b name="图层 2" x="-448.4" y="-102.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="sadww/54604354" isArmature="1" />
+      </b>
+      <b name="图层 1" x="-291.8" y="272.9" kX="0" kY="180" cX="1" cY="1.23" pX="0" pY="0" z="7">
+        <d name="sadww/5432045422aaswd" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="sadww/fvsdfvvsvsd" isLoop="loop" startFrame="1">
+      <b name="图层 3" x="-439" y="-257.95" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0">
+        <d name="sadww-vrweb re" />
+        <d name="sadww- dbreaberb" />
+        <d name="sadww-v drv edw " />
+        <d name="sadww-v drebvdre" />
+        <d name="sadww- sdre re" />
+        <d name="sadww-vdrebvrdebre" />
+        <d name="sadww-v dbwrwe" />
+        <d name="sadww- drezrew bzre" />
+        <d name="sadww-v edwrv der" />
+        <d name="sadww-v derwvdrw" />
+        <d name="sadww-vewv WEV " />
+        <d name="sadww- VDWRV DWR" />
+        <d name="sadww-EDWV EW DEW" />
+        <d name="sadww-EWVEW" />
+      </b>
+    </armature>
+    <armature name="sadww/4520543dwdw" isLoop="loop" startFrame="28">
+      <b name="图层 1" x="-142.4" y="-178.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="sadww-1420542222222222" />
+      </b>
+    </armature>
+    <armature name="sadww/54604354" isLoop="loop" startFrame="5">
+      <b name="图层 2" x="-476.05" y="-166.1" kX="-102.32" kY="-98.1" cX="17.93" cY="14.67" pX="0" pY="0" z="0">
+        <d name="sadww-v edwrvEW" />
+      </b>
+      <b name="图层 3" x="-479.7" y="-198.55" kX="-102.32" kY="-98.1" cX="13.83" cY="11.31" pX="0" pY="0" z="1">
+        <d name="sadww-v edwrvEW" />
+      </b>
+      <b name="图层 1" x="-479.7" y="-198.55" kX="-102.32" kY="-98.1" cX="13.83" cY="11.31" pX="0" pY="0" z="2">
+        <d name="sadww-v edwrvEW" />
+      </b>
+    </armature>
+    <armature name="sadww/5432045422aaswd" isLoop="loop" startFrame="28">
+      <b name="图层 1" x="-989.95" y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="0">
+        <d name="sadww/4205354" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="sadww/4205354">
+      <b name="v rwbeb are be" x="-42.05" y="40.25" kX="0" kY="0" cX="2" cY="2" pX="-461.05" pY="17.45" z="0">
+        <d name="sadww-v rwbeb are be" />
+      </b>
+      <b name="v rwbeb are be0" x="-1789.05" y="40.25" kX="0" kY="0" cX="2" cY="2" pX="-461.05" pY="17.45" z="1">
+        <d name="sadww-v rwbeb are be" />
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="sadww/fvsdfvvsvsd">
+      <mov name="sdwwdw" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="-439" y="-257.95" cocos2d_x="-439" cocos2d_y="-257.95" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="0" blend="normal" dr="2" />
+          <f x="-356.9" y="-148.6" cocos2d_x="-356.9" cocos2d_y="-148.6" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="1" blend="normal" dr="2" />
+          <f x="-290.1" y="-140.05" cocos2d_x="-290.1" cocos2d_y="-140.05" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="2" blend="normal" dr="2" />
+          <f x="-79.05" y="-79.1" cocos2d_x="-79.05" cocos2d_y="-79.1" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="3" blend="normal" dr="2" />
+          <f x="-71.15" y="-82.1" cocos2d_x="-71.15" cocos2d_y="-82.1" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="4" blend="normal" dr="2" />
+          <f x="-5.15" y="-98.35" cocos2d_x="-5.15" cocos2d_y="-98.35" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="5" blend="normal" dr="2" />
+          <f x="-7.5" y="-101.7" cocos2d_x="-7.5" cocos2d_y="-101.7" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="6" blend="normal" dr="2" />
+          <f x="-29.95" y="-92.5" cocos2d_x="-29.95" cocos2d_y="-92.5" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="7" blend="normal" dr="2" />
+          <f x="13.25" y="-51.6" cocos2d_x="13.25" cocos2d_y="-51.6" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="8" blend="normal" dr="2" />
+          <f x="158.15" y="-41.9" cocos2d_x="158.15" cocos2d_y="-41.9" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="9" blend="normal" dr="2" />
+          <f x="256.15" y="89.9" cocos2d_x="256.15" cocos2d_y="89.9" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="10" blend="normal" dr="2" />
+          <f x="414.1" y="124.75" cocos2d_x="414.1" cocos2d_y="124.75" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="11" blend="normal" dr="2" />
+          <f x="587.6" y="127.6" cocos2d_x="587.6" cocos2d_y="127.6" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="12" blend="normal" dr="2" />
+          <f x="711.25" y="128.8" cocos2d_x="711.25" cocos2d_y="128.8" kX="0" kY="0" cX="3.35" cY="3.35" pX="0" pY="0" z="0" dI="13" blend="normal" dr="2" />
+          <f dr="72" dI="-1" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="sadww/4520543dwdw">
+      <mov name="vsdeee" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-142.4" y="-178.7" cocos2d_x="-142.4" cocos2d_y="-178.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="19" />
+          <f x="-16.2" y="-34.2" cocos2d_x="-16.2" cocos2d_y="-34.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="19" />
+          <f x="133.3" y="87.7" cocos2d_x="133.3" cocos2d_y="87.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="22" />
+          <f x="384.35" y="196.4" cocos2d_x="384.35" cocos2d_y="196.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="1" gM="1" bM="1" />
+          </f>
+          <f dr="39" dI="-1" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="sadww/54604354">
+      <mov name="wdasdada" dr="100" to="0" drTW="100" lp="0" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="24" dI="-1" />
+          <f x="-476.05" y="-166.1" cocos2d_x="-476.05" cocos2d_y="-166.1" kX="-102.32" kY="-98.1" cX="17.93" cY="14.67" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="6" />
+          <f x="1950.05" y="564.55" cocos2d_x="1950.05" cocos2d_y="564.55" kX="-139.43" kY="-148.13" cX="15.52" cY="23.26" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f dr="69" dI="-1" />
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="29" dI="-1" />
+          <f x="-479.7" y="-198.55" cocos2d_x="-479.7" cocos2d_y="-198.55" kX="-102.32" kY="-98.1" cX="13.83" cY="11.31" pX="0" pY="0" z="1" dI="0" blend="normal" twE="0" dr="6" />
+          <f x="1528.65" y="585.85" cocos2d_x="1528.65" cocos2d_y="585.85" kX="-116.98" kY="-125.68" cX="14.28" cY="21.4" pX="0" pY="0" z="1" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f dr="64" dI="-1" />
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-479.7" y="-198.55" cocos2d_x="-479.7" cocos2d_y="-198.55" kX="-102.32" kY="-98.1" cX="13.83" cY="11.31" pX="0" pY="0" z="2" dI="0" blend="normal" twE="0" dr="6" />
+          <f x="1590.85" y="567.05" cocos2d_x="1590.85" cocos2d_y="567.05" kX="-116.98" kY="-125.68" cX="11.45" cY="17.17" pX="0" pY="0" z="2" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f dr="93" dI="-1" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="sadww/4205354">
+      <mov name="rvre" dr="1" to="0">
+        <b name="v rwbeb are be" sc="1" dl="0">
+          <f x="-42.05" y="40.25" cocos2d_x="880.05" cocos2d_y="5.35" kX="0" kY="0" cX="2" cY="2" pX="-461.05" pY="17.45" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="v rwbeb are be0" sc="1" dl="0">
+          <f x="-1789.05" y="40.25" cocos2d_x="-866.95" cocos2d_y="5.35" kX="0" kY="0" cX="2" cY="2" pX="-461.05" pY="17.45" z="1" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="sadww/5432045422aaswd">
+      <mov name="scasasas" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-989.95" y="0" cocos2d_x="-989.9" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="0" dI="0" blend="normal" twE="0" dr="99" />
+          <f x="641.15" y="0" cocos2d_x="641.2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="anim">
+      <mov name="dwdasddas" dr="200" to="0" drTW="200" lp="1" twE="NaN">
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-1.04" kY="-1.04" cX="1" cY="1" fst="0" pX="0" pY="0" z="0" dI="0" dr="200" />
+        </b>
+        <b name="4520543dcsacqq" sc="1" dl="0">
+          <f x="-213.7" y="-50.25" cocos2d_x="-213.7" cocos2d_y="-50.25" kX="0" kY="0" cX="1" cY="1" fst="27" pX="0" pY="0" z="1" dI="0" dr="200" />
+        </b>
+        <b name="452054csw3dwdw" sc="1" dl="0">
+          <f x="-362.25" y="-37.85" cocos2d_x="-362.25" cocos2d_y="-37.85" kX="40.69" kY="40.69" cX="1" cY="1" fst="0" pX="0" pY="0" z="2" dI="0" dr="200" />
+        </b>
+        <b name="4520543fefs3ww" sc="1" dl="0">
+          <f x="-162.45" y="-349.95" cocos2d_x="-162.45" cocos2d_y="-349.95" kX="0.71" kY="0.71" cX="1" cY="1" fst="14" pX="0" pY="0" z="3" dI="0" dr="200" />
+        </b>
+        <b name="452054w22aa" sc="1" dl="0">
+          <f x="406.35" y="-298.1" cocos2d_x="406.35" cocos2d_y="-298.1" kX="-77.65" kY="102.35" cX="1" cY="1" fst="8" pX="0" pY="0" z="4" dI="0" dr="200" />
+        </b>
+        <b name="4520543dwswww" sc="1" dl="0">
+          <f x="-302.55" y="-7.55" cocos2d_x="-302.55" cocos2d_y="-7.55" kX="22.97" kY="22.97" cX="1" cY="1" fst="35" pX="0" pY="0" z="5" dI="0" dr="200" />
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-448.4" y="-102.35" cocos2d_x="-448.4" cocos2d_y="-102.35" kX="0" kY="0" cX="1" cY="1" fst="4" pX="0" pY="0" z="6" dI="0" dr="200">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.6" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-291.8" y="272.9" cocos2d_x="-291.8" cocos2d_y="272.9" kX="0" kY="180" cX="1" cY="1.23" fst="27" pX="0" pY="0" z="7" dI="0" dr="200" />
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="凌霄城 - 输出10922_2" width="1024" height="512">
+    <SubTexture name="sadww-v rwbeb are be" width="912" height="75" x="0" y="0" cocos2d_pX="458.00" cocos2d_pY="40.00" />
+    <SubTexture name="sadww-v edwrvEW" width="119" height="117" x="174" y="186" cocos2d_pX="53.10" cocos2d_pY="65.50" />
+    <SubTexture name="sadww-1420542222222222" width="61" height="62" x="831" y="170" cocos2d_pX="35.85" cocos2d_pY="35.85" />
+    <SubTexture name="sadww-EWVEW" width="135" height="49" x="294" y="219" cocos2d_pX="67.50" cocos2d_pY="25.00" />
+    <SubTexture name="sadww-EDWV EW DEW" width="135" height="49" x="757" y="233" cocos2d_pX="67.50" cocos2d_pY="25.00" />
+    <SubTexture name="sadww- VDWRV DWR" width="165" height="42" x="0" y="211" cocos2d_pX="83.50" cocos2d_pY="20.50" />
+    <SubTexture name="sadww-vewv WEV " width="202" height="60" x="330" y="76" cocos2d_pX="102.50" cocos2d_pY="30.00" />
+    <SubTexture name="sadww-v derwvdrw" width="173" height="134" x="0" y="76" cocos2d_pX="89.00" cocos2d_pY="67.50" />
+    <SubTexture name="sadww-v edwrv der" width="126" height="123" x="704" y="76" cocos2d_pX="61.00" cocos2d_pY="62.00" />
+    <SubTexture name="sadww- drezrew bzre" width="126" height="111" x="897" y="89" cocos2d_pX="60.50" cocos2d_pY="55.00" />
+    <SubTexture name="sadww-v dbwrwe" width="113" height="119" x="643" y="200" cocos2d_pX="58.00" cocos2d_pY="59.00" />
+    <SubTexture name="sadww-vdrebvrdebre" width="144" height="104" x="498" y="160" cocos2d_pX="73.50" cocos2d_pY="53.00" />
+    <SubTexture name="sadww- sdre re" width="167" height="81" x="330" y="137" cocos2d_pX="83.50" cocos2d_pY="33.00" />
+    <SubTexture name="sadww-v drebvdre" width="170" height="83" x="533" y="76" cocos2d_pX="88.00" cocos2d_pY="42.00" />
+    <SubTexture name="sadww-v drv edw " width="155" height="109" x="174" y="76" cocos2d_pX="79.50" cocos2d_pY="55.50" />
+    <SubTexture name="sadww- dbreaberb" width="108" height="88" x="913" y="0" cocos2d_pX="55.50" cocos2d_pY="45.50" />
+    <SubTexture name="sadww-vrweb re" width="65" height="93" x="831" y="76" cocos2d_pX="34.00" cocos2d_pY="47.00" />
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,57 @@
+<skeleton name="燕子坞 - 输出（背景）" frameRate="24" version="2.2.3">
+  <armatures>
+    <armature name="anim">
+      <b name="41054254345" x="-384.6" y="-176.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dwdasd/41054254345" isArmature="1" />
+      </b>
+      <b name="410542543450" x="-148" y="-117.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="dwdasd/41054254345" isArmature="1" />
+      </b>
+      <b name="410542543451" x="167.45" y="-106.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="dwdasd/41054254345" isArmature="1" />
+      </b>
+      <b name="410542543452" x="366.75" y="-183.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="dwdasd/41054254345" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="dwdasd/41054254345" isLoop="loop" startFrame="1">
+      <b name="图层 1" x="-15.75" y="-47.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dwdasd-1205454" />
+        <d name="dwdasd-2.042541" />
+        <d name="dwdasd-14205454" />
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="dwdasd/41054254345">
+      <mov name="wwdazxca" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-15.75" y="-47.25" cocos2d_x="-15.75" cocos2d_y="-47.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="2" />
+          <f x="-19.6" y="-53.1" cocos2d_x="-19.6" cocos2d_y="-53.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" blend="normal" dr="2" />
+          <f x="-12.9" y="-31.25" cocos2d_x="-12.9" cocos2d_y="-31.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" blend="normal" dr="2" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="anim">
+      <mov name="anim" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+        <b name="41054254345" sc="1" dl="0">
+          <f x="-384.6" y="-176.4" cocos2d_x="-384.6" cocos2d_y="-176.4" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="0" dI="0" dr="60" />
+        </b>
+        <b name="410542543450" sc="1" dl="0">
+          <f x="-148" y="-117.1" cocos2d_x="-148" cocos2d_y="-117.1" kX="0" kY="0" cX="1" cY="1" fst="2" pX="0" pY="0" z="1" dI="0" dr="60" />
+        </b>
+        <b name="410542543451" sc="1" dl="0">
+          <f x="167.45" y="-106.1" cocos2d_x="167.45" cocos2d_y="-106.1" kX="0" kY="0" cX="1" cY="1" fst="1" pX="0" pY="0" z="2" dI="0" dr="60" />
+        </b>
+        <b name="410542543452" sc="1" dl="0">
+          <f x="366.75" y="-183.1" cocos2d_x="366.75" cocos2d_y="-183.1" kX="0" kY="0" cX="1" cY="1" fst="1" pX="0" pY="0" z="3" dI="0" dr="60" />
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="燕子坞 - 输出（背景）" width="256" height="256">
+    <SubTexture name="dwdasd-14205454" width="104" height="114" x="132" y="0" cocos2d_pX="53.00" cocos2d_pY="58.50" />
+    <SubTexture name="dwdasd-2.042541" width="131" height="91" x="0" y="0" cocos2d_pX="67.00" cocos2d_pY="47.50" />
+    <SubTexture name="dwdasd-1205454" width="106" height="52" x="0" y="92" cocos2d_pX="54.50" cocos2d_pY="28.00" />
+  </TextureAtlas>
+</skeleton>

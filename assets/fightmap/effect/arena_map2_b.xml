@@ -1,0 +1,131 @@
+<skeleton name="群号谱 - 输出 2" frameRate="24" version="2.2.3">
+  <armatures>
+    <armature name="anim">
+      <b name="图层 3" x="-86.7" y="63.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dasdwdw/2340345" isArmature="1" />
+      </b>
+      <b name="图层 2" x="322.15" y="11.9" kX="0" kY="0" cX="1.49" cY="1.49" pX="0" pY="0" z="1">
+        <d name="dasdwdw/5460354" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="dasdwdw/2340345" isLoop="loop" startFrame="73">
+      <b name="图层 1" x="24.95" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dasdwdw/452054" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="dasdwdw/452054">
+      <b name="位图 2" x="-451.3" y="-47.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dasdwdw-425054354888" />
+      </b>
+      <b name="位图 3" x="-56.8" y="-196.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="dasdwdw-42044504" />
+      </b>
+      <b name="位图 4" x="-155" y="-146.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="dasdwdw-1402054254" />
+      </b>
+      <b name="位图 5" x="-10" y="-32.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="dasdwdw-4520543524" />
+      </b>
+      <b name="位图 6" x="-116.5" y="-36.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="dasdwdw-1020245254." />
+      </b>
+      <b name="位图 7" x="427.45" y="-156.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5">
+        <d name="dasdwdw-4254054" />
+      </b>
+      <b name="位图 8" x="259.5" y="-24.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="dasdwdw-42102524" />
+      </b>
+      <b name="位图 9" x="347.6" y="188.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7">
+        <d name="dasdwdw-120545432" />
+      </b>
+      <b name="位图 10" x="342" y="-61" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8">
+        <d name="dasdwdw-240245" />
+      </b>
+    </armature>
+    <armature name="dasdwdw/5460354" isLoop="loop" startFrame="1">
+      <b name="图层 1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dasdwdw-5430354aa" />
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="dasdwdw/452054">
+      <mov name="casddw" dr="1" to="0">
+        <b name="位图 2" sc="1" dl="0">
+          <f x="-451.3" y="-47.7" cocos2d_x="-451.3" cocos2d_y="-47.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 3" sc="1" dl="0">
+          <f x="-56.8" y="-196.05" cocos2d_x="-56.8" cocos2d_y="-196.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 4" sc="1" dl="0">
+          <f x="-155" y="-146.1" cocos2d_x="-155" cocos2d_y="-146.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 5" sc="1" dl="0">
+          <f x="-10" y="-32.3" cocos2d_x="-10" cocos2d_y="-32.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 6" sc="1" dl="0">
+          <f x="-116.5" y="-36.95" cocos2d_x="-116.5" cocos2d_y="-36.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 7" sc="1" dl="0">
+          <f x="427.45" y="-156.55" cocos2d_x="427.45" cocos2d_y="-156.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 8" sc="1" dl="0">
+          <f x="259.5" y="-24.45" cocos2d_x="259.5" cocos2d_y="-24.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 9" sc="1" dl="0">
+          <f x="347.6" y="188.85" cocos2d_x="347.6" cocos2d_y="188.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 10" sc="1" dl="0">
+          <f x="342" y="-61" cocos2d_x="342" cocos2d_y="-61" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dasdwdw/2340345">
+      <mov name="cassaasdas" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="24.95" y="0" cocos2d_x="24.95" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="49">
+            <fl name="blurFilter" enabled="true" angle="45" blurX="8" blurY="8" distance="5" color="#ffffff" quality="high" strength="100" inner="false" knockout="false" hideObject="false" />
+          </f>
+          <f x="24.95" y="0" cocos2d_x="24.95" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="50">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.42" rM="1" gM="1" bM="1" />
+            <fl name="blurFilter" enabled="true" angle="45" blurX="8" blurY="8" distance="5" color="#ffffff" quality="high" strength="100" inner="false" knockout="false" hideObject="false" />
+          </f>
+          <f x="24.95" y="0" cocos2d_x="24.95" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN">
+            <fl name="blurFilter" enabled="true" angle="45" blurX="8" blurY="8" distance="5" color="#ffffff" quality="high" strength="100" inner="false" knockout="false" hideObject="false" />
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dasdwdw/5460354">
+      <mov name="dadwdad" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="25" />
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.51" cY="1.51" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="24" />
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="anim">
+      <mov name="anim" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="-86.7" y="63.7" cocos2d_x="-86.7" cocos2d_y="63.7" kX="0" kY="0" cX="1" cY="1" fst="72" pX="0" pY="0" z="0" dI="0" dr="100" />
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="322.15" y="11.9" cocos2d_x="322.15" cocos2d_y="11.9" kX="0" kY="0" cX="1.49" cY="1.49" fst="0" pX="0" pY="0" z="1" dI="0" dr="100" />
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="群号谱 - 输出 2" width="256" height="256">
+    <SubTexture name="dasdwdw-5430354aa" width="56" height="42" x="93" y="119" cocos2d_pX="28.00" cocos2d_pY="20.80" />
+    <SubTexture name="dasdwdw-240245" width="92" height="82" x="0" y="94" cocos2d_pX="51.00" cocos2d_pY="36.00" />
+    <SubTexture name="dasdwdw-120545432" width="93" height="70" x="148" y="169" cocos2d_pX="45.50" cocos2d_pY="34.00" />
+    <SubTexture name="dasdwdw-42102524" width="49" height="105" x="177" y="0" cocos2d_pX="31.50" cocos2d_pY="43.50" />
+    <SubTexture name="dasdwdw-4254054" width="66" height="118" x="110" y="0" cocos2d_pX="26.50" cocos2d_pY="63.00" />
+    <SubTexture name="dasdwdw-1020245254." width="24" height="23" x="227" y="0" cocos2d_pX="13.50" cocos2d_pY="9.00" />
+    <SubTexture name="dasdwdw-4520543524" width="54" height="41" x="93" y="162" cocos2d_pX="33.00" cocos2d_pY="17.00" />
+    <SubTexture name="dasdwdw-1402054254" width="108" height="30" x="0" y="204" cocos2d_pX="41.00" cocos2d_pY="6.50" />
+    <SubTexture name="dasdwdw-42044504" width="63" height="62" x="177" y="106" cocos2d_pX="31.50" cocos2d_pY="31.50" />
+    <SubTexture name="dasdwdw-425054354888" width="109" height="93" x="0" y="0" cocos2d_pX="67.00" cocos2d_pY="49.00" />
+  </TextureAtlas>
+</skeleton>

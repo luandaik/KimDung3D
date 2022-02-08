@@ -1,0 +1,84 @@
+<skeleton name="群号谱 - 输出1" frameRate="24" version="2.2.3">
+  <armatures>
+    <armature name="anim">
+      <b name="图层 1" x="548.95" y="20.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="xxx/5403543" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="xxx/5403543">
+      <b name="位图 4" x="-455" y="-195.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="xxx-12304254" />
+      </b>
+      <b name="位图 5" x="-271.2" y="-230.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="xxx-2530453" />
+      </b>
+      <b name="位图 6" x="-198.2" y="-169.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="xxx-125404" />
+      </b>
+      <b name="位图 7" x="-291.2" y="94.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="xxx-42054" />
+      </b>
+      <b name="位图 8" x="-229.4" y="-51" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="xxx-23054" />
+      </b>
+      <b name="位图 9" x="-101.2" y="-115.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5">
+        <d name="xxx-32" />
+      </b>
+      <b name="位图 10" x="-12.7" y="25.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="xxx-420445" />
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="xxx/5403543">
+      <mov name="awadadas" dr="1" to="0">
+        <b name="位图 4" sc="1" dl="0">
+          <f x="-455" y="-195.3" cocos2d_x="-455" cocos2d_y="-195.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 5" sc="1" dl="0">
+          <f x="-271.2" y="-230.15" cocos2d_x="-271.2" cocos2d_y="-230.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 6" sc="1" dl="0">
+          <f x="-198.2" y="-169.8" cocos2d_x="-198.2" cocos2d_y="-169.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 7" sc="1" dl="0">
+          <f x="-291.2" y="94.7" cocos2d_x="-291.2" cocos2d_y="94.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 8" sc="1" dl="0">
+          <f x="-229.4" y="-51" cocos2d_x="-229.4" cocos2d_y="-51" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 9" sc="1" dl="0">
+          <f x="-101.2" y="-115.8" cocos2d_x="-101.2" cocos2d_y="-115.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="位图 10" sc="1" dl="0">
+          <f x="-12.7" y="25.15" cocos2d_x="-12.7" cocos2d_y="25.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="anim">
+      <mov name="anim" dr="100" to="0" drTW="100" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="548.95" y="20.15" cocos2d_x="548.95" cocos2d_y="20.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="49">
+            <fl name="blurFilter" enabled="true" angle="45" blurX="8" blurY="8" distance="5" color="#ffffff" quality="high" strength="100" inner="false" knockout="false" hideObject="false" />
+          </f>
+          <f x="548.95" y="20.15" cocos2d_x="548.95" cocos2d_y="20.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="50">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.42" rM="1" gM="1" bM="1" />
+            <fl name="blurFilter" enabled="true" angle="45" blurX="8" blurY="8" distance="5" color="#ffffff" quality="high" strength="100" inner="false" knockout="false" hideObject="false" />
+          </f>
+          <f x="548.95" y="20.15" cocos2d_x="548.95" cocos2d_y="20.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN">
+            <fl name="blurFilter" enabled="true" angle="45" blurX="8" blurY="8" distance="5" color="#ffffff" quality="high" strength="100" inner="false" knockout="false" hideObject="false" />
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="群号谱 - 输出1" width="256" height="256">
+    <SubTexture name="xxx-420445" width="116" height="157" x="0" y="0" cocos2d_pX="62.00" cocos2d_pY="103.50" />
+    <SubTexture name="xxx-32" width="25" height="28" x="219" y="34" cocos2d_pX="11.50" cocos2d_pY="12.50" />
+    <SubTexture name="xxx-23054" width="33" height="35" x="185" y="0" cocos2d_pX="17.50" cocos2d_pY="23.00" />
+    <SubTexture name="xxx-42054" width="193" height="62" x="0" y="158" cocos2d_pX="89.50" cocos2d_pY="26.00" />
+    <SubTexture name="xxx-125404" width="83" height="41" x="117" y="104" cocos2d_pX="37.50" cocos2d_pY="18.50" />
+    <SubTexture name="xxx-2530453" width="67" height="103" x="117" y="0" cocos2d_pX="30.50" cocos2d_pY="50.00" />
+    <SubTexture name="xxx-12304254" width="25" height="33" x="219" y="0" cocos2d_pX="24.00" cocos2d_pY="9.00" />
+  </TextureAtlas>
+</skeleton>

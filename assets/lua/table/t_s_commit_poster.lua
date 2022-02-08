@@ -1,0 +1,11 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 1, serverid = "S7冰火岛", name = "曲非烟", commit = "能不能增加侠魂获取的的机会多一点，比如酒馆许愿也增加获得传说侠魂", time = "2017/3/31 13:39:00", role_head = "401"})
+mapArray:push({ id = 2, serverid = "S3绝情谷", name = "匿名", commit = "传说侠魂获取太慢", time = "2017/4/2 20:51:00", role_head = "284"})
+mapArray:push({ id = 3, serverid = "S17少林寺", name = "匿名", commit = "出传说侠魂活动，照顾低战玩家", time = "2017/3/31 18:42:00", role_head = "279"})
+mapArray:push({ id = 4, serverid = "S27蝴蝶谷", name = "匿名", commit = "酒馆招募招不到好东西", time = "2017/4/2 21:59:00", role_head = "295"})
+mapArray:push({ id = 5, serverid = "S29云梦泽", name = "匿名", commit = "尽快平衡英雄之间的差异，并将缘分里欠缺的英雄补上", time = "2017/4/1 21:39:00", role_head = "400"})
+mapArray:push({ id = 6, serverid = "S47曼陀山庄", name = "匿名", commit = "金钥匙奇缺", time = "2017/3/31 13:40:00", role_head = "308"})
+mapArray:push({ id = 7, serverid = "S39天地会", name = "匿名", commit = "天机轮一直中不了奖", time = "2017/4/2 9:30:00", role_head = "299"})
+mapArray:push({ id = 8, serverid = "S25星宿海", name = "匿名", commit = "建议祈福增加侠客种类", time = "2017/4/2 10:33:00", role_head = "280"})
+mapArray:push({ id = 9, serverid = "S21风陵渡", name = "匿名", commit = "建议出更多一些玩法，有些单调", time = "2017/4/1 13:30:00", role_head = "278"})
+return mapArray

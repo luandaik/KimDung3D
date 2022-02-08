@@ -1,0 +1,304 @@
+<skeleton name="西夏王宫 - 输出（远景）" frameRate="24" version="2.2.3">
+  <armatures>
+    <armature name="anim">
+      <b name="图层 13" x="-189.4" y="-264.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dwdasdas/32" isArmature="1" />
+      </b>
+      <b name="54350543" x="-32.5" y="-233.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="dwdasdas/543505432fsda" isArmature="1" />
+      </b>
+      <b name="23054" x="-266.7" y="-299.5" kX="0" kY="0" cX="1.32" cY="1" pX="-943.2" pY="60.8" z="2">
+        <d name="dwdasdas/23054 223dd" isArmature="1" />
+      </b>
+      <b name="230540" x="649.65" y="-332.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="dwdasdas/23054wdda" isArmature="1" />
+      </b>
+      <b name="41202454" x="18" y="-272.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="dwdasdas/asdasadwd" isArmature="1" />
+      </b>
+      <b name="230541" x="-266.7" y="-247.7" kX="0" kY="0" cX="1.32" cY="1" pX="-943.2" pY="60.8" z="5">
+        <d name="dwdasdas/2305wdwwd" isArmature="1" />
+      </b>
+      <b name="dvxdvd" x="75.65" y="-146.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="dwdasdas/dvxdvd" isArmature="1" />
+      </b>
+      <b name="142054" x="-1565.5" y="-76.95" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="7">
+        <d name="dwdasdas/142054" isArmature="1" />
+      </b>
+      <b name="图层 5" x="-1565.5" y="-76.95" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="8">
+        <d name="dwdasdas/142054" isArmature="1" />
+      </b>
+      <b name="图层 3" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9">
+        <d name="dwdasdas/12.1.12" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="dwdasdas/32" isLoop="loop" startFrame="100">
+      <b name="图层 1" x="-15" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dwdasdas-54064354" />
+      </b>
+    </armature>
+    <armature name="dwdasdas/543505432fsda" isLoop="loop" startFrame="1">
+      <b name="图层 1" x="-668.55" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dwdasdas-1254057" />
+      </b>
+    </armature>
+    <armature name="dwdasdas/23054 223dd" isLoop="loop" startFrame="1">
+      <b name="图层 1" x="-1417.7" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dwdasdas-4532045354" />
+      </b>
+    </armature>
+    <armature name="dwdasdas/23054wdda" isLoop="loop" startFrame="1">
+      <b name="图层 1" x="-997.3" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dwdasdas-4532045354" />
+      </b>
+    </armature>
+    <armature name="dwdasdas/asdasadwd" isLoop="loop" startFrame="1">
+      <b name="图层 1" x="-729.95" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dwdasdas-42050324" />
+      </b>
+    </armature>
+    <armature name="dwdasdas/2305wdwwd" isLoop="loop" startFrame="1">
+      <b name="图层 1" x="-743.95" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dwdasdas-4532045354" />
+      </b>
+    </armature>
+    <armature name="dwdasdas/dvxdvd" isLoop="loop" startFrame="1">
+      <b name="sfsfefe" x="-222.75" y="45.35" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="0">
+        <d name="dwdasdas/234054" isArmature="1" />
+      </b>
+      <b name="234ngfng" x="-294.3" y="26.5" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="1">
+        <d name="dwdasdas/234054" isArmature="1" />
+      </b>
+      <b name="sf322" x="255.3" y="-102.25" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="2">
+        <d name="dwdasdas/234054" isArmature="1" />
+      </b>
+      <b name="234sdfs4s" x="294.55" y="-102.25" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="3">
+        <d name="dwdasdas/234054" isArmature="1" />
+      </b>
+      <b name="vsngnt555" x="284.15" y="-104.45" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="4">
+        <d name="dwdasdas/234054" isArmature="1" />
+      </b>
+      <b name="vssdve3sdb" x="269.75" y="-102.85" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="5">
+        <d name="dwdasdas/234054" isArmature="1" />
+      </b>
+      <b name="234bfbde054" x="254.5" y="-67.05" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="6">
+        <d name="dwdasdas/234054" isArmature="1" />
+      </b>
+      <b name="234054vdsvvse33" x="293.75" y="-67.05" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="7">
+        <d name="dwdasdas/234054" isArmature="1" />
+      </b>
+      <b name="234054cdvdsdsb" x="221" y="-68.55" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="8">
+        <d name="dwdasdas/234054" isArmature="1" />
+      </b>
+      <b name="cw2edas" x="268.95" y="-67.65" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="9">
+        <d name="dwdasdas/234054" isArmature="1" />
+      </b>
+      <b name="234054casca" x="-195.55" y="23.85" kX="0" kY="0" cX="1.06" cY="1.06" pX="0" pY="0" z="10">
+        <d name="dwdasdas/234054" isArmature="1" />
+      </b>
+      <b name="asdad" x="151.9" y="48.35" kX="0" kY="0" cX="3.46" cY="3.46" pX="0" pY="0" z="11">
+        <d name="dwdasdas/234054" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="dwdasdas/234054" isLoop="loop" startFrame="5">
+      <b name="图层 1" x="1.4" y="1.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="dwdasdas-543405544" />
+      </b>
+    </armature>
+    <armature name="dwdasdas/142054" isLoop="loop" startFrame="1">
+      <b name="图层 1" x="-2268" y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0">
+        <d name="dwdasdas-14240254" />
+      </b>
+    </armature>
+    <armature name="dwdasdas/12.1.12">
+      <b name="图层 3" x="286" y="-58.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="1231.3154" />
+      </b>
+      <b name="图层 2" x="-279" y="-58.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="123054345" />
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="dwdasdas/32">
+      <mov name="dwdadsa" dr="201" to="0" drTW="201" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-15" y="0" cocos2d_x="-15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="100">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.75" rM="1" gM="1" bM="1" />
+          </f>
+          <f x="-15" y="0" cocos2d_x="-15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="100">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.15" rM="1" gM="1" bM="1" />
+          </f>
+          <f x="-15" y="0" cocos2d_x="-15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.67" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dwdasdas/543505432fsda">
+      <mov name="dasddadw" dr="1800" to="0" drTW="1800" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-668.55" y="0" cocos2d_x="-668.55" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="849" />
+          <f x="-57.4" y="0" cocos2d_x="-57.4" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="-49.4" y="0" cocos2d_x="-49.4" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="949" />
+          <f x="688.25" y="0" cocos2d_x="688.25" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dwdasdas/23054 223dd">
+      <mov name="dwdasdas" dr="1601" to="0" drTW="1601" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-1417.7" y="0" cocos2d_x="-1417.7" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="1600" />
+          <f x="-41.75" y="0" cocos2d_x="-41.75" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dwdasdas/23054wdda">
+      <mov name="vasdasdasadaaw" dr="1800" to="0" drTW="1800" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-997.3" y="0" cocos2d_x="-997.3" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="1300" />
+          <f x="138.45" y="0" cocos2d_x="138.45" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="-1470.7" y="0" cocos2d_x="-1470.7" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="498" />
+          <f x="-1002.1" y="0" cocos2d_x="-1002.1" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dwdasdas/asdasadwd">
+      <mov name="dwddadadd" dr="1801" to="0" drTW="1801" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-729.95" y="0" cocos2d_x="-729.95" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="974" />
+          <f x="124.85" y="0" cocos2d_x="124.85" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="131.3" y="0" cocos2d_x="131.3" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="825" />
+          <f x="-733.15" y="0" cocos2d_x="-733.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dwdasdas/2305wdwwd">
+      <mov name="cscascacawww" dr="1800" to="0" drTW="1800" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-743.95" y="0" cocos2d_x="-743.95" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="1010" />
+          <f x="138.45" y="0" cocos2d_x="138.45" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+          <f x="-1476.5" y="0" cocos2d_x="-1476.5" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="788" />
+          <f x="-749.8" y="0" cocos2d_x="-749.8" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dwdasdas/234054">
+      <mov name="dwdasdada" dr="40" to="0" drTW="40" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="1.4" y="1.4" cocos2d_x="1.4" cocos2d_y="1.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.31" rM="1" gM="1" bM="1" />
+          </f>
+          <f x="1.4" y="1.4" cocos2d_x="1.4" cocos2d_y="1.4" kX="0" kY="0" cX="1.48" cY="1.48" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="19">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.71" rM="1" gM="1" bM="1" />
+          </f>
+          <f x="1.4" y="1.4" cocos2d_x="1.4" cocos2d_y="1.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.31" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="dwdasdas/dvxdvd">
+      <mov name="dwdaada" dr="40" to="0" drTW="40" lp="1" twE="NaN">
+        <b name="sfsfefe" sc="1" dl="0">
+          <f x="-222.75" y="45.35" cocos2d_x="-222.75" cocos2d_y="45.35" kX="0" kY="0" cX="1.06" cY="1.06" fst="4" pX="0" pY="0" z="0" dI="0" dr="40" />
+        </b>
+        <b name="234ngfng" sc="1" dl="0">
+          <f x="-294.3" y="26.5" cocos2d_x="-294.3" cocos2d_y="26.5" kX="0" kY="0" cX="1.06" cY="1.06" fst="24" pX="0" pY="0" z="1" dI="0" dr="40" />
+        </b>
+        <b name="sf322" sc="1" dl="0">
+          <f x="255.3" y="-102.25" cocos2d_x="255.3" cocos2d_y="-102.25" kX="0" kY="0" cX="1.06" cY="1.06" fst="33" pX="0" pY="0" z="2" dI="0" dr="40" />
+        </b>
+        <b name="234sdfs4s" sc="1" dl="0">
+          <f x="294.55" y="-102.25" cocos2d_x="294.55" cocos2d_y="-102.25" kX="0" kY="0" cX="1.06" cY="1.06" fst="33" pX="0" pY="0" z="3" dI="0" dr="40" />
+        </b>
+        <b name="vsngnt555" sc="1" dl="0">
+          <f x="284.15" y="-104.45" cocos2d_x="284.15" cocos2d_y="-104.45" kX="0" kY="0" cX="1.06" cY="1.06" fst="33" pX="0" pY="0" z="4" dI="0" dr="40" />
+        </b>
+        <b name="vssdve3sdb" sc="1" dl="0">
+          <f x="269.75" y="-102.85" cocos2d_x="269.75" cocos2d_y="-102.85" kX="0" kY="0" cX="1.06" cY="1.06" fst="33" pX="0" pY="0" z="5" dI="0" dr="40" />
+        </b>
+        <b name="234bfbde054" sc="1" dl="0">
+          <f x="254.5" y="-67.05" cocos2d_x="254.5" cocos2d_y="-67.05" kX="0" kY="0" cX="1.06" cY="1.06" fst="33" pX="0" pY="0" z="6" dI="0" dr="40" />
+        </b>
+        <b name="234054vdsvvse33" sc="1" dl="0">
+          <f x="293.75" y="-67.05" cocos2d_x="293.75" cocos2d_y="-67.05" kX="0" kY="0" cX="1.06" cY="1.06" fst="33" pX="0" pY="0" z="7" dI="0" dr="40" />
+        </b>
+        <b name="234054cdvdsdsb" sc="1" dl="0">
+          <f x="221" y="-68.55" cocos2d_x="221" cocos2d_y="-68.55" kX="0" kY="0" cX="1.06" cY="1.06" fst="33" pX="0" pY="0" z="8" dI="0" dr="40" />
+        </b>
+        <b name="cw2edas" sc="1" dl="0">
+          <f x="268.95" y="-67.65" cocos2d_x="268.95" cocos2d_y="-67.65" kX="0" kY="0" cX="1.06" cY="1.06" fst="33" pX="0" pY="0" z="9" dI="0" dr="40" />
+        </b>
+        <b name="234054casca" sc="1" dl="0">
+          <f x="-195.55" y="23.85" cocos2d_x="-195.55" cocos2d_y="23.85" kX="0" kY="0" cX="1.06" cY="1.06" fst="28" pX="0" pY="0" z="10" dI="0" dr="40" />
+        </b>
+        <b name="asdad" sc="1" dl="0">
+          <f x="151.9" y="48.35" cocos2d_x="151.9" cocos2d_y="48.35" kX="0" kY="0" cX="3.46" cY="3.46" fst="24" pX="0" pY="0" z="11" dI="0" dr="40" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dwdasdas/142054">
+      <mov name="dadads" dr="201" to="0" drTW="201" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-2268" y="0" cocos2d_x="-2268" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="200" />
+          <f x="-860" y="0" cocos2d_x="-860" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="dwdasdas/12.1.12">
+      <mov name="dadasdaw" dr="1" to="0">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="286" y="-58.75" cocos2d_x="286" cocos2d_y="-58.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-279" y="-58.75" cocos2d_x="-279" cocos2d_y="-58.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="anim">
+      <mov name="anim" dr="1800" to="0" drTW="1800" lp="1" twE="NaN">
+        <b name="图层 13" sc="1" dl="0">
+          <f x="-189.4" y="-264.9" cocos2d_x="-189.4" cocos2d_y="-264.9" kX="0" kY="0" cX="1" cY="1" fst="99" pX="0" pY="0" z="0" dI="0" dr="1800" />
+        </b>
+        <b name="54350543" sc="1" dl="0">
+          <f x="-32.5" y="-233.85" cocos2d_x="-32.5" cocos2d_y="-233.85" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="1" dI="0" dr="1800" />
+        </b>
+        <b name="23054" sc="1" dl="0">
+          <f x="-266.7" y="-299.5" cocos2d_x="979.9" cocos2d_y="-360.3" kX="0" kY="0" cX="1.32" cY="1" fst="0" pX="-943.2" pY="60.8" z="2" dI="0" dr="1800" />
+        </b>
+        <b name="230540" sc="1" dl="0">
+          <f x="649.65" y="-332.05" cocos2d_x="649.65" cocos2d_y="-332.05" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="3" dI="0" dr="1800" />
+        </b>
+        <b name="41202454" sc="1" dl="0">
+          <f x="18" y="-272.25" cocos2d_x="18" cocos2d_y="-272.25" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="4" dI="0" dr="1800" />
+        </b>
+        <b name="230541" sc="1" dl="0">
+          <f x="-266.7" y="-247.7" cocos2d_x="979.9" cocos2d_y="-308.5" kX="0" kY="0" cX="1.32" cY="1" fst="0" pX="-943.2" pY="60.8" z="5" dI="0" dr="1800" />
+        </b>
+        <b name="dvxdvd" sc="1" dl="0">
+          <f x="75.65" y="-146.2" cocos2d_x="75.65" cocos2d_y="-146.2" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0" pY="0" z="6" dI="0" dr="1800" />
+        </b>
+        <b name="142054" sc="1" dl="0">
+          <f x="-1565.5" y="-76.95" cocos2d_x="-1565.5" cocos2d_y="-76.95" kX="0" kY="180" cX="1" cY="1" fst="0" pX="0" pY="0" z="7" dI="0" dr="1800" />
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="-1565.5" y="-76.95" cocos2d_x="-1565.5" cocos2d_y="-76.95" kX="0" kY="180" cX="1" cY="1" fst="0" pX="0" pY="0" z="8" dI="0" dr="1800" />
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" blend="normal" dr="1800" />
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="西夏王宫 - 输出（远景）" width="1024" height="1024">
+    <SubTexture name="123054345" width="578" height="338" x="0" y="0" cocos2d_pX="289.00" cocos2d_pY="165.50" />
+    <SubTexture name="1231.3154" width="564" height="340" x="0" y="339" cocos2d_pX="282.00" cocos2d_pY="167.50" />
+    <SubTexture name="dwdasdas-14240254" width="758" height="83" x="0" y="680" cocos2d_pX="379.60" cocos2d_pY="42.50" />
+    <SubTexture name="dwdasdas-543405544" width="21" height="21" x="982" y="0" cocos2d_pX="12.00" cocos2d_pY="12.00" />
+    <SubTexture name="dwdasdas-42050324" width="402" height="39" x="579" y="0" cocos2d_pX="86.80" cocos2d_pY="4.15" />
+    <SubTexture name="dwdasdas-4532045354" width="338" height="42" x="579" y="40" cocos2d_pX="132.75" cocos2d_pY="-35.55" />
+    <SubTexture name="dwdasdas-1254057" width="214" height="21" x="758" y="83" cocos2d_pX="67.55" cocos2d_pY="10.90" />
+    <SubTexture name="dwdasdas-54064354" width="178" height="177" x="579" y="83" cocos2d_pX="90.55" cocos2d_pY="88.10" />
+  </TextureAtlas>
+</skeleton>

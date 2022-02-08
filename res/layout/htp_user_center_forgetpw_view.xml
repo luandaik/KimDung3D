@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="50.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="50.0dip" android:layout_centerHorizontal="true">
+        <LinearLayout android:orientation="horizontal" android:id="@id/binded_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+            <TextView android:textSize="14.0sp" android:textColor="#ff888888" android:gravity="center" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/htp_have_binded" />
+            <Button android:textSize="12.0sp" android:textColor="#ff6bb4ea" android:layout_gravity="center" android:id="@id/htp_find_by_phone" android:background="@drawable/htp_button_blue_corner_style" android:layout_width="85.0dip" android:layout_height="26.0dip" android:layout_marginLeft="5.0dip" android:text="@string/htp_find_bt_phone" />
+        </LinearLayout>
+        <TextView android:textSize="14.0sp" android:textColor="#ff888888" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/htp_unbinded" android:layout_centerInParent="true" android:layout_centerVertical="true" android:lineSpacingExtra="3.0dip" />
+    </LinearLayout>
+    <Button android:textSize="16.0sp" android:textColor="@android:color/white" android:layout_gravity="center" android:id="@id/ht_know_bt" android:background="@drawable/htp_blue_bt" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="85.0dip" android:layout_marginTop="15.0dip" android:layout_marginRight="85.0dip" android:text="@string/htp_know" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 1, name ="tranh phách thi đấu", level = 1,path ="ui_new/Zhenbashai/tab_wldh",layer ="lua.logic.zhengba.ZhenbashaiHomeLayer"})
+mapArray:push({ id = 2, name ="tranh phách thi đấu 2", level = 1,path ="ui_new/faction/fight/tab_bpzf",layer ="lua.logic.factionfight.FactionFightEntrance"})
+mapArray:push({ id = 3, name ="cá nhân nhảy qua phục chiến", level = 1,path ="ui_new/wulin/tab_kfwl",layer ="lua.logic.multiServerFight.KuaFuEntrance"})
+mapArray:push({ id = 4, name ="nhảy qua phục bang phái tranh phong chiến", level = 1,path ="ui_new/crossfight/tab_kfbz",layer ="lua.logic.crossGuildBattle.CrossFightEntrance"})
+mapArray:push({ id = 5, name ="luận kiếm ngọn núi", level = 1,path ="ui_new/lunjian/tab_ljdf",layer ="lua.logic.peak.PeakHomeLayer"})
+mapArray:push({ id = 6, name ="vương giả tranh phách", level = 1, serverSwitch = 0, path ="ui_new/crossarena/tab_wzlt",layer ="lua.logic.kingofwar.KingWarEntranceLayer"})
+mapArray:push({ id = 7, name ="phiêu đi thiên hạ", level = 1, serverSwitch = 39, path ="ui_new/faction/biaoche/tab_bxtx",layer ="lua.logic.biaoche.BiaoCheEntranceLayer"})
+mapArray:push({ id = 8, name ="Anh Hùng đại hội", level = 1, serverSwitch = 79, path ="ui_new/hero/tab_yxdh",layer ="lua.logic.heromeeting.HeroMeetingHomeLayer"})
+mapArray:push({ id = 9, name ="phong vân lục", level = 1, serverSwitch = 89, path ="ui_new/fengyunlu/tab_fyl",layer ="lua.logic.fengyunlu.FengYunLuHomeLayer"})
+return mapArray

@@ -1,0 +1,415 @@
+<skeleton name="天地会 - 输出(前景)" frameRate="24" version="2.2.3">
+  <armatures>
+    <armature name="anim">
+      <b name="图层 2" x="4.6" y="-179.35" kX="0" kY="0" cX="1" cY="1" pX="0.05" pY="3" z="0">
+        <d name="shenlongjiao/543405434" isArmature="1" />
+      </b>
+      <b name="图层 1" x="7.05" y="-273.9" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="1.55" z="1">
+        <d name="shenlongjiao/56304345" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="shenlongjiao/543405434" isLoop="loop" startFrame="1">
+      <b name="fghk" x="422.05" y="-2.1" kX="0" kY="0" cX="1.34" cY="1.34" pX="0" pY="0" z="0">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk0" x="-421.95" y="-2.6" kX="0" kY="0" cX="1.34" cY="1.34" pX="0" pY="0" z="1">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk1" x="486.6" y="-21.8" kX="0" kY="0" cX="0.1" cY="1.34" pX="0" pY="0" z="2">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk2" x="-481.6" y="-21.8" kX="0" kY="0" cX="0.1" cY="1.34" pX="0" pY="0" z="3">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk3" x="228.7" y="48.45" kX="0" kY="0" cX="0.05" cY="0.82" pX="0" pY="0" z="4">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk4" x="-379.3" y="48.05" kX="35.33" kY="35.32" cX="0.12" cY="0.2" pX="0" pY="0" z="5">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk5" x="-363.5" y="-11.4" kX="-90" kY="-90" cX="0.02" cY="0.23" pX="0" pY="0" z="6">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk6" x="379.3" y="51.2" kX="-35.33" kY="144.68" cX="0.12" cY="0.2" pX="0" pY="0" z="7">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk7" x="362.85" y="-10.75" kX="90" kY="-90" cX="0.02" cY="0.23" pX="0" pY="0" z="8">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk8" x="179.3" y="-3.85" kX="0" kY="180" cX="0.03" cY="0.29" pX="0" pY="0" z="9">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk9" x="176.75" y="119.05" kX="87.14" kY="-92.91" cX="0.02" cY="0.08" pX="0" pY="0" z="10">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk10" x="128.75" y="-16.3" kX="180" kY="0" cX="0.03" cY="0.19" pX="0" pY="0" z="11">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk11" x="178.55" y="83.95" kX="0" kY="0" cX="0.11" cY="0.11" pX="0" pY="0" z="12">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk12" x="-318.5" y="-44.85" kX="0" kY="0" cX="0.04" cY="0.79" pX="0" pY="0" z="13">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk13" x="320.9" y="-46" kX="0" kY="0" cX="0.04" cY="0.79" pX="0" pY="0" z="14">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk14" x="-368.6" y="131" kX="-81.8" kY="-81.8" cX="0.04" cY="0.19" pX="0" pY="0" z="15">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk15" x="370.2" y="133.05" kX="-99.14" kY="-99.17" cX="0.04" cY="0.22" pX="0" pY="0" z="16">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk16" x="106.3" y="76.55" kX="-7.48" kY="-7.47" cX="0.1" cY="0.12" pX="0" pY="0" z="17">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk17" x="99.75" y="119.7" kX="86.63" kY="-93.42" cX="0.02" cY="0.11" pX="0" pY="0" z="18">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk18" x="116.55" y="-88.45" kX="-173.05" kY="6.93" cX="0.03" cY="0.31" pX="0" pY="0" z="19">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk19" x="66.2" y="100.4" kX="0" kY="0" cX="0.03" cY="0.1" pX="0" pY="0" z="20">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk20" x="66.85" y="116.1" kX="-90" kY="-90" cX="0.02" cY="0.12" pX="0" pY="0" z="21">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk21" x="65.1" y="58" kX="-90" kY="-90" cX="0.03" cY="0.12" pX="0" pY="0" z="22">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk22" x="15.9" y="60.4" kX="90.01" kY="90" cX="0.02" cY="0.25" pX="0" pY="0" z="23">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk23" x="58.25" y="42.9" kX="90" kY="90" cX="0.02" cY="0.07" pX="0" pY="0" z="24">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk24" x="249.25" y="125.15" kX="-71.22" kY="-71.2" cX="0.03" cY="0.25" pX="0" pY="0" z="25">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk25" x="218.45" y="133.2" kX="-89.92" kY="-89.92" cX="0.03" cY="0.25" pX="0" pY="0" z="26">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk26" x="-226.45" y="49.5" kX="0" kY="180" cX="0.05" cY="0.82" pX="0" pY="0" z="27">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk27" x="-178.2" y="-5.5" kX="0" kY="0" cX="0.03" cY="0.29" pX="0" pY="0" z="28">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk28" x="-172.7" y="118.95" kX="-87.14" kY="-87.09" cX="0.02" cY="0.09" pX="0" pY="0" z="29">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk29" x="-126.35" y="-17.45" kX="180" kY="180" cX="0.03" cY="0.19" pX="0" pY="0" z="30">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk30" x="-176.2" y="85.2" kX="0" kY="180" cX="0.1" cY="0.1" pX="0" pY="0" z="31">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk31" x="-104.25" y="79.65" kX="7.48" kY="-172.53" cX="0.1" cY="0.12" pX="0" pY="0" z="32">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk32" x="-97.8" y="119.9" kX="-88.89" kY="-88.87" cX="0.02" cY="0.11" pX="0" pY="0" z="33">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk33" x="-125.3" y="-86.65" kX="173.05" kY="173.07" cX="0.03" cY="0.31" pX="0" pY="0" z="34">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk34" x="-66.05" y="99" kX="0" kY="180" cX="0.03" cY="0.1" pX="0" pY="0" z="35">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk35" x="-65.3" y="116.3" kX="90" kY="-90" cX="0.02" cY="0.12" pX="0" pY="0" z="36">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk36" x="-66.85" y="57.2" kX="90" kY="-90" cX="0.03" cY="0.12" pX="0" pY="0" z="37">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk37" x="-59.7" y="40.7" kX="-90" kY="90" cX="0.02" cY="0.07" pX="0" pY="0" z="38">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk38" x="-249.25" y="125.6" kX="71.22" kY="-108.8" cX="0.03" cY="0.25" pX="0" pY="0" z="39">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk39" x="-218.45" y="133.65" kX="89.92" kY="-90.08" cX="0.03" cY="0.25" pX="0" pY="0" z="40">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk40" x="29.35" y="-2.4" kX="-56.55" kY="123.45" cX="0.08" cY="0.09" pX="0" pY="0" z="41">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk41" x="-27.95" y="-1.4" kX="56.55" kY="56.55" cX="0.08" cY="0.09" pX="0" pY="0" z="42">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk42" x="5.3" y="18.05" kX="-28.75" kY="149.65" cX="0.07" cY="0.09" pX="0" pY="0" z="43">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk43" x="-55.6" y="2.5" kX="-126.5" kY="53.5" cX="0.02" cY="0.05" pX="0" pY="0" z="44">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+      <b name="fghk44" x="54.55" y="1.9" kX="126.5" kY="126.5" cX="0.02" cY="0.05" pX="0" pY="0" z="45">
+        <d name="shenlongjiao/fghk" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="shenlongjiao/fghk" isLoop="loop" startFrame="1">
+      <b name="图层 1" x="-0.05" y="-0.05" kX="0" kY="0" cX="2.08" cY="2.08" pX="0" pY="0" z="0">
+        <d name="shenlongjiao-gfhkghk" />
+      </b>
+    </armature>
+    <armature name="shenlongjiao/56304345" isLoop="loop" startFrame="1">
+      <b name="dasdadaacca" x="-423.95" y="-57.65" kX="0" kY="0" cX="1.28" cY="1.28" pX="0" pY="-53.05" z="0">
+        <d name="shenlongjiao/dasdadaacca" isArmature="1" />
+      </b>
+      <b name="dasdadaacca0" x="-359.95" y="-40.65" kX="0" kY="0" cX="0.97" cY="0.97" pX="0" pY="-53.15" z="1">
+        <d name="shenlongjiao/dasdadaacca" isArmature="1" />
+      </b>
+      <b name="dasdadaacca1" x="423.35" y="-57.65" kX="0" kY="0" cX="1.28" cY="1.28" pX="0" pY="-53.05" z="2">
+        <d name="shenlongjiao/dasdadaacca" isArmature="1" />
+      </b>
+      <b name="dasdadaacca2" x="359.35" y="-40.65" kX="0" kY="0" cX="0.97" cY="0.97" pX="0" pY="-53.15" z="3">
+        <d name="shenlongjiao/dasdadaacca" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="shenlongjiao/dasdadaacca" isLoop="loop" startFrame="10">
+      <b name="图层 2" x="-0.05" y="-54.5" kX="-1.42" kY="-1.42" cX="1" cY="1" pX="-1.3" pY="-54.5" z="0">
+        <d name="shenlongjiao-25054" />
+      </b>
+      <b name="图层 3" x="1.15" y="-23.15" kX="-2.95" kY="-2.95" cX="0.9" cY="1.12" pX="-0.05" pY="0" z="1">
+        <d name="shenlongjiao/1452054" isArmature="1" />
+      </b>
+    </armature>
+    <armature name="shenlongjiao/1452054" isLoop="loop" startFrame="40">
+      <b name="图层 1" x="-0.05" y="0" kX="3.98" kY="3.98" cX="1.05" cY="1.05" pX="0" pY="0" z="0">
+        <d name="shenlongjiao-420354" />
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="shenlongjiao/fghk">
+      <mov name="tag2" dr="80" to="0" drTW="80" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2.08" cY="2.08" pX="0" pY="0" z="0" dI="0" blend="normal" twE="1" dr="53" />
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2.3" cY="2.3" pX="0" pY="0" z="0" dI="0" blend="normal" twE="0" dr="19">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.28" rM="1" gM="1" bM="1" />
+          </f>
+          <f x="-0.1" y="-0.1" cocos2d_x="-0.1" cocos2d_y="-0.1" kX="0" kY="0" cX="2.12" cY="2.12" pX="0" pY="0" z="0" dI="0" blend="normal" dr="8">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.94" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="shenlongjiao/543405434">
+      <mov name="dasdasd" dr="80" to="0" drTW="80" lp="1" twE="NaN">
+        <b name="fghk" sc="1" dl="0">
+          <f x="422.05" y="-2.1" cocos2d_x="422.05" cocos2d_y="-2.1" kX="0" kY="0" cX="1.34" cY="1.34" fst="0" pX="0" pY="0" z="0" dI="0" dr="80">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.7" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+        <b name="fghk0" sc="1" dl="0">
+          <f x="-421.95" y="-2.6" cocos2d_x="-421.95" cocos2d_y="-2.6" kX="0" kY="0" cX="1.34" cY="1.34" fst="0" pX="0" pY="0" z="1" dI="0" dr="80">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.7" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+        <b name="fghk1" sc="1" dl="0">
+          <f x="486.6" y="-21.8" cocos2d_x="486.6" cocos2d_y="-21.8" kX="0" kY="0" cX="0.1" cY="1.34" fst="0" pX="0" pY="0" z="2" dI="0" dr="80" />
+        </b>
+        <b name="fghk2" sc="1" dl="0">
+          <f x="-481.6" y="-21.8" cocos2d_x="-481.6" cocos2d_y="-21.8" kX="0" kY="0" cX="0.1" cY="1.34" fst="0" pX="0" pY="0" z="3" dI="0" dr="80" />
+        </b>
+        <b name="fghk3" sc="1" dl="0">
+          <f x="228.7" y="48.45" cocos2d_x="228.7" cocos2d_y="48.45" kX="0" kY="0" cX="0.05" cY="0.82" fst="0" pX="0" pY="0" z="4" dI="0" dr="80" />
+        </b>
+        <b name="fghk4" sc="1" dl="0">
+          <f x="-379.3" y="48.05" cocos2d_x="-379.3" cocos2d_y="48.05" kX="35.33" kY="35.32" cX="0.12" cY="0.2" fst="0" pX="0" pY="0" z="5" dI="0" dr="80" />
+        </b>
+        <b name="fghk5" sc="1" dl="0">
+          <f x="-363.5" y="-11.4" cocos2d_x="-363.5" cocos2d_y="-11.4" kX="-90" kY="-90" cX="0.02" cY="0.23" fst="0" pX="0" pY="0" z="6" dI="0" dr="80" />
+        </b>
+        <b name="fghk6" sc="1" dl="0">
+          <f x="379.3" y="51.2" cocos2d_x="379.3" cocos2d_y="51.2" kX="-35.33" kY="144.68" cX="0.12" cY="0.2" fst="0" pX="0" pY="0" z="7" dI="0" dr="80" />
+        </b>
+        <b name="fghk7" sc="1" dl="0">
+          <f x="362.85" y="-10.75" cocos2d_x="362.85" cocos2d_y="-10.75" kX="90" kY="-90" cX="0.02" cY="0.23" fst="0" pX="0" pY="0" z="8" dI="0" dr="80" />
+        </b>
+        <b name="fghk8" sc="1" dl="0">
+          <f x="179.3" y="-3.85" cocos2d_x="179.3" cocos2d_y="-3.85" kX="0" kY="180" cX="0.03" cY="0.29" fst="0" pX="0" pY="0" z="9" dI="0" dr="80" />
+        </b>
+        <b name="fghk9" sc="1" dl="0">
+          <f x="176.75" y="119.05" cocos2d_x="176.75" cocos2d_y="119.05" kX="87.14" kY="-92.91" cX="0.02" cY="0.08" fst="0" pX="0" pY="0" z="10" dI="0" dr="80" />
+        </b>
+        <b name="fghk10" sc="1" dl="0">
+          <f x="128.75" y="-16.3" cocos2d_x="128.75" cocos2d_y="-16.3" kX="180" kY="0" cX="0.03" cY="0.19" fst="0" pX="0" pY="0" z="11" dI="0" dr="80" />
+        </b>
+        <b name="fghk11" sc="1" dl="0">
+          <f x="178.55" y="83.95" cocos2d_x="178.55" cocos2d_y="83.95" kX="0" kY="0" cX="0.11" cY="0.11" fst="0" pX="0" pY="0" z="12" dI="0" dr="80" />
+        </b>
+        <b name="fghk12" sc="1" dl="0">
+          <f x="-318.5" y="-44.85" cocos2d_x="-318.5" cocos2d_y="-44.85" kX="0" kY="0" cX="0.04" cY="0.79" fst="0" pX="0" pY="0" z="13" dI="0" dr="80" />
+        </b>
+        <b name="fghk13" sc="1" dl="0">
+          <f x="320.9" y="-46" cocos2d_x="320.9" cocos2d_y="-46" kX="0" kY="0" cX="0.04" cY="0.79" fst="0" pX="0" pY="0" z="14" dI="0" dr="80" />
+        </b>
+        <b name="fghk14" sc="1" dl="0">
+          <f x="-368.6" y="131" cocos2d_x="-368.6" cocos2d_y="131" kX="-81.8" kY="-81.8" cX="0.04" cY="0.19" fst="0" pX="0" pY="0" z="15" dI="0" dr="80" />
+        </b>
+        <b name="fghk15" sc="1" dl="0">
+          <f x="370.2" y="133.05" cocos2d_x="370.2" cocos2d_y="133.05" kX="-99.14" kY="-99.17" cX="0.04" cY="0.22" fst="0" pX="0" pY="0" z="16" dI="0" dr="80" />
+        </b>
+        <b name="fghk16" sc="1" dl="0">
+          <f x="106.3" y="76.55" cocos2d_x="106.3" cocos2d_y="76.55" kX="-7.48" kY="-7.47" cX="0.1" cY="0.12" fst="0" pX="0" pY="0" z="17" dI="0" dr="80" />
+        </b>
+        <b name="fghk17" sc="1" dl="0">
+          <f x="99.75" y="119.7" cocos2d_x="99.75" cocos2d_y="119.7" kX="86.63" kY="-93.42" cX="0.02" cY="0.11" fst="0" pX="0" pY="0" z="18" dI="0" dr="80" />
+        </b>
+        <b name="fghk18" sc="1" dl="0">
+          <f x="116.55" y="-88.45" cocos2d_x="116.55" cocos2d_y="-88.45" kX="-173.05" kY="6.93" cX="0.03" cY="0.31" fst="0" pX="0" pY="0" z="19" dI="0" dr="80" />
+        </b>
+        <b name="fghk19" sc="1" dl="0">
+          <f x="66.2" y="100.4" cocos2d_x="66.2" cocos2d_y="100.4" kX="0" kY="0" cX="0.03" cY="0.1" fst="0" pX="0" pY="0" z="20" dI="0" dr="80" />
+        </b>
+        <b name="fghk20" sc="1" dl="0">
+          <f x="66.85" y="116.1" cocos2d_x="66.85" cocos2d_y="116.1" kX="-90" kY="-90" cX="0.02" cY="0.12" fst="0" pX="0" pY="0" z="21" dI="0" dr="80" />
+        </b>
+        <b name="fghk21" sc="1" dl="0">
+          <f x="65.1" y="58" cocos2d_x="65.1" cocos2d_y="58" kX="-90" kY="-90" cX="0.03" cY="0.12" fst="0" pX="0" pY="0" z="22" dI="0" dr="80" />
+        </b>
+        <b name="fghk22" sc="1" dl="0">
+          <f x="15.9" y="60.4" cocos2d_x="15.9" cocos2d_y="60.4" kX="90.01" kY="90" cX="0.02" cY="0.25" fst="0" pX="0" pY="0" z="23" dI="0" dr="80" />
+        </b>
+        <b name="fghk23" sc="1" dl="0">
+          <f x="58.25" y="42.9" cocos2d_x="58.25" cocos2d_y="42.9" kX="90" kY="90" cX="0.02" cY="0.07" fst="0" pX="0" pY="0" z="24" dI="0" dr="80" />
+        </b>
+        <b name="fghk24" sc="1" dl="0">
+          <f x="249.25" y="125.15" cocos2d_x="249.25" cocos2d_y="125.15" kX="-71.22" kY="-71.2" cX="0.03" cY="0.25" fst="0" pX="0" pY="0" z="25" dI="0" dr="80" />
+        </b>
+        <b name="fghk25" sc="1" dl="0">
+          <f x="218.45" y="133.2" cocos2d_x="218.45" cocos2d_y="133.2" kX="-89.92" kY="-89.92" cX="0.03" cY="0.25" fst="0" pX="0" pY="0" z="26" dI="0" dr="80" />
+        </b>
+        <b name="fghk26" sc="1" dl="0">
+          <f x="-226.45" y="49.5" cocos2d_x="-226.45" cocos2d_y="49.5" kX="0" kY="180" cX="0.05" cY="0.82" fst="0" pX="0" pY="0" z="27" dI="0" dr="80" />
+        </b>
+        <b name="fghk27" sc="1" dl="0">
+          <f x="-178.2" y="-5.5" cocos2d_x="-178.2" cocos2d_y="-5.5" kX="0" kY="0" cX="0.03" cY="0.29" fst="0" pX="0" pY="0" z="28" dI="0" dr="80" />
+        </b>
+        <b name="fghk28" sc="1" dl="0">
+          <f x="-172.7" y="118.95" cocos2d_x="-172.7" cocos2d_y="118.95" kX="-87.14" kY="-87.09" cX="0.02" cY="0.09" fst="0" pX="0" pY="0" z="29" dI="0" dr="80" />
+        </b>
+        <b name="fghk29" sc="1" dl="0">
+          <f x="-126.35" y="-17.45" cocos2d_x="-126.35" cocos2d_y="-17.45" kX="180" kY="180" cX="0.03" cY="0.19" fst="0" pX="0" pY="0" z="30" dI="0" dr="80" />
+        </b>
+        <b name="fghk30" sc="1" dl="0">
+          <f x="-176.2" y="85.2" cocos2d_x="-176.2" cocos2d_y="85.2" kX="0" kY="180" cX="0.1" cY="0.1" fst="0" pX="0" pY="0" z="31" dI="0" dr="80" />
+        </b>
+        <b name="fghk31" sc="1" dl="0">
+          <f x="-104.25" y="79.65" cocos2d_x="-104.25" cocos2d_y="79.65" kX="7.48" kY="-172.53" cX="0.1" cY="0.12" fst="0" pX="0" pY="0" z="32" dI="0" dr="80" />
+        </b>
+        <b name="fghk32" sc="1" dl="0">
+          <f x="-97.8" y="119.9" cocos2d_x="-97.8" cocos2d_y="119.9" kX="-88.89" kY="-88.87" cX="0.02" cY="0.11" fst="0" pX="0" pY="0" z="33" dI="0" dr="80" />
+        </b>
+        <b name="fghk33" sc="1" dl="0">
+          <f x="-125.3" y="-86.65" cocos2d_x="-125.3" cocos2d_y="-86.65" kX="173.05" kY="173.07" cX="0.03" cY="0.31" fst="0" pX="0" pY="0" z="34" dI="0" dr="80" />
+        </b>
+        <b name="fghk34" sc="1" dl="0">
+          <f x="-66.05" y="99" cocos2d_x="-66.05" cocos2d_y="99" kX="0" kY="180" cX="0.03" cY="0.1" fst="0" pX="0" pY="0" z="35" dI="0" dr="80" />
+        </b>
+        <b name="fghk35" sc="1" dl="0">
+          <f x="-65.3" y="116.3" cocos2d_x="-65.3" cocos2d_y="116.3" kX="90" kY="-90" cX="0.02" cY="0.12" fst="0" pX="0" pY="0" z="36" dI="0" dr="80" />
+        </b>
+        <b name="fghk36" sc="1" dl="0">
+          <f x="-66.85" y="57.2" cocos2d_x="-66.85" cocos2d_y="57.2" kX="90" kY="-90" cX="0.03" cY="0.12" fst="0" pX="0" pY="0" z="37" dI="0" dr="80" />
+        </b>
+        <b name="fghk37" sc="1" dl="0">
+          <f x="-59.7" y="40.7" cocos2d_x="-59.7" cocos2d_y="40.7" kX="-90" kY="90" cX="0.02" cY="0.07" fst="0" pX="0" pY="0" z="38" dI="0" dr="80" />
+        </b>
+        <b name="fghk38" sc="1" dl="0">
+          <f x="-249.25" y="125.6" cocos2d_x="-249.25" cocos2d_y="125.6" kX="71.22" kY="-108.8" cX="0.03" cY="0.25" fst="0" pX="0" pY="0" z="39" dI="0" dr="80" />
+        </b>
+        <b name="fghk39" sc="1" dl="0">
+          <f x="-218.45" y="133.65" cocos2d_x="-218.45" cocos2d_y="133.65" kX="89.92" kY="-90.08" cX="0.03" cY="0.25" fst="0" pX="0" pY="0" z="40" dI="0" dr="80" />
+        </b>
+        <b name="fghk40" sc="1" dl="0">
+          <f x="29.35" y="-2.4" cocos2d_x="29.35" cocos2d_y="-2.4" kX="-56.55" kY="123.45" cX="0.08" cY="0.09" fst="0" pX="0" pY="0" z="41" dI="0" dr="80">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.4" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+        <b name="fghk41" sc="1" dl="0">
+          <f x="-27.95" y="-1.4" cocos2d_x="-27.95" cocos2d_y="-1.4" kX="56.55" kY="56.55" cX="0.08" cY="0.09" fst="0" pX="0" pY="0" z="42" dI="0" dr="80">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.4" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+        <b name="fghk42" sc="1" dl="0">
+          <f x="5.3" y="18.05" cocos2d_x="5.3" cocos2d_y="18.05" kX="-28.75" kY="149.65" cX="0.07" cY="0.09" fst="0" pX="0" pY="0" z="43" dI="0" dr="80">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.5" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+        <b name="fghk43" sc="1" dl="0">
+          <f x="-55.6" y="2.5" cocos2d_x="-55.6" cocos2d_y="2.5" kX="-126.5" kY="53.5" cX="0.02" cY="0.05" fst="0" pX="0" pY="0" z="44" dI="0" dr="80" />
+        </b>
+        <b name="fghk44" sc="1" dl="0">
+          <f x="54.55" y="1.9" cocos2d_x="54.55" cocos2d_y="1.9" kX="126.5" kY="126.5" cX="0.02" cY="0.05" fst="0" pX="0" pY="0" z="45" dI="0" dr="80" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="shenlongjiao/1452054">
+      <mov name="csaas" dr="80" to="0" drTW="80" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="3.98" kY="3.98" cX="1.05" cY="1.05" pX="0" pY="0" z="0" dI="0" blend="normal" twE="1" dr="39">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.8" rM="1" gM="1" bM="1" />
+          </f>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="3.98" kY="3.98" cX="0.83" cY="0.83" pX="0" pY="0" z="0" dI="0" blend="normal" twE="1" dr="40">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.27" rM="1" gM="1" bM="1" />
+          </f>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="3.98" kY="3.98" cX="1.05" cY="1.05" pX="0" pY="0" z="0" dI="0" blend="normal" dr="1" twE="NaN">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0.8" rM="1" gM="1" bM="1" />
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="shenlongjiao/dasdadaacca">
+      <mov name="sdasdadasada" dr="80" to="0" drTW="80" lp="1" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-0.05" y="-54.5" cocos2d_x="2.6" cocos2d_y="-0.05" kX="-1.42" kY="-1.42" cX="1" cY="1" pX="-1.3" pY="-54.5" z="0" dI="0" blend="normal" twE="0" dr="19" />
+          <f x="-1.7" y="-54.65" cocos2d_x="-2.55" cocos2d_y="-0.05" kX="2.26" kY="2.26" cX="1" cY="1" pX="-1.3" pY="-54.6" z="0" dI="0" blend="normal" twE="0" dr="20" />
+          <f x="0.15" y="-54.5" cocos2d_x="2.95" cocos2d_y="0.05" kX="-1.63" kY="-1.63" cX="1" cY="1" pX="-1.25" pY="-54.65" z="0" dI="0" blend="normal" twE="0" dr="20" />
+          <f x="-0.95" y="-54.65" cocos2d_x="-2.5" cocos2d_y="-0.1" kX="2.98" kY="2.98" cX="1" cY="1" pX="-1.3" pY="-54.6" z="0" dI="0" blend="normal" twE="0" dr="20" />
+          <f x="-0.15" y="-54.45" cocos2d_x="2.5" cocos2d_y="0" kX="-1.42" kY="-1.42" cX="1" cY="1" pX="-1.3" pY="-54.5" z="0" dI="0" blend="normal" dr="1" twE="NaN" />
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="1.15" y="-23.15" cocos2d_x="1.2" cocos2d_y="-23.15" kX="-2.95" kY="-2.95" cX="0.9" cY="1.12" fst="39" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="19" />
+          <f x="-2.5" y="-23.2" cocos2d_x="-2.45" cocos2d_y="-23.2" kX="0.74" kY="0.73" cX="0.9" cY="1.12" fst="58" pX="-0.1" pY="0" z="1" dI="0" twE="0" dr="20" />
+          <f x="1.4" y="-23.1" cocos2d_x="1.45" cocos2d_y="-23.1" kX="-3.16" kY="-3.16" cX="0.9" cY="1.12" fst="78" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="20" />
+          <f x="-2.1" y="-23.3" cocos2d_x="-2.1" cocos2d_y="-23.3" kX="1.45" kY="1.45" cX="0.9" cY="1.12" fst="18" pX="0" pY="0" z="1" dI="0" twE="0" dr="20" />
+          <f x="1.05" y="-23.1" cocos2d_x="1.1" cocos2d_y="-23.1" kX="-2.95" kY="-2.95" cX="0.9" cY="1.12" fst="38" pX="-0.05" pY="0" z="1" dI="0" dr="1" twE="NaN" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="shenlongjiao/56304345">
+      <mov name="vsddssd" dr="80" to="0" drTW="80" lp="1" twE="NaN">
+        <b name="dasdadaacca" sc="1" dl="0">
+          <f x="-423.95" y="-57.65" cocos2d_x="-423.95" cocos2d_y="10.4" kX="0" kY="0" cX="1.28" cY="1.28" fst="9" pX="0" pY="-53.05" z="0" dI="0" dr="80" />
+        </b>
+        <b name="dasdadaacca0" sc="1" dl="0">
+          <f x="-359.95" y="-40.65" cocos2d_x="-359.95" cocos2d_y="10.65" kX="0" kY="0" cX="0.97" cY="0.97" fst="6" pX="0" pY="-53.15" z="1" dI="0" dr="80" />
+        </b>
+        <b name="dasdadaacca1" sc="1" dl="0">
+          <f x="423.35" y="-57.65" cocos2d_x="423.35" cocos2d_y="10.4" kX="0" kY="0" cX="1.28" cY="1.28" fst="14" pX="0" pY="-53.05" z="2" dI="0" dr="80" />
+        </b>
+        <b name="dasdadaacca2" sc="1" dl="0">
+          <f x="359.35" y="-40.65" cocos2d_x="359.35" cocos2d_y="10.65" kX="0" kY="0" cX="0.97" cY="0.97" fst="12" pX="0" pY="-53.15" z="3" dI="0" dr="80" />
+        </b>
+      </mov>
+    </animation>
+    <animation name="anim">
+      <mov name="anim" dr="80" to="0" drTW="80" lp="1" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="4.6" y="-179.35" cocos2d_x="4.55" cocos2d_y="-182.35" kX="0" kY="0" cX="1" cY="1" fst="0" pX="0.05" pY="3" z="0" dI="0" dr="80" />
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="7.05" y="-273.9" cocos2d_x="7.1" cocos2d_y="-275.45" kX="0" kY="0" cX="1" cY="1" fst="0" pX="-0.05" pY="1.55" z="1" dI="0" dr="80" />
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="天地会 - 输出(前景)" width="256" height="128">
+    <SubTexture name="shenlongjiao-420354" width="80" height="93" x="0" y="0" cocos2d_pX="39.70" cocos2d_pY="46.20" />
+    <SubTexture name="shenlongjiao-25054" width="35" height="113" x="162" y="0" cocos2d_pX="18.00" cocos2d_pY="51.10" />
+    <SubTexture name="shenlongjiao-gfhkghk" width="80" height="80" x="81" y="0" cocos2d_pX="40.10" cocos2d_pY="40.10" />
+  </TextureAtlas>
+</skeleton>

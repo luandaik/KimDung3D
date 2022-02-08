@@ -1,0 +1,10 @@
+local mapArray = MEMapArray:new()
+mapArray:push({ id = 1, name = "Open Server quà", content = "Tiêu đề: Open Server quà thời gian hoạt động：2014.9.23——2014.10.2\Trong hoạt động cho: Open Server hữu lễ, quần hào phổ trước 100 vị đồng học, chúng ta đưa nhuyễn muội tử một vị", comment = "Nhân vật"})
+mapArray:push({ id = 2, name = "Nạp tiền trả lại", content = "Tiêu đề: Nạp tiền trả lại thời gian hoạt động：2014.9.23——2014.10.2\trong hoạt động cho: Nạp tiền 1 khối, chúng ta trở lại hiện 2 khối, mạo xưng càng nhiều, chúng ta trở lại càng nhiều。(không cần để ý những chi tiết này, trả về kim ngạch chúng ta sẽ ở 2099 trả về)", comment = "Vật phẩm"})
+mapArray:push({ id = 3, name = "Lắc Nguyên Bảo", content = "Tiêu đề: Lắc ra Nguyên Bảon thời gian hoạt động：2014.9.23——2014.10.2\n活动内容：我们的游戏可以摇出元宝，不信你试试！（注：若没有摇出来，肯定是操作手法的问题）", comment = "Quỳ Hoa Bảo Điển"})
+mapArray:push({ id = 4, name = "Nạp gấp ba", content = "Tiêu đề: Nạp x3 thời gian hoạt động：2014.9.23——2014.10.2\n活动内容：首次充值可获得3倍的元宝奖励。", comment = "Nhân vật"})
+mapArray:push({ id = 5, name = "Hoạt động bốn", content = "标题：活动四\n活动时间：2014.9.23——2014.10.2\n活动内容：就是一个坑钱的活动，冲的越多，我们越开心。", comment = "Vật phẩm"})
+mapArray:push({ id = 6, name = "Hoạt động năm", content = "标题：活动五\n活动时间：2014.9.23——2014.10.2\n活动内容：就是一个坑钱的活动，冲的少了，我们不开心。", comment = "Quỳ Hoa Bảo Điển"})
+mapArray:push({ id = 7, name = "Hoạt động sáu", content = "标题：活动六\n活动时间：2014.9.23——2014.10.2\n活动内容：这个活动不算坑，纯属福利。", comment = "Nhân vật"})
+mapArray:push({ id = 8, name = "Hoạt động bảy", content = "标题：活动七\n活动时间：2014.9.23——2014.10.2\n活动内容：看到此活动者，奖励1000万RMB，找18层Ａ１戴哥领取即可，不谢！", comment = "Vật phẩm"})
+return mapArray
